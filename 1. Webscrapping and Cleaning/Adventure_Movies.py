@@ -212,5 +212,3 @@ df['Gross (Millions)'] = df['Gross (Millions)'].str.replace('M', '')
 print(df)
 
 df.to_csv('Film_' + str(start_page*50) + '_' + str(break_page*50) + 'data.csv', index=False)
-
-print('sinead im testing')
