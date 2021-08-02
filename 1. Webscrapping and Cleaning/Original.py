@@ -6,13 +6,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# import selenium
-# from selenium import webdriver
-# from time import sleep
-# import pandas as pd
-# import matplotlib as plt
-# import seaborn as sns
-
 #variables
 title_list = []
 year_list = []
@@ -20,6 +13,7 @@ ratings_list = []
 total_metascore = []
 director_list = []
 total_votes = []
+total_vote_count = []
 total_gross = []
 genre_list = []
 total_duration = []
@@ -29,13 +23,13 @@ actor_list3 = []
 actor_list4 = []
 age_list = []
 
-#range look for the webpages range(0,1) is the first page 
-start_page, last_page = 0 , 50
+#pages you want to scrape 
+start_page, last_page = 0 , 1
 break_page = last_page + 1
 
 page = range(start_page, break_page)
 
-
+#iterates through the pages (line 34)
 for it in page:
     url = "https://www.imdb.com/search/title/?title_type=feature&genres=adventure&sort=num_votes,desc&start=" + str(1+50*it) + "&explore=genres&ref_=adv_nxt"
 
@@ -47,17 +41,21 @@ for it in page:
     driver.get(url)
     sleep(3)
 
-
+    # m,n are the number of movies displayed on the website (50 movies per page)
     m = 1
     n = 51
     
+    #below i will loop through every movie and grabbing the element using xpath and storing into a list as text
+    #using try and except so when it tries to find the element and fails it will just put a blank value instead of breaking code.
+    #some failed values i will append 0 because it is a quantity feature.
 
+    #title
     for i in range(m,n):
         try:
             title = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div[' + str(i) + ']/div[3]/h3/a')
             title_list.append(title.text)
         except Exception:
-            title_list.append(" ")
+            title_list.append(np.nan)
 
     #year
     for i in range(m,n):
@@ -65,7 +63,7 @@ for it in page:
             year = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div[' + str(i) + ']/div[3]/h3/span[2]')
             year_list.append(year.text)
         except Exception:
-            year_list.append(" ")
+            year_list.append(np.nan)
 
     #rating
     for i in range(m,n):
@@ -73,7 +71,7 @@ for it in page:
             ratings = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div[' + str(i) + ']/div[3]/div/div[1]/strong')
             ratings_list.append(ratings.text)
         except Exception:
-            ratings_list.append(0)
+            ratings_list.append(np.nan)
 
     #meta score
     for i in range(m,n):
@@ -81,7 +79,7 @@ for it in page:
             metascore = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div[' + str(i) +  ']/div[3]/div/div[3]/span')
             total_metascore.append(metascore.text)
         except Exception:
-            total_metascore.append(0)
+            total_metascore.append(np.nan)
 
     #Director
     for i in range(m,n):
@@ -89,7 +87,7 @@ for it in page:
             director = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div[' + str(i) + ']/div[3]/p[3]/a[1]')
             director_list.append(director.text)
         except Exception:
-            director_list.append(" ")
+            director_list.append(np.nan)
 
     #film stars
     for i in range(m,n):
@@ -99,25 +97,25 @@ for it in page:
                         actors = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div['+str(i)+']/div[3]/p[3]/a['+str(j)+']')
                         actor_list1.append(actors.text)
                     except Exception:
-                        actor_list1.append(" ")
+                        actor_list1.append(np.nan)
                 elif j == 3:
                     try:
                         actors = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div['+str(i)+']/div[3]/p[3]/a['+str(j)+']')
                         actor_list2.append(actors.text)
                     except Exception:
-                        actor_list2.append(" ")
+                        actor_list2.append(np.nan)
                 elif j == 4:
                     try:
                         actors = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div['+str(i)+']/div[3]/p[3]/a['+str(j)+']')
                         actor_list3.append(actors.text)
                     except Exception:
-                        actor_list3.append(" ")
+                        actor_list3.append(np.nan)
                 else:
                     try:
                         actors = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div['+str(i)+']/div[3]/p[3]/a['+str(j)+']')
                         actor_list4.append(actors.text)
                     except Exception:
-                        actor_list4.append(" ")
+                        actor_list4.append(np.nan)
         
     #votes
     for i in range(m,n):
@@ -125,7 +123,7 @@ for it in page:
             stars = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div[' + str(i) + ']/div[3]/div/div[1]/strong')
             total_votes.append(stars.text)
         except Exception:
-            total_votes.append(0)
+            total_votes.append(np.nan)
 
     #gross
     for i in range(m,n):
@@ -133,13 +131,16 @@ for it in page:
             gross = driver.find_element_by_xpath('//html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div[' + str(i) + ']/div[3]/p[4]/span[5]')
             total_gross.append(gross.text)
         except Exception:
-            total_gross.append(0)
+            total_gross.append(np.nan)
 
 
     #genre
-    genre = driver.find_elements_by_xpath('//span[@class="genre"]')
-    for row in genre:
-        genre_list.append(row.text)
+    for i in range(m,n):
+        try:
+            genre = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div[' + str(i) + ']/div[3]/p[1]/span[5]')
+            genre_list.append(genre.text)
+        except Exception:
+            genre_list.append(np.nan)
 
     # duration
     for i in range(m,n):
@@ -147,7 +148,7 @@ for it in page:
             Duration = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div[' + str(i) + ']/div[3]/p[1]/span[3]')
             total_duration.append(Duration.text)
         except Exception:
-            total_duration.append(" ")
+            total_duration.append(np.nan)
             
     #age
     for i in range(m,n):
@@ -155,17 +156,23 @@ for it in page:
             age = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div[' + str(i) + ']/div[3]/p[1]/span[1]')
             age_list.append(age.text)
         except Exception:
-            age_list.append(" ")
+            age_list.append(np.nan)
+
+    #Vote count        
+    for i in range(m,n):
+        try:
+            vote_count = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div[' + str(i) + ']/div[3]/p[4]/span[2]')
+            total_vote_count.append(vote_count.text)
+        except Exception:
+            total_vote_count.append(np.nan)
     
     sleep(3)
     
-            
-clean_total_metascore = []
-clean_total_duration = []
 
+#putting all lists into a dictionary
 data = {'Title' : title_list, 'Year' : year_list, 'Ratings' : ratings_list,
-        'Director' : director_list,'Metascore' : total_metascore,'Votes' : total_votes , 'Gross (Millions)' : total_gross,
-        'Genre' : genre_list , 'Duration (min)' : total_duration, 'Age' : age_list , 
+        'Director' : director_list,'Metascore' : total_metascore,'Votes' : total_votes ,'Vote Count' : total_vote_count ,
+         'Gross (Millions)' : total_gross, 'Genre' : genre_list , 'Duration (min)' : total_duration, 'Age' : age_list , 
         'Actor 1' : actor_list1, 'Actor 2' : actor_list2,
         'Actor 3' : actor_list3, 'Actor 4' : actor_list4 
         }
@@ -176,27 +183,15 @@ for i in page:
 
 df = pd.DataFrame(data)
 
-# df['Title'] = df['Title'].str.replace('Na', '')
-# df['Year'] = df['Year'].str.replace('Na', '')
-# df['Ratings'] = df['Ratings'].str.replace('Na', '')
-# df['Director'] = df['Director'].str.replace('Na', '')
-# df['Metascore'] = df['Metascore'].str.replace('Na', '')
-# df['Votes'] = df['Votes'].str.replace('Na', '')
-# df['Gross (Millions)'] = df['Gross (Millions)'].str.replace('Na', '0')
-# df['Genre'] = df['Genre'].str.replace('Na', '')
-# df['Duration (min)'] = df['Duration (min)'].str.replace('Na', '')
-# df['Age'] = df['Age'].str.replace('Na', '')
-# df['Actor 1'] = df['Actor 1'].str.replace('Na', '')
-# df['Actor 2'] = df['Actor 2'].str.replace('Na', '')
-# df['Actor 3'] = df['Actor 3'].str.replace('Na', '')
-# df['Actor 4'] = df['Actor 4'].str.replace('Na', '')
 
+#cleaning using regex
 df['Age'] = df['Age'].str.replace('([0-9]+\smin)', '', regex=True)
 df['Duration (min)'] = df['Duration (min)'].str.replace('[^0-9]','', regex=True)
 
+#some small cleaning using replace:
 df['Metascore'] = df['Metascore'].str.replace('Metascore', '')
 df['Duration (min)'] = df['Duration (min)'].str.replace('min', '')
-
+df['Genre'] = df['Genre'].str.replace('Adventure,', " ")
 
 df['Year'] = df['Year'].str.replace('(', '')
 df['Year'] = df['Year'].str.replace(')', '')
@@ -204,6 +199,11 @@ df['Year'] = df['Year'].str.replace('I', '')
 df['Gross (Millions)'] = df['Gross (Millions)'].str.replace('$', '')
 df['Gross (Millions)'] = df['Gross (Millions)'].str.replace('M', '')
 
+#splitting Genre into sub genres
+multi_columns = lambda x: pd.Series([i for i in reversed(x.strip().split(','))])
+new_columns = df['Genre'].apply(multi_columns)
+new_columns.rename(columns={0:'Sub Genre 1', 1:'Sub Genre 2'},inplace=True)
+new_columns = new_columns[['Sub Genre 1','Sub Genre 2']]
 
 # df = df.astype({'Gross (Millions)': np.float64})
 # df = df.astype({'Ratings': np.float64})
@@ -211,4 +211,9 @@ df['Gross (Millions)'] = df['Gross (Millions)'].str.replace('M', '')
 
 print(df)
 
-df.to_csv('Film_' + str(start_page*50) + '_' + str(break_page*50) + 'data.csv', index=False)
+df.to_csv('Film_' + str(start_page*50) + '_' + str(break_page*50) + '_data.csv', index=False)
+
+
+#to do
+#https://www.imdb.com/search/title/?title_type=feature&genres=adventure&sort=num_votes,desc&start=9951&explore=genres&ref_=adv_nxt
+#beyond this page, use click()
