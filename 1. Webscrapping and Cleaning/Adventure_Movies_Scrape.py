@@ -24,7 +24,7 @@ actor_list4 = []
 age_list = []
 
 #pages you want to scrape 
-start_page, last_page = 0 , 1
+start_page, last_page = 0 , 199
 break_page = last_page + 1
 
 page = range(start_page, break_page)
@@ -166,7 +166,7 @@ for it in page:
         except Exception:
             total_vote_count.append(np.nan)
     
-    sleep(3)
+    sleep(1)
     
 
 #putting all lists into a dictionary
@@ -182,7 +182,7 @@ df = pd.DataFrame(data)
 
 print(df)
 
-df.to_csv('Film_' + str(start_page*50) + '_' + str(break_page*50) + '_data.csv', index=False)
+df.to_csv('Adventure_Movies_' + str(start_page*50) + '_' + str(break_page*50) + '_data.csv', index=False)
 
 
 #to do
