@@ -12,7 +12,6 @@ year_list = []
 ratings_list = []
 total_metascore = []
 director_list = []
-total_votes = []
 total_vote_count = []
 total_gross = []
 genre_list = []
@@ -116,14 +115,6 @@ for it in page:
                         actor_list4.append(actors.text)
                     except Exception:
                         actor_list4.append(np.nan)
-        
-    #votes
-    for i in range(m,n):
-        try:
-            stars = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div[3]/div[1]/div/div[3]/div/div[' + str(i) + ']/div[3]/div/div[1]/strong')
-            total_votes.append(stars.text)
-        except Exception:
-            total_votes.append(np.nan)
 
     #gross
     for i in range(m,n):
@@ -171,7 +162,7 @@ for it in page:
 
 #putting all lists into a dictionary
 data = {'Title' : title_list, 'Year' : year_list, 'Ratings' : ratings_list,
-        'Director' : director_list,'Metascore' : total_metascore,'Votes' : total_votes ,'Vote Count' : total_vote_count ,
+        'Director' : director_list,'Metascore' : total_metascore,'Vote Count' : total_vote_count ,
          'Gross (Millions)' : total_gross, 'Genre' : genre_list , 'Duration (min)' : total_duration, 'Age' : age_list , 
         'Actor 1' : actor_list1, 'Actor 2' : actor_list2,
         'Actor 3' : actor_list3, 'Actor 4' : actor_list4 

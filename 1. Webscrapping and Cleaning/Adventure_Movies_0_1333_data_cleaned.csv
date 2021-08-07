@@ -1,0 +1,1334 @@
+Title,Year,Ratings,Director,Metascore,Vote Count,Gross (Millions),Duration (min),Age,Actor 1,Actor 2,Actor 3,Actor 4,Sub Genre 1,Sub Genre 2
+Inception,2010,8.8,Christopher Nolan,74.0,"2,142,987",292.58,148,12A,Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,Ken Watanabe,Action,SciFi
+The Lord of the Rings: The Fellowship of the Ring,2001,8.8,Peter Jackson,92.0,"1,712,922",315.54,178,PG,Elijah Wood,Ian McKellen,Orlando Bloom,Sean Bean,Action,Drama
+The Lord of the Rings: The Return of the King,2003,8.9,Peter Jackson,94.0,"1,691,681",377.85,201,12A,Elijah Wood,Viggo Mortensen,Ian McKellen,Orlando Bloom,Action,Drama
+Interstellar,2014,8.6,Christopher Nolan,74.0,"1,588,112",188.02,169,12A,Matthew McConaughey,Anne Hathaway,Jessica Chastain,Mackenzie Foy,Drama,SciFi
+The Dark Knight Rises,2012,8.4,Christopher Nolan,78.0,"1,561,691",448.14,164,12A,Christian Bale,Tom Hardy,Anne Hathaway,Gary Oldman,Action,
+The Lord of the Rings: The Two Towers,2002,8.7,Peter Jackson,87.0,"1,529,673",342.55,179,12A,Elijah Wood,Ian McKellen,Viggo Mortensen,Orlando Bloom,Action,Drama
+Gladiator,2000,8.5,Ridley Scott,67.0,"1,384,024",187.71,155,15,Russell Crowe,Joaquin Phoenix,Connie Nielsen,Oliver Reed,Action,Drama
+Batman Begins,2005,8.2,Christopher Nolan,70.0,"1,346,459",206.85,140,12A,Christian Bale,Michael Caine,Ken Watanabe,Liam Neeson,Action,
+Inglourious Basterds,2009,8.3,Quentin Tarantino,69.0,"1,315,869",120.54,153,18,Brad Pitt,Diane Kruger,Eli Roth,Mélanie Laurent,Drama,War
+Avengers Assemble,2012,8.0,Joss Whedon,69.0,"1,295,897",623.28,143,12A,Robert Downey Jr.,Chris Evans,Scarlett Johansson,Jeremy Renner,Action,SciFi
+Star Wars: Episode IV - A New Hope,1977,8.6,George Lucas,90.0,"1,264,830",322.74,121,U,Mark Hamill,Harrison Ford,Carrie Fisher,Alec Guinness,Action,Fantasy
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7,Irvin Kershner,82.0,"1,192,725",290.48,124,U,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,Action,Fantasy
+Avatar,2009,7.8,James Cameron,83.0,"1,147,024",760.51,162,12A,Sam Worthington,Zoe Saldana,Sigourney Weaver,Michelle Rodriguez,Action,Fantasy
+Back to the Future,1985,8.5,Robert Zemeckis,87.0,"1,098,656",210.61,116,PG,Michael J. Fox,Christopher Lloyd,Lea Thompson,Crispin Glover,Comedy,SciFi
+Guardians of the Galaxy,2014,8.0,James Gunn,76.0,"1,079,085",333.18,121,12A,Chris Pratt,Vin Diesel,Bradley Cooper,Zoe Saldana,Action,Comedy
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.0,Gore Verbinski,63.0,"1,037,501",305.41,143,12A,Johnny Depp,Geoffrey Rush,Orlando Bloom,Keira Knightley,Action,Fantasy
+WALL·E,2008,8.4,Andrew Stanton,95.0,"1,031,416",223.81,98,U,Ben Burtt,Elissa Knight,Jeff Garlin,Fred Willard,Animation,Family
+Star Wars: Return of the Jedi,1983,8.3,Richard Marquand,58.0,"977,079",309.13,131,U,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,Action,Fantasy
+Finding Nemo,2003,8.1,Andrew Stanton,90.0,"974,908",380.84,100,U,Lee Unkrich,Albert Brooks,Ellen DeGeneres,Alexander Gould,Animation,Comedy
+The Lion King,1994,8.5,Roger Allers,88.0,"972,871",422.78,88,U,Rob Minkoff,Matthew Broderick,Jeremy Irons,James Earl Jones,Animation,Drama
+Iron Man,2008,7.9,Jon Favreau,79.0,"972,416",318.41,126,12A,Robert Downey Jr.,Gwyneth Paltrow,Terrence Howard,Jeff Bridges,Action,SciFi
+Up,2009,8.2,Pete Docter,88.0,"964,955",293.00,96,U,Bob Peterson,Edward Asner,Jordan Nagai,John Ratzenberger,Animation,Comedy
+Deadpool,2016,8.0,Tim Miller,65.0,"935,621",363.07,108,15,Ryan Reynolds,Morena Baccarin,T.J. Miller,Ed Skrein,Action,Comedy
+Toy Story,1995,8.3,John Lasseter,95.0,"917,016",191.80,81,PG,Tom Hanks,Tim Allen,Don Rickles,Jim Varney,Animation,Comedy
+Mad Max: Fury Road,2015,8.1,George Miller,90.0,"915,626",154.06,120,15,Tom Hardy,Charlize Theron,Nicholas Hoult,Zoë Kravitz,Action,SciFi
+Avengers: Endgame,2019,8.4,Anthony Russo,78.0,"912,601",858.37,181,12A,Joe Russo,Robert Downey Jr.,Chris Evans,Mark Ruffalo,Action,Drama
+Raiders of the Lost Ark,1981,8.4,Steven Spielberg,85.0,"908,666",248.16,115,A,Harrison Ford,Karen Allen,Paul Freeman,John Rhys-Davies,Action,
+Avengers: Infinity War,2018,8.4,Anthony Russo,68.0,"903,106",678.82,149,12A,Joe Russo,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,Action,SciFi
+Jurassic Park,1993,8.1,Steven Spielberg,68.0,"897,365",402.45,127,PG,Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough,Action,SciFi
+Star Wars: Episode VII - The Force Awakens,2015,7.8,J.J. Abrams,80.0,"878,322",936.66,138,12A,Daisy Ridley,John Boyega,Oscar Isaac,Domhnall Gleeson,Action,SciFi
+The Hunger Games,2012,7.2,Gary Ross,68.0,"864,247",408.01,142,12A,Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth,Stanley Tucci,Action,SciFi
+"Monsters, Inc.",2001,8.1,Pete Docter,79.0,"841,929",289.92,92,U,David Silverman,Lee Unkrich,Billy Crystal,John Goodman,Animation,Comedy
+Harry Potter and the Deathly Hallows: Part 2,2011,8.1,David Yates,85.0,"793,088",381.01,130,12A,Daniel Radcliffe,Emma Watson,Rupert Grint,Michael Gambon,Drama,Fantasy
+The Martian,2015,8.0,Ridley Scott,80.0,"786,137",228.43,144,12A,Matt Damon,Jessica Chastain,Kristen Wiig,Kate Mara,Drama,SciFi
+Iron Man 3,2013,7.1,Shane Black,62.0,"781,812",409.01,130,12A,Robert Downey Jr.,Guy Pearce,Gwyneth Paltrow,Don Cheadle,Action,SciFi
+Avengers: Age of Ultron,2015,7.3,Joss Whedon,66.0,"780,244",459.01,141,12A,Robert Downey Jr.,Chris Evans,Mark Ruffalo,Chris Hemsworth,Action,SciFi
+Toy Story 3,2010,8.2,Lee Unkrich,92.0,"778,343",415.00,103,U,Tom Hanks,Tim Allen,Joan Cusack,Ned Beatty,Animation,Comedy
+Thor,2011,7.0,Kenneth Branagh,57.0,"774,582",181.03,115,12A,Chris Hemsworth,Anthony Hopkins,Natalie Portman,Tom Hiddleston,Action,Fantasy
+Captain America: The First Avenger,2011,6.9,Joe Johnston,66.0,"772,557",176.65,124,12A,Chris Evans,Hugo Weaving,Samuel L. Jackson,Hayley Atwell,Action,SciFi
+Captain America: The Winter Soldier,2014,7.7,Anthony Russo,70.0,"767,088",259.77,136,12A,Joe Russo,Chris Evans,Samuel L. Jackson,Scarlett Johansson,Action,SciFi
+Star Wars: Episode I - The Phantom Menace,1999,6.5,George Lucas,51.0,"749,817",474.54,136,U,Ewan McGregor,Liam Neeson,Natalie Portman,Jake Lloyd,Action,Fantasy
+Iron Man 2,2010,7.0,Jon Favreau,57.0,"749,046",312.43,124,12A,Robert Downey Jr.,Mickey Rourke,Gwyneth Paltrow,Don Cheadle,Action,SciFi
+The Grand Budapest Hotel,2014,8.1,Wes Anderson,88.0,"736,434",59.10,99,15,Ralph Fiennes,F. Murray Abraham,Mathieu Amalric,Adrien Brody,Comedy,Crime
+The Revenant,2015,8.0,Alejandro G. Iñárritu,76.0,"732,182",183.64,156,15,Leonardo DiCaprio,Tom Hardy,Will Poulter,Domhnall Gleeson,Action,Drama
+Star Wars: Episode III - Revenge of the Sith,2005,7.5,George Lucas,68.0,"731,370",380.26,140,12A,Hayden Christensen,Natalie Portman,Ewan McGregor,Samuel L. Jackson,Action,Fantasy
+Man of Steel,2013,7.0,Zack Snyder,55.0,"723,137",291.05,143,12A,Henry Cavill,Amy Adams,Michael Shannon,Diane Lane,Action,SciFi
+Indiana Jones and the Last Crusade,1989,8.2,Steven Spielberg,65.0,"710,764",197.17,127,PG,Harrison Ford,Sean Connery,Alison Doody,Denholm Elliott,Action,
+Spider-Man,2002,7.3,Sam Raimi,73.0,"709,619",403.71,121,12A,Tobey Maguire,Kirsten Dunst,Willem Dafoe,James Franco,Action,SciFi
+I Am Legend,2007,7.2,Francis Lawrence,65.0,"705,988",256.39,101,15,Will Smith,Alice Braga,Charlie Tahan,Salli Richardson-Whitfield,Action,Drama
+Captain America: Civil War,2016,7.8,Anthony Russo,75.0,"697,679",408.08,147,12A,Joe Russo,Chris Evans,Robert Downey Jr.,Scarlett Johansson,Action,SciFi
+Harry Potter and the Philosopher's Stone,2001,7.6,Chris Columbus,64.0,"688,994",317.58,152,PG,Daniel Radcliffe,Rupert Grint,Richard Harris,Maggie Smith,Family,Fantasy
+How to Train Your Dragon,2010,8.1,Dean DeBlois,75.0,"686,727",217.58,98,PG,Chris Sanders,Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse,Animation,Action
+Spirited Away,2001,8.6,Hayao Miyazaki,96.0,"682,726",10.06,125,PG,Daveigh Chase,Suzanne Pleshette,Miyu Irino,Rumi Hiiragi,Animation,Family
+The Incredibles,2004,8.0,Brad Bird,90.0,"674,943",261.44,115,U,Craig T. Nelson,Samuel L. Jackson,Holly Hunter,Jason Lee,Animation,Action
+X-Men: Days of Future Past,2014,7.9,Bryan Singer,75.0,"674,644",233.92,132,12A,Patrick Stewart,Ian McKellen,Hugh Jackman,James McAvoy,Action,SciFi
+Aliens,1986,8.3,James Cameron,84.0,"671,575",85.16,137,R,Sigourney Weaver,Michael Biehn,Carrie Henn,Paul Reiser,Action,SciFi
+Pirates of the Caribbean: Dead Man's Chest,2006,7.3,Gore Verbinski,53.0,"670,256",423.32,151,12A,Johnny Depp,Orlando Bloom,Keira Knightley,Jack Davenport,Action,Fantasy
+Black Panther,2018,7.3,Ryan Coogler,88.0,"664,328",700.06,134,12A,Chadwick Boseman,Michael B. Jordan,Lupita Nyong'o,Danai Gurira,Action,SciFi
+Ratatouille,2007,8.0,Brad Bird,96.0,"662,597",206.45,111,U,Jan Pinkava,Brad Garrett,Lou Romano,Patton Oswalt,Animation,Comedy
+Star Wars: Episode II - Attack of the Clones,2002,6.5,George Lucas,54.0,"659,880",310.68,142,PG,Hayden Christensen,Natalie Portman,Ewan McGregor,Christopher Lee,Action,Fantasy
+X-Men: First Class,2011,7.7,Matthew Vaughn,65.0,"658,461",146.41,131,12A,James McAvoy,Michael Fassbender,Jennifer Lawrence,Kevin Bacon,Action,SciFi
+Batman v Superman: Dawn of Justice,2016,6.4,Zack Snyder,44.0,"657,384",330.36,152,12A,Ben Affleck,Henry Cavill,Amy Adams,Jesse Eisenberg,Action,SciFi
+Inside Out,2015,8.1,Pete Docter,94.0,"644,222",356.46,95,U,Ronnie Del Carmen,Amy Poehler,Bill Hader,Lewis Black,Animation,Comedy
+Skyfall,2012,7.7,Sam Mendes,81.0,"643,406",304.36,143,12A,Daniel Craig,Javier Bardem,Naomie Harris,Judi Dench,Action,Thriller
+Shrek,2001,7.9,Andrew Adamson,84.0,"633,232",267.67,90,U,Vicky Jenson,Mike Myers,Eddie Murphy,Cameron Diaz,Animation,Comedy
+Thor: Ragnarok,2017,7.9,Taika Waititi,74.0,"632,807",315.06,130,12A,Chris Hemsworth,Tom Hiddleston,Cate Blanchett,Mark Ruffalo,Action,Comedy
+Doctor Strange,2016,7.5,Scott Derrickson,72.0,"631,821",232.64,115,12A,Benedict Cumberbatch,Chiwetel Ejiofor,Rachel McAdams,Benedict Wong,Action,Fantasy
+Suicide Squad,2016,5.9,David Ayer,40.0,"628,320",325.10,123,15,Will Smith,Jared Leto,Margot Robbie,Viola Davis,Action,Fantasy
+The Hunger Games: Catching Fire,2013,7.5,Francis Lawrence,76.0,"627,381",424.67,146,12A,Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth,Philip Seymour Hoffman,Action,Mystery
+Edge of Tomorrow,2014,7.9,Doug Liman,71.0,"623,059",100.21,113,12A,Tom Cruise,Emily Blunt,Bill Paxton,Brendan Gleeson,Action,SciFi
+Thor: The Dark World,2013,6.8,Alan Taylor,54.0,"620,204",206.36,112,12A,Chris Hemsworth,Natalie Portman,Tom Hiddleston,Stellan Skarsgård,Action,Fantasy
+World War Z,2013,7.0,Marc Forster,63.0,"619,721",202.36,116,15,Brad Pitt,Mireille Enos,Daniella Kertesz,James Badge Dale,Action,Horror
+Kingsman: The Secret Service,2014,7.7,Matthew Vaughn,60.0,"609,466",128.26,129,15,Colin Firth,Taron Egerton,Samuel L. Jackson,Michael Caine,Action,Comedy
+Pirates of the Caribbean: At World's End,2007,7.1,Gore Verbinski,50.0,"609,255",309.42,169,12A,Johnny Depp,Orlando Bloom,Keira Knightley,Geoffrey Rush,Action,Fantasy
+Transformers,2007,7.0,Michael Bay,61.0,"608,460",319.25,144,12A,Shia LaBeouf,Megan Fox,Josh Duhamel,Tyrese Gibson,Action,SciFi
+Wonder Woman,2017,7.4,Patty Jenkins,76.0,"602,178",412.56,141,12A,Gal Gadot,Chris Pine,Robin Wright,Lucy Davis,Action,Fantasy
+Guardians of the Galaxy: Vol. 2,2017,7.6,James Gunn,67.0,"599,574",389.81,136,12A,Chris Pratt,Zoe Saldana,Dave Bautista,Vin Diesel,Action,Comedy
+Sherlock Holmes,2009,7.6,Guy Ritchie,57.0,"597,743",209.03,128,12A,Robert Downey Jr.,Jude Law,Rachel McAdams,Mark Strong,Action,Mystery
+Ant-Man,2015,7.3,Peyton Reed,64.0,"597,637",180.20,117,12A,Paul Rudd,Michael Douglas,Corey Stoll,Evangeline Lilly,Action,Comedy
+Casino Royale,2006,8.0,Martin Campbell,80.0,"595,515",167.45,144,12A,Daniel Craig,Eva Green,Judi Dench,Jeffrey Wright,Action,Thriller
+Life of Pi,2012,7.9,Ang Lee,79.0,"595,209",124.99,127,PG,Suraj Sharma,Irrfan Khan,Adil Hussain,Tabu,Drama,Fantasy
+Jurassic World,2015,7.0,Colin Trevorrow,59.0,"595,203",652.27,124,12A,Chris Pratt,Bryce Dallas Howard,Ty Simpkins,Judy Greer,Action,SciFi
+Into the Wild,2007,8.1,Sean Penn,73.0,"589,277",18.35,148,15,Emile Hirsch,Vince Vaughn,Catherine Keener,Marcia Gay Harden,Biography,Drama
+Frozen,2013,7.4,Chris Buck,75.0,"586,737",400.74,102,PG,Jennifer Lee,Kristen Bell,Idina Menzel,Jonathan Groff,Animation,Comedy
+Star Trek,2009,7.9,J.J. Abrams,82.0,"586,120",257.73,127,12A,Chris Pine,Zachary Quinto,Simon Pegg,Leonard Nimoy,Action,SciFi
+X-Men,2000,7.4,Bryan Singer,64.0,"583,528",157.30,104,12,Patrick Stewart,Hugh Jackman,Ian McKellen,Famke Janssen,Action,SciFi
+Star Wars: Episode VIII - The Last Jedi,2017,7.0,Rian Johnson,84.0,"582,532",620.18,152,12A,Daisy Ridley,John Boyega,Mark Hamill,Carrie Fisher,Action,Fantasy
+Prometheus,2012,7.0,Ridley Scott,64.0,"579,838",126.48,124,15,Noomi Rapace,Logan Marshall-Green,Michael Fassbender,Charlize Theron,Mystery,SciFi
+Harry Potter and the Chamber of Secrets,2002,7.4,Chris Columbus,63.0,"575,457",261.99,161,PG,Daniel Radcliffe,Rupert Grint,Emma Watson,Richard Harris,Family,Fantasy
+Rogue One,2016,7.8,Gareth Edwards,65.0,"574,139",532.18,133,12A,Felicity Jones,Diego Luna,Alan Tudyk,Donnie Yen,Action,SciFi
+Harry Potter and the Prisoner of Azkaban,2004,7.9,Alfonso Cuarón,82.0,"573,419",249.36,142,PG,Daniel Radcliffe,Emma Watson,Rupert Grint,Richard Griffiths,Family,Fantasy
+The Amazing Spider-Man,2012,6.9,Marc Webb,66.0,"572,941",262.03,136,12A,Andrew Garfield,Emma Stone,Rhys Ifans,Irrfan Khan,Action,Fantasy
+Harry Potter and the Goblet of Fire,2005,7.7,Mike Newell,81.0,"567,686",290.01,157,12A,Daniel Radcliffe,Emma Watson,Rupert Grint,Eric Sykes,Family,Fantasy
+Spider-Man 2,2004,7.3,Sam Raimi,83.0,"562,690",373.59,127,PG,Tobey Maguire,Kirsten Dunst,Alfred Molina,James Franco,Action,SciFi
+Independence Day,1996,7.0,Roland Emmerich,59.0,"545,850",306.17,145,12,Will Smith,Bill Pullman,Jeff Goldblum,Mary McDonnell,Action,SciFi
+Cast Away,2000,7.8,Robert Zemeckis,73.0,"545,475",233.63,143,12,Tom Hanks,Helen Hunt,Paul Sanchez,Lari White,Drama,Romance
+Spider-Man: Homecoming,2017,7.4,Jon Watts,73.0,"543,056",334.20,133,12A,Tom Holland,Michael Keaton,Robert Downey Jr.,Marisa Tomei,Action,SciFi
+Toy Story 2,1999,7.9,John Lasseter,88.0,"543,054",245.85,92,U,Ash Brannon,Lee Unkrich,Tom Hanks,Tim Allen,Animation,Comedy
+Zombieland,2009,7.6,Ruben Fleischer,73.0,"536,123",75.59,88,15,Jesse Eisenberg,Emma Stone,Woody Harrelson,Abigail Breslin,Comedy,Fantasy
+Men in Black,1997,7.3,Barry Sonnenfeld,71.0,"530,556",250.69,98,PG,Tommy Lee Jones,Will Smith,Linda Fiorentino,Vincent D'Onofrio,Action,Comedy
+Harry Potter and the Order of the Phoenix,2007,7.5,David Yates,71.0,"528,958",292.00,138,12A,Daniel Radcliffe,Emma Watson,Rupert Grint,Brendan Gleeson,Action,Family
+Spider-Man 3,2007,6.2,Sam Raimi,59.0,"514,763",336.53,139,12A,Tobey Maguire,Kirsten Dunst,Topher Grace,Thomas Haden Church,Action,SciFi
+Blood Diamond,2006,8.0,Edward Zwick,64.0,"513,370",57.37,143,15,Leonardo DiCaprio,Djimon Hounsou,Jennifer Connelly,Kagiso Kuypers,Drama,Thriller
+Monty Python and the Holy Grail,1975,8.2,Terry Gilliam,91.0,"513,265",1.23,91,15,Terry Jones,Graham Chapman,John Cleese,Eric Idle,Comedy,Fantasy
+Deadpool 2,2018,7.7,David Leitch,66.0,"508,135",324.59,119,15,Ryan Reynolds,Josh Brolin,Morena Baccarin,Julian Dennison,Action,Comedy
+Harry Potter and the Deathly Hallows: Part 1,2010,7.7,David Yates,65.0,"496,686",295.98,146,12A,Daniel Radcliffe,Emma Watson,Rupert Grint,Bill Nighy,Fantasy,Mystery
+Oblivion,2013,7.0,Joseph Kosinski,54.0,"496,593",89.02,124,12A,Tom Cruise,Morgan Freeman,Andrea Riseborough,Olga Kurylenko,Action,SciFi
+Back to the Future Part II,1989,7.8,Robert Zemeckis,57.0,"496,165",118.50,108,PG,Michael J. Fox,Christopher Lloyd,Lea Thompson,Thomas F. Wilson,Comedy,SciFi
+Harry Potter and the Half-Blood Prince,2009,7.6,David Yates,78.0,"493,438",301.96,153,12A,Daniel Radcliffe,Emma Watson,Rupert Grint,Michael Gambon,Action,Family
+Pirates of the Caribbean: On Stranger Tides,2011,6.6,Rob Marshall,45.0,"493,105",241.06,137,12A,Johnny Depp,Penélope Cruz,Ian McShane,Geoffrey Rush,Action,Fantasy
+X-Men: The Last Stand,2006,6.7,Brett Ratner,58.0,"492,743",234.36,104,12A,Patrick Stewart,Hugh Jackman,Halle Berry,Famke Janssen,Action,SciFi
+Captain Marvel,2019,6.8,Anna Boden,64.0,"481,309",426.83,123,12A,Ryan Fleck,Brie Larson,Samuel L. Jackson,Ben Mendelsohn,Action,SciFi
+Pacific Rim,2013,6.9,Guillermo del Toro,65.0,"476,447",101.80,131,12A,Idris Elba,Charlie Hunnam,Rinko Kikuchi,Charlie Day,Action,SciFi
+Children of Men,2006,7.9,Alfonso Cuarón,84.0,"475,764",35.55,109,15,Julianne Moore,Clive Owen,Chiwetel Ejiofor,Michael Caine,Drama,SciFi
+Star Trek Into Darkness,2013,7.7,J.J. Abrams,72.0,"469,419",228.78,132,12A,Chris Pine,Zachary Quinto,Zoe Saldana,Benedict Cumberbatch,Action,SciFi
+Mission: Impossible - Ghost Protocol,2011,7.4,Brad Bird,73.0,"466,746",209.40,132,12A,Tom Cruise,Jeremy Renner,Simon Pegg,Paula Patton,Action,Thriller
+Indiana Jones and the Temple of Doom,1984,7.5,Steven Spielberg,57.0,"460,957",179.87,118,12A,Harrison Ford,Kate Capshaw,Ke Huy Quan,Amrish Puri,Action,
+Ice Age,2002,7.5,Chris Wedge,60.0,"453,688",176.39,81,U,Carlos Saldanha,Denis Leary,John Leguizamo,Ray Romano,Animation,Comedy
+Zootropolis,2016,8.0,Byron Howard,78.0,"452,296",341.27,108,PG,Rich Moore,Jared Bush,Ginnifer Goodwin,Jason Bateman,Animation,Comedy
+The Incredible Hulk,2008,6.6,Louis Leterrier,61.0,"450,105",134.52,112,12A,Edward Norton,Liv Tyler,Tim Roth,William Hurt,Action,SciFi
+The Fifth Element,1997,7.7,Luc Besson,52.0,"445,474",63.54,126,PG,Bruce Willis,Milla Jovovich,Gary Oldman,Ian Holm,Action,SciFi
+Charlie and the Chocolate Factory,2005,6.6,Tim Burton,72.0,"442,521",206.46,115,PG,Johnny Depp,Freddie Highmore,David Kelly,Helena Bonham Carter,Comedy,Family
+Divergent,2014,6.6,Neil Burger,48.0,"435,818",150.95,139,12A,Shailene Woodley,Theo James,Kate Winslet,Jai Courtney,Action,Mystery
+Indiana Jones and the Kingdom of the Crystal Skull,2008,6.1,Steven Spielberg,65.0,"434,659",317.10,122,12A,Harrison Ford,Cate Blanchett,Shia LaBeouf,Karen Allen,Action,
+Captain Phillips,2013,7.8,Paul Greengrass,82.0,"433,850",107.10,134,12A,Tom Hanks,Barkhad Abdi,Barkhad Abdirahman,Catherine Keener,Biography,Crime
+Kung Fu Panda,2008,7.6,Mark Osborne,74.0,"433,759",215.43,92,U,John Stevenson,Jack Black,Ian McShane,Angelina Jolie,Animation,Action
+Shrek 2,2004,7.2,Andrew Adamson,75.0,"432,536",436.47,93,U,Kelly Asbury,Conrad Vernon,Mike Myers,Eddie Murphy,Animation,Comedy
+Sherlock Holmes: A Game of Shadows,2011,7.5,Guy Ritchie,48.0,"430,587",186.85,129,12A,Robert Downey Jr.,Jude Law,Jared Harris,Rachel McAdams,Action,Mystery
+The Amazing Spider-Man 2,2014,6.6,Marc Webb,53.0,"428,732",202.85,142,12A,Andrew Garfield,Emma Stone,Jamie Foxx,Paul Giamatti,Action,Fantasy
+War of the Worlds,2005,6.5,Steven Spielberg,73.0,"425,836",234.28,116,12A,Tom Cruise,Dakota Fanning,Tim Robbins,Miranda Otto,SciFi,Thriller
+The Day After Tomorrow,2004,6.4,Roland Emmerich,47.0,"425,649",186.74,124,12A,Dennis Quaid,Jake Gyllenhaal,Emmy Rossum,Dash Mihok,Action,SciFi
+The Hunger Games: Mockingjay - Part 1,2014,6.6,Francis Lawrence,64.0,"425,463",337.14,123,12A,Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth,Woody Harrelson,Action,SciFi
+Big Fish,2003,8.0,Tim Burton,58.0,"424,743",66.26,125,PG,Ewan McGregor,Albert Finney,Billy Crudup,Jessica Lange,Drama,Fantasy
+Big Hero 6,2014,7.8,Don Hall,74.0,"424,677",222.53,102,PG,Chris Williams,Ryan Potter,Scott Adsit,Jamie Chung,Animation,Action
+Fantastic Beasts and Where to Find Them,2016,7.3,David Yates,66.0,"423,895",234.04,132,12A,Eddie Redmayne,Katherine Waterston,Alison Sudol,Dan Fogler,Family,Fantasy
+Coco,2017,8.4,Lee Unkrich,81.0,"420,407",209.73,105,PG,Adrian Molina,Anthony Gonzalez,Gael García Bernal,Benjamin Bratt,Animation,Drama
+Justice League,2017,6.1,Zack Snyder,45.0,"420,038",229.02,120,12A,Ben Affleck,Gal Gadot,Jason Momoa,Ezra Miller,Action,Fantasy
+Dawn of the Planet of the Apes,2014,7.6,Matt Reeves,79.0,"419,811",208.55,130,12A,Gary Oldman,Keri Russell,Andy Serkis,Kodi Smit-McPhee,Action,Drama
+Tangled,2010,7.7,Nathan Greno,71.0,"418,533",200.82,100,PG,Byron Howard,Mandy Moore,Zachary Levi,Donna Murphy,Animation,Comedy
+Back to the Future Part III,1990,7.4,Robert Zemeckis,55.0,"417,414",87.73,118,PG,Michael J. Fox,Christopher Lloyd,Mary Steenburgen,Thomas F. Wilson,Comedy,SciFi
+Spider-Man: Into the Spider-Verse,2018,8.4,Bob Persichetti,87.0,"414,372",190.24,117,PG,Peter Ramsey,Rodney Rothman,Shameik Moore,Jake Johnson,Animation,Action
+Quantum of Solace,2008,6.6,Marc Forster,58.0,"413,389",168.37,106,12A,Daniel Craig,Olga Kurylenko,Mathieu Amalric,Judi Dench,Action,Thriller
+Aquaman,2018,6.9,James Wan,55.0,"406,679",335.06,143,12A,Jason Momoa,Amber Heard,Willem Dafoe,Patrick Wilson,Action,Fantasy
+X-Men: Apocalypse,2016,6.9,Bryan Singer,52.0,"405,600",155.44,144,12A,James McAvoy,Michael Fassbender,Jennifer Lawrence,Nicholas Hoult,Action,SciFi
+Armageddon,1998,6.7,Michael Bay,42.0,"404,800",201.57,151,12,Bruce Willis,Billy Bob Thornton,Ben Affleck,Liv Tyler,Action,SciFi
+King Kong,2005,7.2,Peter Jackson,81.0,"404,307",218.08,187,12A,Naomi Watts,Jack Black,Adrien Brody,Thomas Kretschmann,Action,Drama
+The Princess Bride,1987,8.1,Rob Reiner,77.0,"404,272",30.86,98,PG,Cary Elwes,Mandy Patinkin,Robin Wright,Chris Sarandon,Family,Fantasy
+The Mummy,1999,7.0,Stephen Sommers,48.0,"402,602",155.25,124,PG-13,Brendan Fraser,Rachel Weisz,John Hannah,Arnold Vosloo,Action,Fantasy
+Mission: Impossible,1996,7.1,Brian De Palma,59.0,"399,125",180.98,110,PG,Tom Cruise,Jon Voight,Emmanuelle Béart,Henry Czerny,Action,Thriller
+Star Wars: The Rise of Skywalker,2019,6.5,J.J. Abrams,53.0,"396,136",515.20,141,12A,Daisy Ridley,John Boyega,Oscar Isaac,Adam Driver,Action,Fantasy
+Godzilla,2014,6.4,Gareth Edwards,62.0,"395,426",200.68,123,12A,Aaron Taylor-Johnson,Elizabeth Olsen,Bryan Cranston,Ken Watanabe,Action,SciFi
+Spectre,2015,6.8,Sam Mendes,60.0,"393,849",200.07,148,12A,Daniel Craig,Christoph Waltz,Léa Seydoux,Ralph Fiennes,Action,Thriller
+Alice in Wonderland,2010,6.4,Tim Burton,53.0,"392,683",334.19,108,PG,Mia Wasikowska,Johnny Depp,Helena Bonham Carter,Anne Hathaway,Family,Fantasy
+Wreck-It Ralph,2012,7.7,Rich Moore,72.0,"391,723",189.42,101,PG,John C. Reilly,Jack McBrayer,Jane Lynch,Sarah Silverman,Animation,Comedy
+Transformers: Dark of the Moon,2011,6.2,Michael Bay,42.0,"391,500",352.39,154,12A,Shia LaBeouf,Rosie Huntington-Whiteley,Tyrese Gibson,Josh Duhamel,Action,SciFi
+Transformers: Revenge of the Fallen,2009,6.0,Michael Bay,35.0,"391,386",402.11,149,12A,Shia LaBeouf,Megan Fox,Josh Duhamel,Tyrese Gibson,Action,SciFi
+The Lost World: Jurassic Park,1997,6.6,Steven Spielberg,59.0,"390,403",229.09,129,PG,Jeff Goldblum,Julianne Moore,Pete Postlethwaite,Vince Vaughn,Action,SciFi
+Venom,2018,6.7,Ruben Fleischer,35.0,"390,033",213.52,112,15,Tom Hardy,Michelle Williams,Riz Ahmed,Scott Haze,Action,SciFi
+Ready Player One,2018,7.4,Steven Spielberg,64.0,"389,783",137.69,140,12A,Tye Sheridan,Olivia Cooke,Ben Mendelsohn,Lena Waithe,Action,SciFi
+The Shape of Water,2017,7.3,Guillermo del Toro,87.0,"387,901",63.86,123,15,Sally Hawkins,Octavia Spencer,Michael Shannon,Doug Jones,Drama,Fantasy
+Brave,2012,7.1,Mark Andrews,69.0,"384,316",237.28,93,PG,Brenda Chapman,Steve Purcell,Kelly Macdonald,Billy Connolly,Animation,Comedy
+Aladdin,1992,8.0,Ron Clements,86.0,"383,320",217.35,90,U,John Musker,Scott Weinger,Robin Williams,Linda Larkin,Animation,Comedy
+Predator,1987,7.8,John McTiernan,45.0,"382,906",59.74,107,18,Arnold Schwarzenegger,Carl Weathers,Kevin Peter Hall,Elpidia Carrillo,Action,SciFi
+Fast & Furious 6,2013,7.0,Justin Lin,61.0,"378,365",238.68,130,12A,Vin Diesel,Paul Walker,Dwayne Johnson,Michelle Rodriguez,Action,Thriller
+Despicable Me 2,2013,7.3,Pierre Coffin,62.0,"377,920",368.06,98,U,Chris Renaud,Steve Carell,Kristen Wiig,Benjamin Bratt,Animation,Comedy
+The Wizard of Oz,1939,8.0,Victor Fleming,92.0,"377,281",2.08,102,A,George Cukor,Mervyn LeRoy,Norman Taurog,Richard Thorpe,Family,Fantasy
+Madagascar,2005,6.9,Eric Darnell,57.0,"377,159",193.60,86,U,Tom McGrath,Chris Rock,Ben Stiller,David Schwimmer,Animation,Comedy
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,6.9,Andrew Adamson,75.0,"375,805",291.71,143,PG,Tilda Swinton,Georgie Henley,William Moseley,Skandar Keynes,Family,Fantasy
+Fast & Furious 7,2015,7.1,James Wan,67.0,"371,150",353.01,137,12A,Vin Diesel,Paul Walker,Dwayne Johnson,Jason Statham,Action,Thriller
+Die Hard: With a Vengeance,1995,7.6,John McTiernan,58.0,"370,993",100.01,128,15,Bruce Willis,Jeremy Irons,Samuel L. Jackson,Graham Greene,Action,Thriller
+Fast & Furious 5,2011,7.3,Justin Lin,66.0,"363,541",209.84,130,12A,Vin Diesel,Paul Walker,Dwayne Johnson,Jordana Brewster,Action,Crime
+Spider-Man: Far from Home,2019,7.5,Jon Watts,69.0,"362,914",390.53,129,12A,Tom Holland,Samuel L. Jackson,Jake Gyllenhaal,Marisa Tomei,Action,SciFi
+2012,2009,5.8,Roland Emmerich,49.0,"361,093",166.11,158,12A,John Cusack,Thandiwe Newton,Chiwetel Ejiofor,Amanda Peet,Action,SciFi
+Princess Mononoke,1997,8.4,Hayao Miyazaki,76.0,"359,444",2.38,134,PG,Yôji Matsuda,Yuriko Ishida,Yûko Tanaka,Billy Crudup,Animation,Action
+Maleficent,2014,7.0,Robert Stromberg,56.0,"353,633",241.41,97,PG,Angelina Jolie,Elle Fanning,Sharlto Copley,Lesley Manville,Action,Family
+Men in Black II,2002,6.2,Barry Sonnenfeld,49.0,"352,307",190.42,88,PG,Tommy Lee Jones,Will Smith,Rip Torn,Lara Flynn Boyle,Action,Comedy
+Howl's Moving Castle,2004,8.2,Hayao Miyazaki,80.0,"351,429",4.71,119,U,Chieko Baishô,Takuya Kimura,Tatsuya Gashûin,Akihiro Miwa,Animation,Family
+Mission: Impossible - Rogue Nation,2015,7.4,Christopher McQuarrie,75.0,"351,376",195.04,131,12A,Tom Cruise,Rebecca Ferguson,Jeremy Renner,Simon Pegg,Action,Thriller
+Batman,1989,7.5,Tim Burton,69.0,"348,493",251.19,126,12,Michael Keaton,Jack Nicholson,Kim Basinger,Robert Wuhl,Action,
+Men in Black 3,2012,6.8,Barry Sonnenfeld,58.0,"343,169",179.02,106,PG,Will Smith,Tommy Lee Jones,Josh Brolin,Jemaine Clement,Action,Comedy
+Speed,1994,7.2,Jan de Bont,78.0,"341,398",121.25,116,15,Keanu Reeves,Dennis Hopper,Sandra Bullock,Joe Morton,Action,Thriller
+Mission: Impossible III,2006,6.9,J.J. Abrams,66.0,"338,234",134.03,126,12A,Tom Cruise,Michelle Monaghan,Ving Rhames,Philip Seymour Hoffman,Action,Thriller
+Jumanji: Welcome to the Jungle,2017,6.9,Jake Kasdan,58.0,"337,828",404.52,119,12A,Dwayne Johnson,Karen Gillan,Kevin Hart,Jack Black,Action,Comedy
+Ant-Man and the Wasp,2018,7.0,Peyton Reed,70.0,"336,106",216.65,118,12A,Paul Rudd,Evangeline Lilly,Michael Peña,Walton Goggins,Action,Comedy
+Monsters University,2013,7.2,Dan Scanlon,65.0,"333,604",268.49,104,U,Billy Crystal,John Goodman,Steve Buscemi,Helen Mirren,Animation,Comedy
+The Expendables,2010,6.5,Sylvester Stallone,45.0,"332,030",103.07,103,18,Sylvester Stallone,Jason Statham,Jet Li,Dolph Lundgren,Action,Thriller
+The Lego Movie,2014,7.7,Christopher Miller,83.0,"331,832",257.76,100,U,Phil Lord,Chris Pratt,Will Ferrell,Elizabeth Banks,Animation,Action
+Seven Samurai,1954,8.6,Akira Kurosawa,98.0,"325,122",0.27,207,A,Toshirô Mifune,Takashi Shimura,Keiko Tsushima,Yukiko Shimazaki,Action,Drama
+Night at the Museum,2006,6.4,Shawn Levy,48.0,"324,114",250.86,108,PG,Ben Stiller,Carla Gugino,Ricky Gervais,Dick Van Dyke,Comedy,Family
+Mission: Impossible II,2000,6.1,John Woo,59.0,"322,824",215.41,123,15,Tom Cruise,Dougray Scott,Thandiwe Newton,Ving Rhames,Action,Thriller
+The Rock,1996,7.4,Michael Bay,58.0,"320,527",134.07,136,15,Sean Connery,Nicolas Cage,Ed Harris,John Spencer,Action,Thriller
+TRON: Legacy,2010,6.8,Joseph Kosinski,49.0,"320,224",172.06,125,PG,Jeff Bridges,Garrett Hedlund,Olivia Wilde,Bruce Boxleitner,Action,SciFi
+Home Alone 2: Lost in New York,1992,6.8,Chris Columbus,46.0,"319,491",173.59,120,PG,Macaulay Culkin,Joe Pesci,Daniel Stern,Catherine O'Hara,Comedy,Crime
+Jumanji,1995,7.0,Joe Johnston,39.0,"319,351",100.48,104,PG,Robin Williams,Kirsten Dunst,Bonnie Hunt,Jonathan Hyde,Comedy,Family
+Fantastic Four,2005,5.7,Tim Story,40.0,"316,789",154.70,106,PG,Ioan Gruffudd,Michael Chiklis,Chris Evans,Jessica Alba,Action,Fantasy
+The Simpsons Movie,2007,7.3,David Silverman,80.0,"315,233",183.14,87,PG,Dan Castellaneta,Julie Kavner,Nancy Cartwright,Yeardley Smith,Animation,Comedy
+How to Train Your Dragon 2,2014,7.8,Dean DeBlois,76.0,"313,942",177.00,102,PG,Jay Baruchel,Cate Blanchett,Gerard Butler,Craig Ferguson,Animation,Action
+The Interview,2014,6.5,Evan Goldberg,52.0,"313,797",6.11,112,15,Seth Rogen,James Franco,Seth Rogen,Randall Park,Action,Comedy
+National Treasure,2004,6.9,Jon Turteltaub,39.0,"312,385",173.01,131,PG,Nicolas Cage,Diane Kruger,Justin Bartha,Sean Bean,Action,Mystery
+North by Northwest,1959,8.3,Alfred Hitchcock,98.0,"308,836",13.28,136,A,Cary Grant,Eva Marie Saint,James Mason,Jessie Royce Landis,Mystery,Thriller
+The Mummy Returns,2001,6.4,Stephen Sommers,48.0,"308,054",202.02,130,12,Brendan Fraser,Rachel Weisz,John Hannah,Arnold Vosloo,Action,Fantasy
+Solo: A Star Wars Story,2018,6.9,Ron Howard,62.0,"307,602",213.77,135,12A,Alden Ehrenreich,Woody Harrelson,Emilia Clarke,Donald Glover,Action,SciFi
+Mission: Impossible - Fallout,2018,7.7,Christopher McQuarrie,86.0,"304,137",220.16,147,12A,Tom Cruise,Henry Cavill,Ving Rhames,Simon Pegg,Action,Thriller
+Transformers: Age of Extinction,2014,5.6,Michael Bay,32.0,"302,721",245.44,165,12A,Mark Wahlberg,Nicola Peltz,Jack Reynor,Stanley Tucci,Action,SciFi
+Jurassic Park III,2001,5.9,Joe Johnston,42.0,"302,275",181.17,92,PG,Sam Neill,William H. Macy,Téa Leoni,Alessandro Nivola,Action,SciFi
+The Secret Life of Walter Mitty,2013,7.3,Ben Stiller,54.0,"300,933",58.24,114,PG,Ben Stiller,Kristen Wiig,Jon Daly,Kathryn Hahn,Comedy,Drama
+The Book of Eli,2010,6.9,Albert Hughes,53.0,"300,880",94.84,118,15,Allen Hughes,Denzel Washington,Mila Kunis,Ray Stevenson,Action,Drama
+The Hunger Games: Mockingjay - Part 2,2015,6.6,Francis Lawrence,65.0,"297,984",281.72,137,12A,Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth,Woody Harrelson,Action,SciFi
+Apocalypto,2006,7.8,Mel Gibson,68.0,"297,389",50.87,139,18,Gerardo Taracena,Raoul Max Trujillo,Dalia Hernández,Rudy Youngblood,Action,Drama
+The Expendables 2,2012,6.6,Simon West,51.0,"296,925",85.02,103,15,Sylvester Stallone,Liam Hemsworth,Randy Couture,Jean-Claude Van Damme,Action,Thriller
+"O Brother, Where Art Thou?",2000,7.7,Joel Coen,69.0,"295,986",45.51,107,12,Ethan Coen,George Clooney,John Turturro,Tim Blake Nelson,Comedy,Crime
+Kong: Skull Island,2017,6.6,Jordan Vogt-Roberts,62.0,"294,267",168.05,118,12A,Tom Hiddleston,Samuel L. Jackson,Brie Larson,John C. Reilly,Action,Fantasy
+Annihilation,2018,6.8,Alex Garland,79.0,"293,426",32.73,115,15,Natalie Portman,Jennifer Jason Leigh,Tessa Thompson,Benedict Wong,Drama,Horror
+Jumper,2008,6.1,Doug Liman,35.0,"292,469",80.17,88,12A,Hayden Christensen,Samuel L. Jackson,Jamie Bell,Rachel Bilson,Action,SciFi
+Moana,2016,7.6,Ron Clements,81.0,"290,987",248.76,107,PG,John Musker,Don Hall,Chris Williams,Auli'i Cravalho,Animation,Comedy
+The Bourne Legacy,2012,6.6,Tony Gilroy,61.0,"290,394",113.20,135,12A,Jeremy Renner,Rachel Weisz,Edward Norton,Scott Glenn,Action,Thriller
+Shrek the Third,2007,6.1,Chris Miller,58.0,"288,740",320.71,93,U,Raman Hui,Mike Myers,Cameron Diaz,Eddie Murphy,Animation,Comedy
+Serenity,2005,7.8,Joss Whedon,74.0,"287,702",25.51,119,15,Nathan Fillion,Gina Torres,Chiwetel Ejiofor,Alan Tudyk,Action,SciFi
+Kingsman: The Golden Circle,2017,6.7,Matthew Vaughn,44.0,"287,159",100.23,141,15,Taron Egerton,Colin Firth,Mark Strong,Channing Tatum,Action,Comedy
+The Man from U.N.C.L.E.,2015,7.3,Guy Ritchie,56.0,"286,690",45.45,116,12A,Henry Cavill,Armie Hammer,Alicia Vikander,Elizabeth Debicki,Action,Comedy
+Shazam!,2019,7.0,David F. Sandberg,71.0,"286,180",140.37,132,12A,Zachary Levi,Mark Strong,Asher Angel,Jack Dylan Grazer,Action,Comedy
+Snow White and the Huntsman,2012,6.1,Rupert Sanders,57.0,"278,762",155.33,127,12A,Kristen Stewart,Chris Hemsworth,Charlize Theron,Sam Claflin,Action,Drama
+Jurassic World: Fallen Kingdom,2018,6.2,J.A. Bayona,51.0,"278,447",417.72,128,12A,Chris Pratt,Bryce Dallas Howard,Rafe Spall,Justice Smith,Action,SciFi
+Apollo 13,1995,7.6,Ron Howard,77.0,"277,969",173.84,140,PG,Tom Hanks,Bill Paxton,Kevin Bacon,Gary Sinise,Drama,History
+Prince of Persia: The Sands of Time,2010,6.6,Mike Newell,50.0,"277,280",90.76,116,12A,Jake Gyllenhaal,Gemma Arterton,Ben Kingsley,Alfred Molina,Action,Fantasy
+Starship Troopers,1997,7.2,Paul Verhoeven,51.0,"277,204",54.81,129,15,Casper Van Dien,Denise Richards,Dina Meyer,Jake Busey,Action,SciFi
+Lawrence of Arabia,1962,8.3,David Lean,100.0,"276,593",44.82,228,PG,Peter O'Toole,Alec Guinness,Anthony Quinn,Jack Hawkins,Biography,Drama
+Pirates of the Caribbean: Salazar's Revenge,2017,6.5,Joachim Rønning,39.0,"276,142",172.56,129,12A,Espen Sandberg,Johnny Depp,Geoffrey Rush,Javier Bardem,Action,Fantasy
+A Bug's Life,1998,7.2,John Lasseter,77.0,"275,159",162.80,95,U,Andrew Stanton,Kevin Spacey,Dave Foley,Julia Louis-Dreyfus,Animation,Comedy
+Clash of the Titans,2010,5.8,Louis Leterrier,39.0,"274,525",163.21,106,12A,Sam Worthington,Liam Neeson,Ralph Fiennes,Jason Flemyng,Action,Fantasy
+Kingdom of Heaven,2005,7.2,Ridley Scott,63.0,"273,276",47.40,144,15,Orlando Bloom,Eva Green,Liam Neeson,Martin Hancock,Action,Drama
+Green Lantern,2011,5.5,Martin Campbell,39.0,"272,376",116.60,114,12A,Ryan Reynolds,Blake Lively,Peter Sarsgaard,Mark Strong,Action,SciFi
+The Twilight Saga: New Moon,2009,4.7,Chris Weitz,44.0,"271,702",296.62,130,12A,Kristen Stewart,Robert Pattinson,Taylor Lautner,Christina Jastrzembska,Drama,Fantasy
+Fear and Loathing in Las Vegas,1998,7.6,Terry Gilliam,41.0,"266,469",10.68,118,18,Johnny Depp,Benicio Del Toro,Tobey Maguire,Michael Lee Gogin,Comedy,Drama
+Mulan,1998,7.6,Tony Bancroft,71.0,"265,671",120.62,88,PG,Barry Cook,Ming-Na Wen,Eddie Murphy,BD Wong,Animation,Family
+Terminator Genisys,2015,6.3,Alan Taylor,38.0,"265,322",89.76,126,12A,Arnold Schwarzenegger,Jason Clarke,Emilia Clarke,Jai Courtney,Action,SciFi
+The Jungle Book,2016,7.4,Jon Favreau,77.0,"264,709",364.00,106,PG,Neel Sethi,Bill Murray,Ben Kingsley,Idris Elba,Drama,Family
+The Incredibles 2,2018,7.6,Brad Bird,80.0,"264,390",608.58,118,PG,Craig T. Nelson,Holly Hunter,Sarah Vowell,Huck Milner,Animation,Action
+Ice Age 2: The Meltdown,2006,6.8,Carlos Saldanha,60.0,"263,176",195.33,91,U,Ray Romano,John Leguizamo,Denis Leary,Seann William Scott,Animation,Comedy
+Kung Fu Panda 2,2011,7.2,Jennifer Yuh Nelson,67.0,"262,684",165.25,90,PG,Jack Black,Angelina Jolie,Jackie Chan,Dustin Hoffman,Animation,Action
+Almost Famous,2000,7.9,Cameron Crowe,90.0,"262,485",32.53,122,15,Billy Crudup,Patrick Fugit,Kate Hudson,Frances McDormand,Comedy,Drama
+Now You See Me 2,2016,6.5,Jon M. Chu,46.0,"261,035",65.08,129,12A,Jesse Eisenberg,Mark Ruffalo,Woody Harrelson,Dave Franco,Action,Comedy
+Stardust,2007,7.6,Matthew Vaughn,66.0,"260,819",38.63,127,PG,Charlie Cox,Claire Danes,Sienna Miller,Ian McKellen,Family,Fantasy
+Hellboy II: The Golden Army,2008,7.0,Guillermo del Toro,78.0,"260,652",75.75,120,12A,Ron Perlman,Selma Blair,Doug Jones,John Alexander,Action,Fantasy
+John Carter,2012,6.6,Andrew Stanton,51.0,"260,412",73.08,132,12A,Taylor Kitsch,Lynn Collins,Willem Dafoe,Samantha Morton,Action,SciFi
+"Crouching Tiger, Hidden Dragon",2000,7.8,Ang Lee,94.0,"258,863",128.08,120,12,Chow Yun-Fat,Michelle Yeoh,Ziyi Zhang,Chen Chang,Action,Fantasy
+Robin Hood,2010,6.6,Ridley Scott,53.0,"258,085",105.27,140,12A,Russell Crowe,Cate Blanchett,Matthew Macfadyen,Max von Sydow,Action,Drama
+Fantastic 4: Rise of the Silver Surfer,2007,5.6,Tim Story,45.0,"255,130",131.92,92,PG,Ioan Gruffudd,Jessica Alba,Chris Evans,Michael Chiklis,Action,Fantasy
+The Goonies,1985,7.8,Richard Donner,62.0,"252,708",61.50,114,12,Sean Astin,Josh Brolin,Jeff Cohen,Corey Feldman,Comedy,Family
+Van Helsing,2004,6.1,Stephen Sommers,35.0,"251,458",120.18,131,12A,Hugh Jackman,Kate Beckinsale,Richard Roxburgh,Shuler Hensley,Action,Fantasy
+Finding Dory,2016,7.3,Andrew Stanton,77.0,"250,930",486.30,97,U,Angus MacLane,Ellen DeGeneres,Albert Brooks,Ed O'Neill,Animation,Comedy
+The A-Team,2010,6.7,Joe Carnahan,47.0,"250,306",77.22,117,15,Liam Neeson,Bradley Cooper,Sharlto Copley,Jessica Biel,Action,Thriller
+Warcraft: The Beginning,2016,6.8,Duncan Jones,32.0,"250,270",47.37,123,12A,Travis Fimmel,Paula Patton,Ben Foster,Dominic Cooper,Action,Fantasy
+Dances with Wolves,1990,8.0,Kevin Costner,72.0,"248,052",184.21,181,12,Kevin Costner,Mary McDonnell,Graham Greene,Rodney A. Grant,Drama,Western
+Noah,2014,5.7,Darren Aronofsky,68.0,"247,020",101.20,138,12A,Russell Crowe,Jennifer Connelly,Anthony Hopkins,Emma Watson,Action,Drama
+Rango,2011,7.2,Gore Verbinski,75.0,"245,755",123.48,107,PG,Johnny Depp,Isla Fisher,Timothy Olyphant,Abigail Breslin,Animation,Comedy
+The Grey,2011,6.8,Joe Carnahan,64.0,"244,767",51.58,117,15,Liam Neeson,Dermot Mulroney,Frank Grillo,Dallas Roberts,Action,Drama
+Total Recall,2012,6.2,Len Wiseman,43.0,"244,697",58.88,118,12A,Colin Farrell,Bokeem Woodbine,Bryan Cranston,Kate Beckinsale,Action,SciFi
+GoldenEye,1995,7.2,Martin Campbell,65.0,"243,730",106.60,130,15,Pierce Brosnan,Sean Bean,Izabella Scorupco,Famke Janssen,Action,Thriller
+Chronicle,2012,7.0,Josh Trank,69.0,"243,238",64.58,89,12A,Dane DeHaan,Alex Russell,Michael B. Jordan,Michael Kelly,Drama,SciFi
+Alita: Battle Angel,2019,7.3,Robert Rodriguez,53.0,"241,771",85.71,122,12A,Rosa Salazar,Christoph Waltz,Jennifer Connelly,Mahershala Ali,Action,SciFi
+Paul,2011,7.0,Greg Mottola,57.0,"241,171",37.41,104,15,Simon Pegg,Nick Frost,Seth Rogen,Mia Stallard,Comedy,SciFi
+Hook,1991,6.8,Steven Spielberg,52.0,"241,000",119.65,142,U,Dustin Hoffman,Robin Williams,Julia Roberts,Bob Hoskins,Comedy,Family
+Aladdin,2019,6.9,Guy Ritchie,53.0,"240,423",355.56,128,PG,Will Smith,Mena Massoud,Naomi Scott,Marwan Kenzari,Family,Fantasy
+Battleship,2012,5.8,Peter Berg,41.0,"240,134",65.42,131,12A,Alexander Skarsgård,Brooklyn Decker,Liam Neeson,Rihanna,Action,SciFi
+Batman Forever,1995,5.4,Joel Schumacher,51.0,"239,509",184.03,121,PG-13,Val Kilmer,Tommy Lee Jones,Jim Carrey,Nicole Kidman,Action,
+Das Boot,1981,8.3,Wolfgang Petersen,86.0,"238,068",11.49,149,AA,Jürgen Prochnow,Herbert Grönemeyer,Klaus Wennemann,Hubertus Bengsch,Drama,Thriller
+The Twilight Saga: Breaking Dawn - Part 2,2012,5.5,Bill Condon,52.0,"237,008",292.30,115,12A,Kristen Stewart,Robert Pattinson,Taylor Lautner,Peter Facinelli,Drama,Fantasy
+Elf,2003,7.0,Jon Favreau,64.0,"236,275",173.40,97,PG,Will Ferrell,James Caan,Bob Newhart,Zooey Deschanel,Comedy,Family
+War for the Planet of the Apes,2017,7.4,Matt Reeves,82.0,"236,268",146.88,140,12A,Andy Serkis,Woody Harrelson,Steve Zahn,Karin Konoval,Action,Drama
+Sucker Punch,2011,6.0,Zack Snyder,33.0,"235,975",36.39,110,12A,Emily Browning,Vanessa Hudgens,Abbie Cornish,Jena Malone,Action,Fantasy
+The Bucket List,2007,7.4,Rob Reiner,42.0,"235,945",93.47,97,12A,Jack Nicholson,Morgan Freeman,Sean Hayes,Beverly Todd,Comedy,Drama
+First Blood,1982,7.7,Ted Kotcheff,61.0,"235,441",47.21,93,15,Sylvester Stallone,Brian Dennehy,Richard Crenna,Bill McKinney,Action,
+Fantastic Beasts: The Crimes of Grindelwald,2018,6.5,David Yates,52.0,"235,029",159.56,134,12A,Eddie Redmayne,Katherine Waterston,Dan Fogler,Johnny Depp,Family,Fantasy
+Star Trek Beyond,2016,7.0,Justin Lin,68.0,"234,379",158.85,122,12A,Chris Pine,Zachary Quinto,Karl Urban,Zoe Saldana,Action,SciFi
+The Twilight Saga: Eclipse,2010,5.0,David Slade,58.0,"233,712",300.53,124,12A,Kristen Stewart,Robert Pattinson,Taylor Lautner,Xavier Samuel,Action,Drama
+The Great Escape,1963,8.2,John Sturges,86.0,"231,234",12.10,172,PG,Steve McQueen,James Garner,Richard Attenborough,Charles Bronson,Drama,History
+Maze Runner: The Scorch Trials,2015,6.3,Wes Ball,43.0,"231,012",81.70,131,12A,Dylan O'Brien,Kaya Scodelario,Thomas Brodie-Sangster,Giancarlo Esposito,Action,SciFi
+I Am Number Four,2011,6.1,D.J. Caruso,36.0,"230,707",55.10,111,12A,Alex Pettyfer,Timothy Olyphant,Dianna Agron,Teresa Palmer,Action,SciFi
+Ice Age: Dawn of the Dinosaurs,2009,6.9,Carlos Saldanha,50.0,"230,509",196.57,94,U,Mike Thurmeier,Ray Romano,John Leguizamo,Denis Leary,Animation,Comedy
+The Twilight Saga: Breaking Dawn - Part 1,2011,4.9,Bill Condon,45.0,"229,171",281.29,117,12A,Kristen Stewart,Robert Pattinson,Taylor Lautner,Gil Birmingham,Drama,Fantasy
+Ender's Game,2013,6.6,Gavin Hood,51.0,"228,786",61.74,114,12A,Harrison Ford,Asa Butterfield,Hailee Steinfeld,Abigail Breslin,Action,Fantasy
+The Beach,2000,6.7,Danny Boyle,43.0,"228,653",39.79,119,15,Leonardo DiCaprio,Daniel York,Patcharawan Patarakijjanon,Virginie Ledoyen,Drama,Romance
+Ben-Hur,1959,8.1,William Wyler,90.0,"226,357",74.70,212,A,Charlton Heston,Jack Hawkins,Stephen Boyd,Haya Harareet,Drama,History
+The Lone Ranger,2013,6.4,Gore Verbinski,37.0,"225,870",89.30,150,12A,Johnny Depp,Armie Hammer,William Fichtner,Tom Wilkinson,Action,Western
+Insurgent,2015,6.2,Robert Schwentke,42.0,"224,097",130.18,119,12A,Shailene Woodley,Ansel Elgort,Theo James,Kate Winslet,Action,SciFi
+National Treasure: Book of Secrets,2007,6.5,Jon Turteltaub,48.0,"224,077",219.96,124,PG,Nicolas Cage,Diane Kruger,Justin Bartha,Jon Voight,Action,Mystery
+The Lion King,2019,6.8,Jon Favreau,55.0,"222,863",543.64,118,PG,Donald Glover,Beyoncé,Seth Rogen,Chiwetel Ejiofor,Animation,Drama
+Austin Powers: The Spy Who Shagged Me,1999,6.6,Jay Roach,59.0,"222,005",206.04,95,12,Mike Myers,Heather Graham,Michael York,Robert Wagner,Action,Comedy
+The Adventures of Tintin: The Secret of the Unicorn,2011,7.3,Steven Spielberg,68.0,"221,389",77.59,107,PG,Jamie Bell,Andy Serkis,Daniel Craig,Simon Pegg,Animation,Action
+San Andreas,2015,6.1,Brad Peyton,43.0,"220,487",155.19,114,12A,Dwayne Johnson,Carla Gugino,Alexandra Daddario,Colton Haynes,Action,Thriller
+Wonder Woman 1984,2020,5.4,Patty Jenkins,60.0,"219,898",46.37,151,12A,Gal Gadot,Chris Pine,Kristen Wiig,Pedro Pascal,Action,Fantasy
+Minions,2015,6.4,Kyle Balda,56.0,"219,170",336.05,91,U,Pierre Coffin,Sandra Bullock,Jon Hamm,Michael Keaton,Animation,Comedy
+The Chronicles of Riddick,2004,6.7,David Twohy,38.0,"218,624",57.76,119,15,Vin Diesel,Judi Dench,Colm Feore,Thandiwe Newton,Action,SciFi
+Toy Story 4,2019,7.7,Josh Cooley,84.0,"218,066",434.04,100,U,Tom Hanks,Tim Allen,Annie Potts,Tony Hale,Animation,Comedy
+Predators,2010,6.4,Nimród Antal,51.0,"216,271",52.00,107,15,Adrien Brody,Laurence Fishburne,Topher Grace,Alice Braga,Action,SciFi
+Fast & Furious 8,2017,6.6,F. Gary Gray,56.0,"215,748",226.01,136,12A,Vin Diesel,Jason Statham,Dwayne Johnson,Michelle Rodriguez,Action,Crime
+Hercules,1997,7.3,Ron Clements,74.0,"213,397",99.05,93,U,John Musker,Tate Donovan,Susan Egan,James Woods,Animation,Comedy
+Planet of the Apes,2001,5.7,Tim Burton,50.0,"213,375",180.01,119,12,Mark Wahlberg,Helena Bonham Carter,Tim Roth,Michael Clarke Duncan,Action,SciFi
+Cloudy with a Chance of Meatballs,2009,6.9,Phil Lord,66.0,"213,359",124.87,90,U,Christopher Miller,Anna Faris,Bill Hader,Bruce Campbell,Animation,Comedy
+Rio,2011,6.9,Carlos Saldanha,63.0,"213,127",143.62,96,U,Jesse Eisenberg,Anne Hathaway,George Lopez,Karen Disher,Animation,Comedy
+Madagascar: Escape 2 Africa,2008,6.6,Eric Darnell,61.0,"212,203",180.01,89,U,Tom McGrath,Ben Stiller,Chris Rock,David Schwimmer,Animation,Comedy
+Dogma,1999,7.3,Kevin Smith,62.0,"211,112",30.65,130,15,Ben Affleck,Matt Damon,Linda Fiorentino,Bud Cort,Comedy,Drama
+Tarzan,1999,7.3,Chris Buck,79.0,"210,423",171.09,88,U,Kevin Lima,Tony Goldwyn,Minnie Driver,Brian Blessed,Animation,Family
+Fantastic Mr. Fox,2009,7.9,Wes Anderson,83.0,"209,477",21.00,87,PG,George Clooney,Meryl Streep,Bill Murray,Jason Schwartzman,Animation,Comedy
+Master and Commander: The Far Side of the World,2003,7.4,Peter Weir,81.0,"209,347",93.93,138,12A,Russell Crowe,Paul Bettany,Billy Boyd,James D'Arcy,Action,Drama
+Die Another Day,2002,6.1,Lee Tamahori,56.0,"209,274",160.94,133,12A,Pierce Brosnan,Halle Berry,Rosamund Pike,Toby Stephens,Action,Thriller
+Ad Astra,2019,6.5,James Gray,80.0,"209,013",35.40,123,12A,Brad Pitt,Tommy Lee Jones,Ruth Negga,Donald Sutherland,Drama,Mystery
+The Bridge on the River Kwai,1957,8.1,David Lean,87.0,"208,964",44.91,161,U,William Holden,Alec Guinness,Jack Hawkins,Sessue Hayakawa,Drama,War
+Get Smart,2008,6.5,Peter Segal,54.0,"208,555",130.32,110,12A,Steve Carell,Anne Hathaway,Alan Arkin,Dwayne Johnson,Action,Comedy
+The Descent,2005,7.2,Neil Marshall,71.0,"208,145",26.02,99,18,Shauna Macdonald,Natalie Mendoza,Alex Reid,Saskia Mulder,Horror,Thriller
+Ace Ventura: When Nature Calls,1995,6.4,Steve Oedekerk,45.0,"207,089",108.39,90,12,Jim Carrey,Ian McNeice,Simon Callow,Maynard Eziashi,Comedy,Crime
+Everest,2015,7.1,Baltasar Kormákur,64.0,"205,883",43.48,121,12A,Jason Clarke,Ang Phula Sherpa,Thomas M. Wright,Martin Henderson,Action,Biography
+Jumanji: The Next Level,2019,6.7,Jake Kasdan,58.0,"205,584",316.83,123,12A,Dwayne Johnson,Jack Black,Kevin Hart,Karen Gillan,Action,Comedy
+Teenage Mutant Ninja Turtles,2014,5.8,Jonathan Liebesman,31.0,"203,863",191.20,101,12A,Megan Fox,Will Arnett,William Fichtner,Noel Fisher,Action,Comedy
+Chef,2014,7.3,Jon Favreau,68.0,"203,267",30.64,114,15,Jon Favreau,Robert Downey Jr.,Scarlett Johansson,Dustin Hoffman,Comedy,Drama
+G.I. Joe: The Rise of Cobra,2009,5.8,Stephen Sommers,32.0,"202,888",152.27,118,12A,Dennis Quaid,Channing Tatum,Marlon Wayans,Adewale Akinnuoye-Agbaje,Action,SciFi
+Lara Croft: Tomb Raider,2001,5.8,Simon West,33.0,"202,640",131.14,100,PG-13,Angelina Jolie,Jon Voight,Iain Glen,Noah Taylor,Action,Fantasy
+Oz the Great and Powerful,2013,6.3,Sam Raimi,44.0,"201,697",234.91,130,PG,James Franco,Michelle Williams,Rachel Weisz,Mila Kunis,Family,Fantasy
+Austin Powers in Goldmember,2002,6.2,Jay Roach,62.0,"200,303",213.31,94,12,Mike Myers,Beyoncé,Seth Green,Michael York,Action,Comedy
+King Arthur: Legend of the Sword,2017,6.7,Guy Ritchie,41.0,"200,299",39.18,126,12A,Charlie Hunnam,Astrid Bergès-Frisbey,Jude Law,Djimon Hounsou,Action,Drama
+The Croods,2013,7.2,Kirk DeMicco,55.0,"200,192",187.17,98,U,Chris Sanders,Nicolas Cage,Ryan Reynolds,Emma Stone,Animation,Comedy
+A Series of Unfortunate Events,2004,6.8,Brad Silberling,62.0,"200,095",118.63,108,PG,Jim Carrey,Jude Law,Meryl Streep,Liam Aiken,Comedy,Family
+The Chronicles of Narnia: Prince Caspian,2008,6.5,Andrew Adamson,62.0,"199,651",141.62,150,PG,Ben Barnes,Skandar Keynes,Georgie Henley,William Moseley,Action,Family
+Tomb Raider,2018,6.3,Roar Uthaug,48.0,"197,189",58.25,119,12A,Alicia Vikander,Dominic West,Walton Goggins,Daniel Wu,Action,Fantasy
+Ice Age: Continental Drift,2012,6.5,Steve Martino,49.0,"197,121",161.32,88,U,Mike Thurmeier,Ray Romano,Denis Leary,John Leguizamo,Animation,Comedy
+Mad Max,1979,6.9,George Miller,73.0,"196,813",8.75,88,X,Mel Gibson,Joanne Samuel,Hugh Keays-Byrne,Steve Bisley,Action,SciFi
+Bolt,2008,6.8,Byron Howard,67.0,"196,422",114.05,96,PG,Chris Williams,John Travolta,Miley Cyrus,Susie Essman,Animation,Comedy
+After Earth,2013,4.8,M. Night Shyamalan,33.0,"194,936",60.52,100,12A,Jaden Smith,David Denman,Will Smith,Sophie Okonedo,Action,SciFi
+The Magnificent Seven,2016,6.9,Antoine Fuqua,54.0,"194,657",93.43,132,12A,Denzel Washington,Chris Pratt,Ethan Hawke,Vincent D'Onofrio,Action,Western
+Hanna,2011,6.8,Joe Wright,65.0,"193,341",40.26,111,12A,Saoirse Ronan,Cate Blanchett,Eric Bana,Vicky Krieps,Action,Drama
+The World Is Not Enough,1999,6.4,Michael Apted,57.0,"192,018",126.94,128,12,Pierce Brosnan,Sophie Marceau,Robert Carlyle,Denise Richards,Action,Crime
+Birds of Prey,2020,6.1,Cathy Yan,60.0,"191,794",84.16,109,15,Margot Robbie,Rosie Perez,Mary Elizabeth Winstead,Jurnee Smollett,Action,Comedy
+Shrek Forever After,2010,6.3,Mike Mitchell,58.0,"191,190",238.37,93,U,Mike Myers,Cameron Diaz,Eddie Murphy,Antonio Banderas,Animation,Comedy
+The Hitchhiker's Guide to the Galaxy,2005,6.7,Garth Jennings,63.0,"190,347",51.09,109,PG,Martin Freeman,Yasiin Bey,Sam Rockwell,Zooey Deschanel,Comedy,SciFi
+Assassin's Creed,2016,5.7,Justin Kurzel,36.0,"190,099",54.65,115,12A,Michael Fassbender,Marion Cotillard,Jeremy Irons,Brendan Gleeson,Action,SciFi
+AVP: Alien vs. Predator,2004,5.6,Paul W.S. Anderson,29.0,"188,992",80.28,101,15,Sanaa Lathan,Lance Henriksen,Raoul Bova,Ewen Bremner,Action,Horror
+Who Framed Roger Rabbit,1988,7.7,Robert Zemeckis,83.0,"188,833",156.45,104,PG,Bob Hoskins,Christopher Lloyd,Joanna Cassidy,Charles Fleischer,Animation,Comedy
+The Secret Life of Pets,2016,6.5,Chris Renaud,61.0,"188,500",368.38,87,U,Yarrow Cheney,Louis C.K.,Eric Stonestreet,Kevin Hart,Animation,Comedy
+The Blues Brothers,1980,7.9,John Landis,60.0,"188,443",57.23,133,AA,John Belushi,Dan Aykroyd,Cab Calloway,John Candy,Action,Comedy
+The Emperor's New Groove,2000,7.4,Mark Dindal,70.0,"187,508",89.30,78,U,David Spade,John Goodman,Eartha Kitt,Patrick Warburton,Animation,Comedy
+The Darjeeling Limited,2007,7.2,Wes Anderson,67.0,"186,773",11.90,91,15,Owen Wilson,Adrien Brody,Jason Schwartzman,Amara Karan,Comedy,Drama
+Waterworld,1995,6.2,Kevin Reynolds,56.0,"186,561",88.25,135,12,Kevin Costner,Jeanne Tripplehorn,Dennis Hopper,Tina Majorino,Action,SciFi
+The Hunt for Red October,1990,7.6,John McTiernan,58.0,"186,360",122.01,135,PG,Sean Connery,Alec Baldwin,Scott Glenn,Sam Neill,Action,Thriller
+Fast & Furious: Hobbs & Shaw,2019,6.4,David Leitch,60.0,"185,931",173.96,137,12A,Dwayne Johnson,Jason Statham,Idris Elba,Vanessa Kirby,Action,Thriller
+The Polar Express,2004,6.6,Robert Zemeckis,61.0,"185,364",183.37,100,U,Tom Hanks,Chris Coppola,Michael Jeter,Leslie Zemeckis,Animation,Comedy
+The Life Aquatic with Steve Zissou,2004,7.3,Wes Anderson,62.0,"185,242",24.01,119,15,Bill Murray,Owen Wilson,Anjelica Huston,Cate Blanchett,Action,Comedy
+Tomorrow Never Dies,1997,6.5,Roger Spottiswoode,52.0,"185,210",125.33,119,12,Pierce Brosnan,Jonathan Pryce,Michelle Yeoh,Teri Hatcher,Action,Thriller
+Twister,1996,6.4,Jan de Bont,68.0,"184,959",241.72,113,PG,Helen Hunt,Bill Paxton,Cary Elwes,Jami Gertz,Action,Thriller
+Wrath of the Titans,2012,5.7,Jonathan Liebesman,37.0,"184,238",83.67,99,12A,Sam Worthington,Liam Neeson,Rosamund Pike,Ralph Fiennes,Action,Fantasy
+Knight and Day,2010,6.3,James Mangold,46.0,"184,083",76.42,109,12A,Tom Cruise,Cameron Diaz,Peter Sarsgaard,Jordi Mollà,Action,Comedy
+Space Jam,1996,6.5,Joe Pytka,59.0,"183,649",90.46,88,U,Michael Jordan,Wayne Knight,Theresa Randle,Manner Washington,Animation,Comedy
+Night at the Museum 2,2009,6.0,Shawn Levy,42.0,"183,331",177.24,105,PG,Ben Stiller,Owen Wilson,Amy Adams,Hank Azaria,Comedy,Family
+Robin Hood: Prince of Thieves,1991,6.9,Kevin Reynolds,51.0,"183,209",165.50,143,PG,Kevin Costner,Morgan Freeman,Mary Elizabeth Mastrantonio,Christian Slater,Action,Drama
+Jupiter Ascending,2015,5.3,Lana Wachowski,40.0,"182,318",47.39,127,12A,Lilly Wachowski,Channing Tatum,Mila Kunis,Eddie Redmayne,Action,SciFi
+The Golden Compass,2007,6.1,Chris Weitz,51.0,"182,141",70.11,113,PG,Nicole Kidman,Daniel Craig,Dakota Blue Richards,Ben Walker,Family,Fantasy
+Sausage Party,2016,6.1,Greg Tiernan,66.0,"181,763",97.69,89,15,Conrad Vernon,Seth Rogen,Kristen Wiig,Jonah Hill,Animation,Comedy
+Chicken Run,2000,7.0,Peter Lord,88.0,"181,594",106.83,84,U,Nick Park,Mel Gibson,Julia Sawalha,Phil Daniels,Animation,Comedy
+Charlie's Angels,2000,5.6,McG,52.0,"180,954",125.31,98,15,Cameron Diaz,Drew Barrymore,Lucy Liu,Bill Murray,Action,Comedy
+Percy Jackson & the Lightning Thief,2010,5.9,Chris Columbus,47.0,"180,870",88.76,118,PG,Logan Lerman,Kevin McKidd,Steve Coogan,Brandon T. Jackson,Family,Fantasy
+Stargate,1994,7.1,Roland Emmerich,42.0,"180,790",71.57,116,PG,Kurt Russell,James Spader,Jaye Davidson,Viveca Lindfors,Action,SciFi
+Goldfinger,1964,7.7,Guy Hamilton,87.0,"178,351",51.08,110,PG,Sean Connery,Gert Fröbe,Honor Blackman,Shirley Eaton,Action,Thriller
+The Iron Giant,1999,8.0,Brad Bird,85.0,"178,132",23.16,86,U,Eli Marienthal,Harry Connick Jr.,Jennifer Aniston,Vin Diesel,Animation,Action
+The Mummy,2017,5.4,Alex Kurtzman,34.0,"177,573",80.10,111,15,Tom Cruise,Sofia Boutella,Annabelle Wallis,Russell Crowe,Action,Fantasy
+Hero,2002,7.9,Yimou Zhang,85.0,"176,524",53.71,120,12A,Jet Li,Tony Chiu-Wai Leung,Maggie Cheung,Ziyi Zhang,Action,History
+A Knight's Tale,2001,6.9,Brian Helgeland,56.0,"176,483",56.57,132,PG,Heath Ledger,Mark Addy,Rufus Sewell,Shannyn Sossamon,Action,Romance
+G.I. Joe: Retaliation,2013,5.8,Jon M. Chu,41.0,"176,175",122.52,110,12A,Dwayne Johnson,Channing Tatum,Adrianne Palicki,Lee Byung-hun,Action,SciFi
+Tomorrowland: A World Beyond,2015,6.4,Brad Bird,60.0,"175,649",93.44,130,12A,George Clooney,Britt Robertson,Hugh Laurie,Raffey Cassidy,Action,Family
+Pocahontas,1995,6.7,Mike Gabriel,58.0,"175,608",141.60,81,U,Eric Goldberg,Mel Gibson,Linda Hunt,Christian Bale,Animation,Drama
+xXx,2002,5.9,Rob Cohen,48.0,"175,540",142.11,124,12,Vin Diesel,Asia Argento,Marton Csokas,Samuel L. Jackson,Action,Thriller
+Lilo & Stitch,2002,7.3,Dean DeBlois,73.0,"175,037",145.79,85,U,Chris Sanders,Daveigh Chase,Chris Sanders,Tia Carrere,Animation,Comedy
+Happy Feet,2006,6.4,George Miller,77.0,"174,803",198.00,108,U,Warren Coleman,Judy Morris,Elijah Wood,Brittany Murphy,Animation,Comedy
+The Mask of Zorro,1998,6.8,Martin Campbell,63.0,"173,783",94.10,136,PG,Antonio Banderas,Anthony Hopkins,Catherine Zeta-Jones,José María de Tavira,Action,Comedy
+The Expendables 3,2014,6.1,Patrick Hughes,35.0,"173,693",39.32,126,12A,Sylvester Stallone,Jason Statham,Jet Li,Antonio Banderas,Action,Thriller
+Shark Tale,2004,6.0,Bibo Bergeron,48.0,"171,981",160.86,90,U,Vicky Jenson,Rob Letterman,Will Smith,Robert De Niro,Animation,Comedy
+Independence Day: Resurgence,2016,5.2,Roland Emmerich,32.0,"171,262",103.14,120,12A,Liam Hemsworth,Jeff Goldblum,Bill Pullman,Maika Monroe,Action,SciFi
+The League of Extraordinary Gentlemen,2003,5.8,Stephen Norrington,30.0,"171,038",66.47,110,12A,Sean Connery,Stuart Townsend,Peta Wilson,Jason Flemyng,Action,Fantasy
+Mad Max 2,1981,7.6,George Miller,77.0,"170,928",12.47,96,X,Mel Gibson,Bruce Spence,Michael Preston,Max Phipps,Action,SciFi
+The Jungle Book,1967,7.6,Wolfgang Reitherman,65.0,"170,908",141.84,78,U,Phil Harris,Sebastian Cabot,Louis Prima,Bruce Reitherman,Animation,Family
+Blade: Trinity,2004,5.8,David S. Goyer,38.0,"169,303",52.41,113,15,Wesley Snipes,Kris Kristofferson,Parker Posey,Ryan Reynolds,Action,Fantasy
+Madagascar 3: Europe's Most Wanted,2012,6.8,Eric Darnell,60.0,"169,013",216.39,95,PG,Tom McGrath,Conrad Vernon,Ben Stiller,Jada Pinkett Smith,Animation,Comedy
+Cars 2,2011,6.1,John Lasseter,57.0,"168,944",191.45,106,U,Bradford Lewis,Owen Wilson,Larry the Cable Guy,Michael Caine,Animation,Comedy
+Valerian and the City of a Thousand Planets,2017,6.5,Luc Besson,51.0,"168,898",41.19,136,12A,Dane DeHaan,Cara Delevingne,Clive Owen,Rihanna,Action,Fantasy
+The Abyss,1989,7.5,James Cameron,62.0,"168,618",54.46,140,15,Ed Harris,Mary Elizabeth Mastrantonio,Michael Biehn,Leo Burmester,Drama,Mystery
+The Legend of Tarzan,2016,6.2,David Yates,44.0,"168,344",126.64,110,12A,Alexander Skarsgård,Rory J. Saper,Christian Stevens,Christoph Waltz,Action,Drama
+X-Men: Dark Phoenix,2019,5.7,Simon Kinberg,43.0,"166,512",65.85,113,12A,James McAvoy,Michael Fassbender,Jennifer Lawrence,Nicholas Hoult,Action,SciFi
+Superman,1978,7.3,Richard Donner,81.0,"165,433",134.22,143,A,Christopher Reeve,Margot Kidder,Gene Hackman,Marlon Brando,Action,Drama
+Inferno,2016,6.2,Ron Howard,42.0,"165,319",34.34,121,12A,Tom Hanks,Felicity Jones,Irrfan Khan,Ben Foster,Action,Crime
+Resident Evil: Afterlife,2010,5.8,Paul W.S. Anderson,37.0,"165,199",60.13,96,15,Milla Jovovich,Ali Larter,Wentworth Miller,Kim Coates,Action,Horror
+Three Kings,1999,7.1,David O. Russell,82.0,"164,685",60.65,114,15,George Clooney,Mark Wahlberg,Ice Cube,Spike Jonze,Action,Comedy
+Over the Hedge,2006,6.7,Tim Johnson,67.0,"164,547",155.02,83,U,Karey Kirkpatrick,Bruce Willis,Garry Shandling,Steve Carell,Animation,Comedy
+Beowulf,2007,6.2,Robert Zemeckis,59.0,"163,961",82.16,115,12A,Ray Winstone,Crispin Glover,Angelina Jolie,Robin Wright,Animation,Action
+RED 2,2013,6.6,Dean Parisot,47.0,"163,858",53.26,116,12A,Bruce Willis,Helen Mirren,John Malkovich,Anthony Hopkins,Action,Comedy
+Godzilla: King of the Monsters,2019,6.0,Michael Dougherty,48.0,"162,873",110.50,132,12A,Kyle Chandler,Vera Farmiga,Millie Bobby Brown,Ken Watanabe,Action,Fantasy
+Exodus: Gods and Kings,2014,6.0,Ridley Scott,52.0,"162,434",65.01,150,12A,Christian Bale,Joel Edgerton,Ben Kingsley,Sigourney Weaver,Action,Drama
+Rise of the Guardians,2012,7.3,Peter Ramsey,58.0,"162,080",103.41,97,PG,Hugh Jackman,Alec Baldwin,Isla Fisher,Chris Pine,Animation,Action
+King Arthur,2004,6.3,Antoine Fuqua,46.0,"161,968",51.88,126,12A,Clive Owen,Stephen Dillane,Keira Knightley,Ioan Gruffudd,Action,Drama
+Miss Peregrine's Home for Peculiar Children,2016,6.7,Tim Burton,57.0,"160,901",87.24,127,12A,Eva Green,Asa Butterfield,Samuel L. Jackson,Judi Dench,Drama,Family
+The Perfect Storm,2000,6.4,Wolfgang Petersen,59.0,"160,331",182.62,130,12,George Clooney,Mark Wahlberg,John C. Reilly,Diane Lane,Action,Drama
+The Man in the Iron Mask,1998,6.5,Randall Wallace,48.0,"160,102",56.97,132,12,Leonardo DiCaprio,Jeremy Irons,John Malkovich,Gérard Depardieu,Action,Drama
+Rambo: First Blood Part II,1985,6.5,George P. Cosmatos,47.0,"159,655",150.42,96,15,Sylvester Stallone,Richard Crenna,Charles Napier,Steven Berkoff,Action,Thriller
+Terminator: Dark Fate,2019,6.2,Tim Miller,54.0,"159,562",62.25,128,15,Linda Hamilton,Arnold Schwarzenegger,Mackenzie Davis,Natalia Reyes,Action,SciFi
+101 Dalmatians,1961,7.3,Clyde Geronimi,83.0,"158,254",144.88,79,U,Hamilton Luske,Wolfgang Reitherman,Rod Taylor,Betty Lou Gerson,Animation,Comedy
+Nausicaä of the Valley of the Wind,1984,8.1,Hayao Miyazaki,86.0,"157,508",0.50,117,U,Sumi Shimamoto,Mahito Tsujimura,Hisako Kyôda,Gorô Naya,Animation,Fantasy
+The Last of the Mohicans,1992,7.7,Michael Mann,76.0,"156,958",75.51,112,12,Daniel Day-Lewis,Madeleine Stowe,Russell Means,Eric Schweig,Action,Drama
+Fantastic Four,2015,4.2,Josh Trank,27.0,"156,937",56.12,100,12A,Stephen E. Rivkin,Miles Teller,Kate Mara,Michael B. Jordan,Action,SciFi
+Letters from Iwo Jima,2006,7.9,Clint Eastwood,89.0,"156,849",13.76,141,15,Ken Watanabe,Kazunari Ninomiya,Tsuyoshi Ihara,Ryô Kase,Action,Drama
+The Last Airbender,2010,4.0,M. Night Shyamalan,20.0,"156,577",131.56,103,PG,Noah Ringer,Nicola Peltz,Jackson Rathbone,Dev Patel,Action,Family
+The Sorcerer's Apprentice,2010,6.1,Jon Turteltaub,46.0,"156,068",63.15,109,PG,Nicolas Cage,Jay Baruchel,Alfred Molina,Teresa Palmer,Action,Family
+Galaxy Quest,1999,7.3,Dean Parisot,70.0,"155,246",71.58,102,PG,Tim Allen,Sigourney Weaver,Alan Rickman,Tony Shalhoub,Comedy,SciFi
+Dr. No,1962,7.2,Terence Young,78.0,"154,286",16.07,110,PG,Sean Connery,Ursula Andress,Bernard Lee,Joseph Wiseman,Action,Thriller
+The Mummy: Tomb of the Dragon Emperor,2008,5.2,Rob Cohen,31.0,"154,109",102.49,112,12A,Brendan Fraser,Jet Li,Maria Bello,Michelle Yeoh,Action,Fantasy
+Johnny English,2003,6.2,Peter Howitt,51.0,"152,183",28.08,88,PG,Rowan Atkinson,John Malkovich,Natalie Imbruglia,Tasha de Vasconcelos,Action,Comedy
+Monsters vs. Aliens,2009,6.4,Rob Letterman,56.0,"151,982",198.35,94,PG,Conrad Vernon,Reese Witherspoon,Rainn Wilson,Stephen Colbert,Animation,Action
+Rampage,2018,6.1,Brad Peyton,45.0,"151,666",101.03,107,12A,Dwayne Johnson,Naomie Harris,Malin Akerman,Jeffrey Dean Morgan,Action,SciFi
+Commando,1985,6.7,Mark L. Lester,51.0,"151,112",35.10,90,18,Arnold Schwarzenegger,Rae Dawn Chong,Dan Hedaya,Vernon Wells,Action,Thriller
+Idiocracy,2006,6.6,Mike Judge,66.0,"151,100",0.44,84,15,Luke Wilson,Maya Rudolph,Dax Shepard,Terry Crews,Comedy,SciFi
+War Horse,2011,7.2,Steven Spielberg,72.0,"150,771",79.88,146,12A,Jeremy Irvine,Emily Watson,David Thewlis,Benedict Cumberbatch,Action,Drama
+Hercules,2014,6.0,Brett Ratner,47.0,"149,433",72.69,98,12A,Dwayne Johnson,John Hurt,Ian McShane,Joseph Fiennes,Action,Fantasy
+Antz,1998,6.5,Eric Darnell,72.0,"149,179",90.76,83,PG,Tim Johnson,Woody Allen,Sharon Stone,Gene Hackman,Animation,Comedy
+Puss in Boots,2011,6.6,Chris Miller,65.0,"148,830",149.26,90,U,Antonio Banderas,Salma Hayek,Zach Galifianakis,Billy Bob Thornton,Animation,Comedy
+Bee Movie,2007,6.1,Simon J. Smith,54.0,"148,695",126.63,91,U,Steve Hickner,Jerry Seinfeld,Renée Zellweger,Matthew Broderick,Animation,Comedy
+Frozen 2,2019,6.8,Chris Buck,64.0,"148,602",477.37,103,U,Jennifer Lee,Kristen Bell,Idina Menzel,Josh Gad,Animation,Comedy
+Isle of Dogs,2018,7.9,Wes Anderson,82.0,"148,333",32.02,101,PG,Bryan Cranston,Koyu Rankin,Edward Norton,Bob Balaban,Animation,Comedy
+Bumblebee,2018,6.7,Travis Knight,66.0,"148,116",127.20,114,PG,Hailee Steinfeld,Jorge Lendeborg Jr.,John Cena,Jason Drucker,Action,SciFi
+"Honey, I Shrunk the Kids",1989,6.4,Joe Johnston,63.0,"147,045",130.72,93,U,Rick Moranis,Matt Frewer,Marcia Strassman,Kristine Sutherland,Comedy,Family
+Pokémon Detective Pikachu,2019,6.6,Rob Letterman,53.0,"147,002",144.11,104,PG,Ryan Reynolds,Justice Smith,Kathryn Newton,Bill Nighy,Action,Comedy
+The Imaginarium of Doctor Parnassus,2009,6.8,Terry Gilliam,65.0,"146,080",7.69,123,12A,Christopher Plummer,Lily Cole,Heath Ledger,Andrew Garfield,Comedy,Fantasy
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,6.3,Michael Apted,53.0,"145,854",104.39,113,PG,Ben Barnes,Skandar Keynes,Georgie Henley,Will Poulter,Family,Fantasy
+Last Action Hero,1993,6.4,John McTiernan,44.0,"142,528",50.02,130,15,Arnold Schwarzenegger,F. Murray Abraham,Art Carney,Charles Dance,Action,Comedy
+Thelma & Louise,1991,7.5,Ridley Scott,88.0,"142,439",45.36,130,15,Susan Sarandon,Geena Davis,Harvey Keitel,Michael Madsen,Crime,Drama
+Cold Mountain,2003,7.2,Anthony Minghella,73.0,"142,369",95.64,154,15,Jude Law,Nicole Kidman,Renée Zellweger,Eileen Atkins,Drama,History
+Kung Fu Panda 3,2016,7.1,Alessandro Carloni,66.0,"141,634",143.53,95,PG,Jennifer Yuh Nelson,Jack Black,Bryan Cranston,Dustin Hoffman,Animation,Action
+S.W.A.T.,2003,6.0,Clark Johnson,45.0,"141,632",116.93,117,12A,Samuel L. Jackson,Colin Farrell,Michelle Rodriguez,LL Cool J,Action,Crime
+Ralph Breaks the Internet,2018,7.0,Phil Johnston,71.0,"141,252",201.09,112,PG,Rich Moore,John C. Reilly,Sarah Silverman,Gal Gadot,Animation,Comedy
+Transformers: The Last Knight,2017,5.2,Michael Bay,27.0,"140,570",130.17,154,12A,Mark Wahlberg,Anthony Hopkins,Josh Duhamel,Laura Haddock,Action,SciFi
+Robots,2005,6.3,Chris Wedge,64.0,"137,147",128.20,91,U,Carlos Saldanha,Ewan McGregor,Halle Berry,Mel Brooks,Animation,Comedy
+The NeverEnding Story,1984,7.4,Wolfgang Petersen,46.0,"135,892",20.16,102,U,Noah Hathaway,Barret Oliver,Tami Stronach,Gerald McRaney,Drama,Family
+9,2009,7.1,Shane Acker,60.0,"135,510",31.74,79,12A,Elijah Wood,Jennifer Connelly,Crispin Glover,Christopher Plummer,Animation,Action
+Into the Woods,2014,5.9,Rob Marshall,69.0,"135,460",128.00,125,PG,Anna Kendrick,Meryl Streep,Chris Pine,Emily Blunt,Comedy,Drama
+Snakes on a Plane,2006,5.4,David R. Ellis,58.0,"134,914",34.02,105,15,Samuel L. Jackson,Julianna Margulies,Nathan Phillips,Rachel Blanchard,Action,Crime
+Seven Years in Tibet,1997,7.1,Jean-Jacques Annaud,55.0,"134,872",37.96,136,PG,Brad Pitt,David Thewlis,BD Wong,Mako,Biography,Drama
+Jack the Giant Slayer,2013,6.2,Bryan Singer,51.0,"133,935",65.19,114,12A,Nicholas Hoult,Stanley Tucci,Ewan McGregor,Bill Nighy,Comedy,Family
+Lara Croft Tomb Raider: The Cradle of Life,2003,5.6,Jan de Bont,43.0,"133,853",65.66,117,12A,Angelina Jolie,Gerard Butler,Chris Barrie,Ciarán Hinds,Action,Fantasy
+The Scorpion King,2002,5.5,Chuck Russell,45.0,"133,175",91.05,92,12,Dwayne Johnson,Steven Brand,Michael Clarke Duncan,Kelly Hu,Action,Fantasy
+Sicario 2: Soldado,2018,7.1,Stefano Sollima,61.0,"133,136",50.07,122,15,Benicio Del Toro,Josh Brolin,Isabela Merced,Jeffrey Donovan,Action,Crime
+Alice in Wonderland,1951,7.4,Clyde Geronimi,68.0,"132,899",1.07,75,U,Wilfred Jackson,Hamilton Luske,Jack Kinney,Kathryn Beaumont,Animation,Family
+Horton Hears a Who!,2008,6.8,Jimmy Hayward,71.0,"132,855",154.53,86,U,Steve Martino,Jim Carrey,Steve Carell,Carol Burnett,Animation,Comedy
+Escape from New York,1981,7.2,John Carpenter,76.0,"132,083",25.24,99,AA,Kurt Russell,Lee Van Cleef,Ernest Borgnine,Donald Pleasence,Action,SciFi
+The Count of Monte Cristo,2002,7.7,Kevin Reynolds,61.0,"132,052",54.23,131,PG-13,Jim Caviezel,Guy Pearce,Christopher Adamson,JB Blanc,Action,Drama
+The Dark Tower,2017,5.6,Nikolaj Arcel,34.0,"131,914",50.70,95,12A,Idris Elba,Matthew McConaughey,Tom Taylor,Dennis Haysbert,Action,Fantasy
+Ponyo,2008,7.7,Hayao Miyazaki,86.0,"131,186",15.09,101,U,Cate Blanchett,Matt Damon,Liam Neeson,Tomoko Yamaguchi,Animation,Comedy
+Peter Pan,1953,7.3,Clyde Geronimi,76.0,"130,736",87.40,77,U,Wilfred Jackson,Hamilton Luske,Jack Kinney,Bobby Driscoll,Animation,Family
+The Princess and the Frog,2009,7.1,Ron Clements,73.0,"130,288",104.40,97,U,John Musker,Anika Noni Rose,Keith David,Oprah Winfrey,Animation,Comedy
+Mad Max Beyond Thunderdome,1985,6.3,George Miller,71.0,"130,074",36.20,107,15,George Ogilvie,Mel Gibson,Tina Turner,Bruce Spence,Action,SciFi
+Reign of Fire,2002,6.2,Rob Bowman,39.0,"129,977",43.06,101,12,Matthew McConaughey,Christian Bale,Izabella Scorupco,Gerard Butler,Action,Fantasy
+The Mortal Instruments: City of Bones,2013,5.9,Harald Zwart,33.0,"129,531",31.17,130,12A,Lily Collins,Jamie Campbell Bower,Robert Sheehan,Jemima West,Action,Fantasy
+The Curse of the Were-Rabbit,2005,7.4,Steve Box,87.0,"128,746",56.11,85,U,Nick Park,Peter Sallis,Helena Bonham Carter,Ralph Fiennes,Animation,Comedy
+Stuart Little,1999,5.9,Rob Minkoff,61.0,"128,700",140.04,84,U,Michael J. Fox,Geena Davis,Hugh Laurie,Jonathan Lipnicki,Comedy,Family
+Spartacus,1960,7.9,Stanley Kubrick,87.0,"128,675",30.00,197,PG,Kirk Douglas,Laurence Olivier,Jean Simmons,Charles Laughton,Biography,Drama
+In the Heart of the Sea,2015,6.9,Ron Howard,47.0,"128,593",25.02,122,12A,Chris Hemsworth,Cillian Murphy,Brendan Gleeson,Ben Whishaw,Action,Biography
+The Great Wall,2016,5.9,Yimou Zhang,42.0,"128,369",45.54,103,12A,Matt Damon,Tian Jing,Willem Dafoe,Andy Lau,Action,Fantasy
+Deep Blue Sea,1999,5.9,Renny Harlin,54.0,"128,073",73.65,105,15,Thomas Jane,Saffron Burrows,Samuel L. Jackson,Jacqueline McKenzie,Action,SciFi
+Highlander,1986,7.1,Russell Mulcahy,24.0,"127,734",5.90,116,15,Christopher Lambert,Sean Connery,Clancy Brown,Roxanne Hart,Action,Fantasy
+Labyrinth,1986,7.4,Jim Henson,50.0,"127,628",12.73,101,U,David Bowie,Jennifer Connelly,Toby Froud,Shelley Thompson,Family,Fantasy
+"10,000 BC",2008,5.1,Roland Emmerich,34.0,"127,331",94.78,109,12A,Camilla Belle,Steven Strait,Marco Khan,Cliff Curtis,Action,Drama
+Lady and the Tramp,1955,7.3,Clyde Geronimi,78.0,"126,870",93.60,76,U,Wilfred Jackson,Hamilton Luske,Jack Cutting,Barbara Luddy,Animation,Comedy
+The Parent Trap,1998,6.6,Nancy Meyers,64.0,"125,880",66.31,128,U,Lindsay Lohan,Dennis Quaid,Natasha Richardson,Elaine Hendrix,Comedy,Drama
+Æon Flux,2005,5.5,Karyn Kusama,36.0,"125,627",25.86,93,15,Charlize Theron,Frances McDormand,Sophie Okonedo,Marton Csokas,Action,SciFi
+Rambo III,1988,5.8,Peter MacDonald,36.0,"125,282",53.72,102,18,Russell Mulcahy,Sylvester Stallone,Richard Crenna,Marc de Jonge,Action,
+Daybreakers,2009,6.4,Michael Spierig,57.0,"124,404",30.10,98,18,Peter Spierig,Ethan Hawke,Willem Dafoe,Sam Neill,Action,Fantasy
+Dumbo,1941,7.2,Samuel Armstrong,96.0,"124,398",1.60,64,U,Norman Ferguson,Wilfred Jackson,Jack Kinney,Bill Roberts,Animation,Drama
+Charlie's Angels: Full Throttle,2003,4.9,McG,48.0,"124,239",100.83,106,PG-13,Drew Barrymore,Lucy Liu,Cameron Diaz,Bernie Mac,Action,Comedy
+From Russia with Love,1963,7.4,Terence Young,83.0,"124,043",24.80,115,PG,Sean Connery,Robert Shaw,Lotte Lenya,Daniela Bianchi,Action,Thriller
+Johnny English Reborn,2011,6.3,Oliver Parker,46.0,"123,929",8.31,101,PG,Rowan Atkinson,Rosamund Pike,Dominic West,Roger Barclay,Action,Comedy
+Wild,2014,7.1,Jean-Marc Vallée,74.0,"123,768",37.88,115,15,Reese Witherspoon,Laura Dern,Gaby Hoffmann,Michiel Huisman,Biography,Drama
+Eragon,2006,5.1,Stefen Fangmeier,38.0,"123,505",75.03,104,PG,Ed Speleers,Sienna Guillory,Jeremy Irons,John Malkovich,Action,Family
+The Walk,2015,7.3,Robert Zemeckis,70.0,"123,314",10.14,123,PG,Joseph Gordon-Levitt,Charlotte Le Bon,Guillaume Baillargeon,Émilie Leclerc,Action,Biography
+Bill & Ted's Excellent Adventure,1989,7.0,Stephen Herek,50.0,"123,272",40.49,90,PG,Keanu Reeves,Alex Winter,George Carlin,Terry Camilleri,Comedy,Music
+R.I.P.D.,2013,5.6,Robert Schwentke,25.0,"123,132",33.62,96,12A,Ryan Reynolds,Jeff Bridges,Mary-Louise Parker,Kevin Bacon,Action,Comedy
+Cliffhanger,1993,6.4,Renny Harlin,60.0,"123,031",84.05,113,15,Sylvester Stallone,John Lithgow,Michael Rooker,Janine Turner,Action,Thriller
+The Prince of Egypt,1998,7.1,Brenda Chapman,64.0,"123,012",101.22,99,U,Steve Hickner,Simon Wells,Val Kilmer,Ralph Fiennes,Animation,Drama
+Shanghai Noon,2000,6.6,Tom Dey,77.0,"122,143",56.94,110,12,Jackie Chan,Owen Wilson,Lucy Liu,Brandon Merrill,Action,Comedy
+Maze Runner: The Death Cure,2018,6.3,Wes Ball,50.0,"121,954",58.03,143,12A,Dylan O'Brien,Ki Hong Lee,Kaya Scodelario,Thomas Brodie-Sangster,Action,SciFi
+Kubo and the Two Strings,2016,7.8,Travis Knight,84.0,"121,782",48.02,101,PG,Charlize Theron,Art Parkinson,Matthew McConaughey,Ralph Fiennes,Animation,Action
+Onward,2020,7.4,Dan Scanlon,61.0,"121,344",61.56,102,U,Tom Holland,Chris Pratt,Julia Louis-Dreyfus,Octavia Spencer,Animation,Comedy
+Australia,2008,6.6,Baz Luhrmann,53.0,"121,075",49.55,165,12A,Nicole Kidman,Hugh Jackman,Shea Adams,Eddie Baroo,Comedy,Drama
+The Predator,2018,5.3,Shane Black,48.0,"120,714",51.02,107,15,Boyd Holbrook,Trevante Rhodes,Jacob Tremblay,Keegan-Michael Key,Action,SciFi
+The Time Machine,2002,6.0,Simon Wells,42.0,"120,712",56.68,96,PG,Guy Pearce,Yancey Arias,Mark Addy,Phyllida Law,Action,SciFi
+Nerve,2016,6.5,Henry Joost,58.0,"120,560",38.58,96,15,Ariel Schulman,Emma Roberts,Dave Franco,Emily Meade,Action,Crime
+Star Trek: First Contact,1996,7.6,Jonathan Frakes,71.0,"120,461",92.00,111,12,Patrick Stewart,Jonathan Frakes,Brent Spiner,LeVar Burton,Action,Drama
+Men in Black: International,2019,5.6,F. Gary Gray,38.0,"120,220",80.00,114,12A,Chris Hemsworth,Tessa Thompson,Kumail Nanjiani,Rebecca Ferguson,Action,Comedy
+Despicable Me 3,2017,6.3,Kyle Balda,49.0,"119,985",264.62,89,U,Pierre Coffin,Eric Guillon,Steve Carell,Kristen Wiig,Animation,Comedy
+Flags of Our Fathers,2006,7.1,Clint Eastwood,79.0,"119,692",33.60,135,15,Ryan Phillippe,Barry Pepper,Joseph Cross,Jesse Bradford,Action,Drama
+Robin Hood: Men in Tights,1993,6.7,Mel Brooks,44.0,"119,526",35.74,104,PG,Cary Elwes,Richard Lewis,Roger Rees,Amy Yasbeck,Comedy,Musical
+Robin Hood,1973,7.6,Wolfgang Reitherman,57.0,"119,350",32.06,83,U,David Hand,Brian Bedford,Phil Harris,Roger Miller,Animation,Comedy
+The 13th Warrior,1999,6.6,John McTiernan,42.0,"119,142",32.70,102,15,Michael Crichton,Antonio Banderas,Diane Venora,Dennis Storhøi,Action,History
+AVPR: Aliens vs Predator - Requiem,2007,4.6,Colin Strause,29.0,"118,825",41.80,94,15,Greg Strause,Reiko Aylesworth,Steven Pasquale,Shareeka Epps,Action,Fantasy
+Hunt for the Wilderpeople,2016,7.9,Taika Waititi,81.0,"118,141",5.20,101,12A,Sam Neill,Julian Dennison,Rima Te Wiata,Rachel House,Comedy,Drama
+The Treasure of the Sierra Madre,1948,8.2,John Huston,98.0,"117,889",5.01,126,A,Humphrey Bogart,Walter Huston,Tim Holt,Bruce Bennett,Drama,Western
+The Brothers Grimm,2005,5.9,Terry Gilliam,51.0,"117,846",37.92,118,12A,Matt Damon,Heath Ledger,Monica Bellucci,Petr Ratimec,Action,Comedy
+Flushed Away,2006,6.6,David Bowers,74.0,"117,317",64.67,85,U,Sam Fell,Hugh Jackman,Kate Winslet,Ian McKellen,Animation,Comedy
+Priest,2011,5.7,Scott Stewart,41.0,"117,066",29.14,87,12A,Paul Bettany,Cam Gigandet,Maggie Q,Karl Urban,Action,Fantasy
+Journey to the Center of the Earth,2008,5.8,Eric Brevig,57.0,"116,428",101.70,93,PG,Brendan Fraser,Josh Hutcherson,Anita Briem,Seth Meyers,Action,Family
+Mortal Engines,2018,6.1,Christian Rivers,44.0,"115,922",15.95,128,12A,Hera Hilmar,Robert Sheehan,Hugo Weaving,Jihae,Action,Fantasy
+TRON,1982,6.8,Steven Lisberger,58.0,"115,872",33.00,96,A,Jeff Bridges,Bruce Boxleitner,David Warner,Cindy Morgan,Action,SciFi
+Anastasia,1997,7.2,Don Bluth,61.0,"115,707",58.41,94,U,Gary Goldman,Meg Ryan,John Cusack,Christopher Lloyd,Animation,Drama
+Wild Hogs,2007,5.8,Walt Becker,27.0,"115,592",168.27,100,12A,Tim Allen,Martin Lawrence,John Travolta,William H. Macy,Action,Comedy
+Star Trek II: The Wrath of Khan,1982,7.7,Nicholas Meyer,67.0,"115,453",78.91,113,12A,William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan,Action,SciFi
+The Boss Baby,2017,6.3,Tom McGrath,50.0,"115,162",175.00,97,U,Alec Baldwin,Steve Buscemi,Jimmy Kimmel,Lisa Kudrow,Animation,Comedy
+Nebraska,2013,7.7,Alexander Payne,87.0,"114,570",17.65,115,15,Bruce Dern,Will Forte,June Squibb,Bob Odenkirk,Comedy,Drama
+Allegiant,2016,5.7,Robert Schwentke,33.0,"113,415",66.18,120,12A,Shailene Woodley,Theo James,Jeff Daniels,Naomi Watts,Action,Mystery
+Mortal Kombat,1995,5.8,Paul W.S. Anderson,60.0,"112,951",70.45,101,15,Christopher Lambert,Robin Shou,Linden Ashby,Cary-Hiroyuki Tagawa,Action,Fantasy
+Percy Jackson: Sea of Monsters,2013,5.8,Thor Freudenthal,39.0,"112,890",68.56,106,PG,Logan Lerman,Alexandra Daddario,Brandon T. Jackson,Nathan Fillion,Family,Fantasy
+The Way Back,2010,7.3,Peter Weir,66.0,"112,765",2.70,133,12A,Jim Sturgess,Ed Harris,Colin Farrell,Dragos Bucur,Drama,History
+How to Train Your Dragon: The Hidden World,2019,7.5,Dean DeBlois,71.0,"112,500",160.80,104,PG,Jay Baruchel,America Ferrera,F. Murray Abraham,Cate Blanchett,Animation,Action
+The Host,2013,5.9,Andrew Niccol,35.0,"112,301",26.63,125,12A,Saoirse Ronan,Max Irons,Jake Abel,Diane Kruger,Action,Drama
+Skyscraper,2018,5.8,Rawson Marshall Thurber,51.0,"111,936",68.42,102,12A,Dwayne Johnson,Neve Campbell,Chin Han,Roland Møller,Action,Thriller
+Night at the Museum: Secret of the Tomb,2014,6.2,Shawn Levy,47.0,"111,808",113.75,98,PG,Ben Stiller,Robin Williams,Owen Wilson,Dick Van Dyke,Comedy,Family
+Spy Kids,2001,5.5,Robert Rodriguez,71.0,"111,405",112.72,88,U,Alexa PenaVega,Daryl Sabara,Antonio Banderas,Carla Gugino,Action,Comedy
+Rat Race,2001,6.4,Jerry Zucker,52.0,"111,318",56.62,112,12,Breckin Meyer,Amy Smart,Whoopi Goldberg,Vince Vieluf,Action,Comedy
+Thunderball,1965,7.0,Terence Young,64.0,"110,127",63.60,130,PG,Sean Connery,Claudine Auger,Adolfo Celi,Luciana Paluzzi,Action,Thriller
+Pacific Rim: Uprising,2018,5.6,Steven S. DeKnight,44.0,"110,010",59.87,111,12A,John Boyega,Scott Eastwood,Cailee Spaeny,Burn Gorman,Action,SciFi
+Gods of Egypt,2016,5.4,Alex Proyas,25.0,"109,952",31.15,127,12A,Brenton Thwaites,Nikolaj Coster-Waldau,Gerard Butler,Chadwick Boseman,Action,Fantasy
+Seeking a Friend for the End of the World,2012,6.7,Lorene Scafaria,59.0,"109,827",6.62,101,15,Steve Carell,Keira Knightley,Melanie Lynskey,Patton Oswalt,Comedy,Drama
+Atlantis: The Lost Empire,2001,6.9,Gary Trousdale,52.0,"109,505",84.05,95,U,Kirk Wise,Michael J. Fox,Jim Varney,Corey Burton,Animation,Action
+House of Flying Daggers,2004,7.5,Yimou Zhang,89.0,"109,384",11.05,119,15,Ziyi Zhang,Takeshi Kaneshiro,Andy Lau,Dandan Song,Action,Drama
+The Fall,2006,7.8,Tarsem Singh,64.0,"108,985",2.28,117,R,Lee Pace,Catinca Untaru,Justine Waddell,Kim Uylenbroek,Drama,Fantasy
+Pompeii,2014,5.5,Paul W.S. Anderson,39.0,"108,116",23.22,105,12A,Kit Harington,Emily Browning,Kiefer Sutherland,Adewale Akinnuoye-Agbaje,Action,Drama
+Treasure Planet,2002,7.2,Ron Clements,60.0,"107,873",38.18,95,U,John Musker,Joseph Gordon-Levitt,Emma Thompson,Martin Short,Animation,Family
+101 Dalmatians,1996,5.7,Stephen Herek,49.0,"106,572",136.19,103,U,Glenn Close,Jeff Daniels,Joely Richardson,Joan Plowright,Comedy,Crime
+The Good Dinosaur,2015,6.7,Peter Sohn,66.0,"106,524",123.09,93,PG,Jeffrey Wright,Frances McDormand,Maleah Nipay-Padilla,Ryan Teeple,Animation,Comedy
+Hannibal Rising,2007,6.2,Peter Webber,35.0,"106,194",27.67,121,18,Gaspard Ulliel,Rhys Ifans,Gong Li,Aaran Thomas,Action,Crime
+Maverick,1994,7.0,Richard Donner,62.0,"105,909",101.63,127,PG,Mel Gibson,Jodie Foster,James Garner,Graham Greene,Action,Comedy
+The Mexican,2001,6.1,Gore Verbinski,43.0,"105,498",66.81,123,15,Brad Pitt,Julia Roberts,James Gandolfini,J.K. Simmons,Comedy,Crime
+The Three Musketeers,2011,5.7,Paul W.S. Anderson,35.0,"105,226",20.38,110,12A,Logan Lerman,Matthew Macfadyen,Ray Stevenson,Milla Jovovich,Action,Fantasy
+Willow,1988,7.3,Ron Howard,47.0,"105,222",57.27,126,PG,Val Kilmer,Joanne Whalley,Warwick Davis,Jean Marsh,Action,Drama
+Tenacious D in the Pick of Destiny,2006,6.8,Liam Lynch,55.0,"104,889",8.32,93,15,Jack Black,Kyle Gass,JR Reed,Ronnie James Dio,Comedy,Music
+Power Rangers,2017,5.9,Dean Israelite,44.0,"104,051",85.36,124,12A,Dacre Montgomery,Naomi Scott,RJ Cyler,Ludi Lin,Action,SciFi
+Scooby-Doo,2002,5.1,Raja Gosnell,35.0,"103,541",153.29,89,PG,Matthew Lillard,Freddie Prinze Jr.,Sarah Michelle Gellar,Linda Cardellini,Comedy,Family
+The 5th Wave,2016,5.2,J Blakeson,33.0,"103,540",34.92,112,15,Chloë Grace Moretz,Matthew Zuk,Gabriela Lopez,Bailey Anne Borders,Action,SciFi
+Paddington,2014,7.2,Paul King,77.0,"103,511",76.27,95,PG,Hugh Bonneville,Sally Hawkins,Julie Walters,Jim Broadbent,Animation,Comedy
+Welcome to the Jungle,2003,6.7,Peter Berg,59.0,"103,326",47.73,104,15,Dwayne Johnson,Seann William Scott,Christopher Walken,Rosario Dawson,Action,Comedy
+Epic Movie,2007,2.4,Jason Friedberg,17.0,"103,167",39.74,86,12A,Aaron Seltzer,Kal Penn,Jennifer Coolidge,Fred Willard,Comedy,Fantasy
+The Forbidden Kingdom,2008,6.6,Rob Minkoff,57.0,"103,077",52.08,104,12A,Jackie Chan,Jet Li,Michael Angarano,Juana Collignon,Action,Fantasy
+The Lorax,2012,6.4,Chris Renaud,46.0,"103,000",214.03,86,U,Kyle Balda,Zac Efron,Taylor Swift,Danny DeVito,Animation,Comedy
+Sonic the Hedgehog,2020,6.5,Jeff Fowler,47.0,"102,588",148.97,99,PG,Ben Schwartz,James Marsden,Jim Carrey,Tika Sumpter,Action,Comedy
+Attack the Block,2011,6.7,Joe Cornish,75.0,"102,539",1.02,88,15,John Boyega,Jodie Whittaker,Alex Esmail,Leeon Jones,Action,Comedy
+Shanghai Knights,2003,6.2,David Dobkin,58.0,"102,353",60.48,114,12A,Jackie Chan,Owen Wilson,Fann Wong,Aaron Taylor-Johnson,Action,Comedy
+Where the Wild Things Are,2009,6.7,Spike Jonze,71.0,"102,268",77.23,101,PG,Max Records,Catherine O'Hara,Forest Whitaker,Pepita Emmerichs,Drama,Family
+Superman II,1980,6.8,Richard Lester,83.0,"102,223",108.19,127,A,Richard Donner,Gene Hackman,Christopher Reeve,Margot Kidder,Action,SciFi
+The Huntsman: Winter's War,2016,6.1,Cedric Nicolas-Troyan,35.0,"102,137",48.39,114,12A,Chris Hemsworth,Jessica Chastain,Charlize Theron,Emily Blunt,Action,Drama
+You Only Live Twice,1967,6.9,Lewis Gilbert,61.0,"101,889",43.08,117,A,Sean Connery,Akiko Wakabayashi,Mie Hama,Tetsurô Tanba,Action,Thriller
+Epic,2013,6.7,Chris Wedge,52.0,"101,705",107.52,102,U,Amanda Seyfried,Josh Hutcherson,Beyoncé,Colin Farrell,Animation,Family
+The Spy Who Loved Me,1977,7.1,Lewis Gilbert,55.0,"101,605",46.80,125,A,Roger Moore,Barbara Bach,Curd Jürgens,Richard Kiel,Action,Thriller
+Brother Bear,2003,6.8,Aaron Blaise,48.0,"101,451",85.34,85,U,Robert Walker,Joaquin Phoenix,Jeremy Suarez,Rick Moranis,Animation,Comedy
+Poseidon,2006,5.7,Wolfgang Petersen,50.0,"100,870",60.67,98,12A,Richard Dreyfuss,Kurt Russell,Emmy Rossum,Josh Lucas,Action,Thriller
+Live and Let Die,1973,6.8,Guy Hamilton,55.0,"100,263",35.38,121,A,Roger Moore,Yaphet Kotto,Jane Seymour,Clifton James,Action,Thriller
+Bean,1997,6.5,Mel Smith,52.0,"100,214",45.32,89,PG,Rowan Atkinson,Peter MacNicol,John Mills,Pamela Reed,Comedy,Family
+Anaconda,1997,4.8,Luis Llosa,37.0,"99,530",65.89,89,15,Jon Voight,Jennifer Lopez,Eric Stoltz,Ice Cube,Action,Horror
+Octopussy,1983,6.5,John Glen,63.0,"99,520",67.90,131,PG,Roger Moore,Maud Adams,Louis Jourdan,Kristina Wayborn,Action,Thriller
+Diamonds Are Forever,1971,6.6,Guy Hamilton,59.0,"99,401",43.82,120,12,Sean Connery,Jill St. John,Charles Gray,Lana Wood,Action,Thriller
+Escape Room,2019,6.4,Adam Robitel,48.0,"99,291",57.01,99,15,Taylor Russell,Logan Miller,Jay Ellis,Tyler Labine,Action,Horror
+Extremely Loud & Incredibly Close,2011,6.9,Stephen Daldry,46.0,"99,164",31.85,129,12A,Thomas Horn,Tom Hanks,Sandra Bullock,Max von Sydow,Drama,Mystery
+Your Highness,2011,5.5,David Gordon Green,31.0,"99,038",21.60,102,15,Danny McBride,Natalie Portman,James Franco,Rasmus Hardiker,Comedy,Fantasy
+The Man with the Golden Gun,1974,6.7,Guy Hamilton,43.0,"98,788",20.97,125,A,Roger Moore,Christopher Lee,Britt Ekland,Maud Adams,Action,Thriller
+The Motorcycle Diaries,2004,7.8,Walter Salles,75.0,"98,587",16.76,126,15,Gael García Bernal,Rodrigo De la Serna,Mía Maestro,Mercedes Morán,Biography,Drama
+The Last Witch Hunter,2015,6.0,Breck Eisner,34.0,"98,316",27.37,106,12A,Vin Diesel,Rose Leslie,Elijah Wood,Ólafur Darri Ólafsson,Action,Fantasy
+Alice Through the Looking Glass,2016,6.2,James Bobin,34.0,"98,291",77.04,113,PG,Mia Wasikowska,Johnny Depp,Helena Bonham Carter,Anne Hathaway,Family,Fantasy
+Paper Towns,2015,6.2,Jake Schreier,56.0,"97,968",32.00,109,12A,Nat Wolff,Cara Delevingne,Austin Abrams,Justice Smith,Comedy,Drama
+Licence to Kill,1989,6.6,John Glen,58.0,"97,693",34.67,133,PG-13,Timothy Dalton,Robert Davi,Carey Lowell,Talisa Soto,Action,Thriller
+The AristoCats,1970,7.1,Wolfgang Reitherman,66.0,"97,237",37.68,78,U,Phil Harris,Eva Gabor,Sterling Holloway,Scatman Crothers,Animation,Comedy
+Zathura: A Space Adventure,2005,6.2,Jon Favreau,67.0,"97,213",29.26,101,PG,Josh Hutcherson,Jonah Bobo,Dax Shepard,Tim Robbins,Action,Comedy
+Crocodile Dundee,1986,6.6,Peter Faiman,62.0,"97,181",174.64,97,15,Paul Hogan,Linda Kozlowski,John Meillon,David Gulpilil,Action,Comedy
+ParaNorman,2012,7.0,Chris Butler,72.0,"96,782",56.00,92,PG,Sam Fell,Kodi Smit-McPhee,Anna Kendrick,Christopher Mintz-Plasse,Animation,Comedy
+Journey 2: The Mysterious Island,2012,5.8,Brad Peyton,41.0,"96,686",103.86,94,PG,Josh Hutcherson,Dwayne Johnson,Michael Caine,Luis Guzmán,Action,Comedy
+Conan the Barbarian,2011,5.2,Marcus Nispel,36.0,"96,629",21.30,113,15,Jason Momoa,Ron Perlman,Rose McGowan,Stephen Lang,Action,Fantasy
+Cool Runnings,1993,7.0,Jon Turteltaub,60.0,"96,579",68.86,98,PG,John Candy,Leon,Doug E. Doug,Rawle D. Lewis,Comedy,Family
+Grimsby,2016,6.2,Louis Leterrier,44.0,"96,219",6.86,83,15,Sacha Baron Cohen,Mark Strong,Rebel Wilson,Freddie Crowder,Action,Comedy
+The Legend of Zorro,2005,6.0,Martin Campbell,47.0,"95,854",46.46,129,PG,Antonio Banderas,Catherine Zeta-Jones,Rufus Sewell,Alberto Reyes,Action,Romance
+Home,2015,6.6,Tim Johnson,55.0,"95,842",177.40,94,U,Jim Parsons,Rihanna,Steve Martin,Jennifer Lopez,Animation,Comedy
+Jingle All The Way,1996,5.6,Brian Levant,34.0,"95,630",60.57,89,PG,Arnold Schwarzenegger,Sinbad,Phil Hartman,Rita Wilson,Comedy,Family
+The Core,2003,5.5,Jon Amiel,48.0,"95,302",31.19,135,12A,Aaron Eckhart,Hilary Swank,Delroy Lindo,Bruce Greenwood,Action,SciFi
+For Your Eyes Only,1981,6.7,John Glen,54.0,"94,987",62.30,127,A,Roger Moore,Carole Bouquet,Topol,Lynn-Holly Johnson,Action,Thriller
+Letters to Juliet,2010,6.5,Gary Winick,50.0,"94,891",53.03,105,PG,Amanda Seyfried,Gael García Bernal,Vanessa Redgrave,Marcia DeBonis,Comedy,Drama
+Sahara,2005,6.0,Breck Eisner,41.0,"94,658",68.67,124,12A,Matthew McConaughey,Penélope Cruz,Steve Zahn,Jude Akuwudike,Action,Comedy
+Cloudy with a Chance of Meatballs 2,2013,6.4,Cody Cameron,59.0,"94,644",119.79,95,U,Kris Pearn,Bill Hader,Anna Faris,Will Forte,Animation,Comedy
+DragonHeart,1996,6.5,Rob Cohen,49.0,"94,262",51.37,103,PG,Dennis Quaid,Sean Connery,Dina Meyer,Pete Postlethwaite,Action,Fantasy
+Babylon A.D.,2008,5.6,Mathieu Kassovitz,26.0,"94,200",22.53,90,12A,Vin Diesel,Michelle Yeoh,Mélanie Thierry,Gérard Depardieu,Action,SciFi
+The Losers,2010,6.3,Sylvain White,44.0,"94,182",23.58,97,12A,Idris Elba,Zoe Saldana,Jeffrey Dean Morgan,Chris Evans,Action,Crime
+Moonraker,1979,6.3,Lewis Gilbert,66.0,"94,145",70.31,126,A,Roger Moore,Lois Chiles,Michael Lonsdale,Richard Kiel,Action,SciFi
+WarGames,1983,7.1,John Badham,77.0,"93,887",79.57,114,PG,Matthew Broderick,Ally Sheedy,John Wood,Dabney Coleman,Action,Drama
+Broken Arrow,1996,6.0,John Woo,61.0,"93,444",70.77,108,15,John Travolta,Christian Slater,Samantha Mathis,Delroy Lindo,Action,Thriller
+Dead Man,1995,7.6,Jim Jarmusch,62.0,"92,741",1.04,121,18,Johnny Depp,Gary Farmer,Crispin Glover,Lance Henriksen,Drama,Fantasy
+The Sword in the Stone,1963,7.2,Wolfgang Reitherman,61.0,"92,350",22.18,79,U,Clyde Geronimi,David Hand,Rickie Sorensen,Sebastian Cabot,Animation,Comedy
+Maleficent: Mistress of Evil,2019,6.6,Joachim Rønning,43.0,"91,956",113.93,119,PG,Angelina Jolie,Elle Fanning,Harris Dickinson,Michelle Pfeiffer,Family,Fantasy
+The Living Daylights,1987,6.7,John Glen,60.0,"91,930",51.19,130,PG,Timothy Dalton,Maryam d'Abo,Jeroen Krabbé,Joe Don Baker,Action,Thriller
+Season of the Witch,2011,5.4,Dominic Sena,28.0,"91,721",24.83,95,15,Nicolas Cage,Ron Perlman,Claire Foy,Stephen Campbell Moore,Action,Fantasy
+A View to a Kill,1985,6.3,John Glen,40.0,"91,522",50.33,131,PG,Roger Moore,Christopher Walken,Tanya Roberts,Grace Jones,Action,Thriller
+Meet the Robinsons,2007,6.8,Stephen J. Anderson,61.0,"91,244",97.82,95,U,Daniel Hansen,Wesley Singerman,Angela Bassett,Jordan Fry,Animation,Comedy
+The Spiderwick Chronicles,2008,6.5,Mark Waters,62.0,"90,895",71.20,96,PG,Freddie Highmore,Sarah Bolger,David Strathairn,Mary-Louise Parker,Action,Drama
+Bedtime Stories,2008,6.0,Adam Shankman,33.0,"90,416",110.10,99,PG,Adam Sandler,Keri Russell,Courteney Cox,Guy Pearce,Comedy,Family
+Hardcore Henry,2015,6.7,Ilya Naishuller,51.0,"90,344",9.25,96,18,Sharlto Copley,Tim Roth,Haley Bennett,Danila Kozlovskiy,Action,SciFi
+The Magnificent Seven,1960,7.7,John Sturges,74.0,"90,337",4.91,128,U,Yul Brynner,Steve McQueen,Charles Bronson,Eli Wallach,Action,Western
+Open Season,2006,6.1,Roger Allers,49.0,"89,838",85.11,86,PG,Jill Culton,Anthony Stacchi,Ashton Kutcher,Martin Lawrence,Animation,Comedy
+Monsters,2010,6.4,Gareth Edwards,63.0,"89,755",0.24,94,12A,Scoot McNairy,Whitney Able,Mario Zuniga Benavides,Annalee Jefferies,Drama,Romance
+The Muppets,2011,7.1,James Bobin,75.0,"89,224",88.63,120,U,Amy Adams,Jason Segel,Chris Cooper,Rashida Jones,Comedy,Family
+The Guardian,2006,6.9,Andrew Davis,53.0,"89,174",55.01,139,12A,Kevin Costner,Ashton Kutcher,Sela Ward,Melissa Sagemiller,Action,Drama
+Elektra,2005,4.7,Rob Bowman,34.0,"89,014",24.41,97,12A,Jennifer Garner,Goran Visnjic,Will Yun Lee,Kirsten Zien,Action,Crime
+The Road to El Dorado,2000,6.9,Bibo Bergeron,51.0,"88,780",50.86,89,U,Don Paul,Jeffrey Katzenberg,Kevin Kline,Kenneth Branagh,Animation,Comedy
+Turbo,2013,6.4,David Soren,58.0,"88,713",83.03,96,U,Ryan Reynolds,Paul Giamatti,Maya Rudolph,Samuel L. Jackson,Animation,Comedy
+Chicken Little,2005,5.7,Mark Dindal,48.0,"88,177",135.39,81,U,Zach Braff,Joan Cusack,Garry Marshall,Don Knotts,Animation,Comedy
+xXx: Return of Xander Cage,2017,5.2,D.J. Caruso,42.0,"88,036",44.90,107,12A,Vin Diesel,Donnie Yen,Deepika Padukone,Kris Wu,Action,Thriller
+The Fox and the Hound,1981,7.3,Ted Berman,65.0,"87,483",63.46,83,U,Richard Rich,Art Stevens,David Hand,Wolfgang Reitherman,Animation,Drama
+Teenage Mutant Ninja Turtles: Out of the Shadows,2016,6.0,Dave Green,40.0,"86,992",82.05,112,12A,Megan Fox,Will Arnett,Tyler Perry,Laura Linney,Action,Comedy
+Around the World in 80 Days,2004,5.9,Frank Coraci,49.0,"86,923",24.01,120,PG,Jackie Chan,Steve Coogan,Jim Broadbent,Kathy Bates,Action,Comedy
+The Smurfs,2011,5.4,Raja Gosnell,30.0,"86,037",142.61,103,U,Hank Azaria,Katy Perry,Jonathan Winters,Neil Patrick Harris,Animation,Comedy
+Mirror Mirror,2012,5.6,Tarsem Singh,46.0,"85,609",64.94,106,PG,Lily Collins,Julia Roberts,Armie Hammer,Nathan Lane,Comedy,Drama
+Dante's Peak,1997,6.0,Roger Donaldson,43.0,"85,395",67.13,108,12,Pierce Brosnan,Linda Hamilton,Jamie Renée Smith,Jeremy Foley,Action,Thriller
+Star Trek: The Motion Picture,1979,6.4,Robert Wise,48.0,"85,199",82.26,132,U,William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan,Mystery,SciFi
+Arrietty,2010,7.6,Hiromasa Yonebayashi,80.0,"84,939",19.20,94,U,Amy Poehler,Will Arnett,Mirai Shida,Ryûnosuke Kamiki,Animation,Family
+The Angry Birds Movie,2016,6.3,Clay Kaytis,43.0,"84,306",107.51,97,U,Fergal Reilly,Jason Sudeikis,Josh Gad,Danny McBride,Animation,Action
+On Her Majesty's Secret Service,1969,6.7,Peter R. Hunt,61.0,"84,181",22.80,142,PG,George Lazenby,Diana Rigg,Telly Savalas,Gabriele Ferzetti,Action,Thriller
+A Monster Calls,2016,7.5,J.A. Bayona,76.0,"83,749",3.73,108,12A,Lewis MacDougall,Sigourney Weaver,Felicity Jones,Toby Kebbell,Drama,Family
+Rio 2,2014,6.3,Carlos Saldanha,49.0,"83,737",131.54,101,U,Jesse Eisenberg,Anne Hathaway,Jemaine Clement,Andy Garcia,Animation,Comedy
+The SpongeBob SquarePants Movie,2004,7.1,Stephen Hillenburg,66.0,"83,659",85.42,87,U,Mark Osborne,Tom Kenny,Jeffrey Tambor,Rodger Bumpass,Animation,Action
+Penguins of Madagascar,2014,6.7,Eric Darnell,53.0,"83,583",83.35,92,U,Simon J. Smith,Tom McGrath,Chris Miller,Christopher Knights,Animation,Comedy
+The Pink Panther,2006,5.7,Shawn Levy,38.0,"83,395",82.23,93,PG,Steve Martin,Kevin Kline,Jean Reno,Emily Mortimer,Comedy,Crime
+Goosebumps,2015,6.3,Rob Letterman,60.0,"83,288",80.08,103,PG,Jack Black,Dylan Minnette,Odeya Rush,Ryan Lee,Comedy,Family
+Cars 3,2017,6.7,Brian Fee,59.0,"83,115",152.90,102,U,Owen Wilson,Cristela Alonzo,Chris Cooper,Nathan Fillion,Animation,Comedy
+Sky Captain and the World of Tomorrow,2004,6.0,Kerry Conran,64.0,"82,969",37.76,106,PG,Gwyneth Paltrow,Jude Law,Angelina Jolie,Giovanni Ribisi,Action,Mystery
+The Land Before Time,1988,7.4,Don Bluth,66.0,"82,877",48.09,69,U,Pat Hingle,Gabriel Damon,Judith Barsi,Helen Shaver,Animation,Drama
+Hellboy,2019,5.2,Neil Marshall,31.0,"82,475",21.90,120,15,David Harbour,Milla Jovovich,Ian McShane,Sasha Lane,Action,Fantasy
+Dope,2015,7.2,Rick Famuyiwa,72.0,"82,216",17.47,103,15,Shameik Moore,Tony Revolori,Kiersey Clemons,Kimberly Elise,Comedy,Crime
+Sky High,2005,6.2,Mike Mitchell,62.0,"81,887",63.95,100,PG,Kurt Russell,Kelly Preston,Michael Angarano,Danielle Panabaker,Comedy,Family
+Beasts of the Southern Wild,2012,7.3,Benh Zeitlin,86.0,"81,814",12.80,93,12A,Quvenzhané Wallis,Dwight Henry,Levy Easterly,Lowell Landes,Drama,Fantasy
+King Kong,1933,7.9,Merian C. Cooper,90.0,"81,658",10.00,100,A,Ernest B. Schoedsack,Fay Wray,Robert Armstrong,Bruce Cabot,Horror,SciFi
+Star Trek IV: The Voyage Home,1986,7.3,Leonard Nimoy,71.0,"81,214",109.71,119,PG,William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan,Action,Comedy
+Holes,2003,7.0,Andrew Davis,71.0,"81,016",67.41,117,PG,Shia LaBeouf,Sigourney Weaver,Jon Voight,Tim Blake Nelson,Comedy,Drama
+Final Fantasy: The Spirits Within,2001,6.4,Hironobu Sakaguchi,49.0,"80,806",32.13,106,PG,Motonori Sakakibara,Alec Baldwin,Steve Buscemi,Ming-Na Wen,Animation,Action
+The Wild Bunch,1969,7.9,Sam Peckinpah,97.0,"80,806",12.06,145,18,William Holden,Ernest Borgnine,Robert Ryan,Edmond O'Brien,Action,Western
+The BFG,2016,6.4,Steven Spielberg,66.0,"80,452",55.48,117,PG,Mark Rylance,Ruby Barnhill,Penelope Wilton,Jemaine Clement,Family,Fantasy
+Legend of the Guardians: The Owls of Ga'Hoole,2010,6.9,Zack Snyder,53.0,"80,157",55.68,97,PG,Jim Sturgess,Hugo Weaving,David Wenham,Emily Barclay,Animation,Action
+Mechanic: Resurrection,2016,5.7,Dennis Gansel,38.0,"79,662",21.22,98,15,Jason Statham,Jessica Alba,Tommy Lee Jones,Michelle Yeoh,Action,Crime
+Alvin and the Chipmunks,2007,5.2,Tim Hill,39.0,"79,573",217.33,92,U,Jason Lee,Ross Bagdasarian Jr.,Janice Karman,David Cross,Animation,Comedy
+The Kings of Summer,2013,7.1,Jordan Vogt-Roberts,61.0,"79,212",1.29,95,15,Nick Robinson,Gabriel Basso,Moises Arias,Nick Offerman,Comedy,Drama
+Hidalgo,2004,6.7,Joe Johnston,54.0,"78,997",67.29,136,12A,Viggo Mortensen,Omar Sharif,Zuleikha Robinson,Louise Lombard,Action,Biography
+Star Trek: Generations,1994,6.6,David Carson,55.0,"78,395",75.67,118,PG,Patrick Stewart,William Shatner,Malcolm McDowell,Jonathan Frakes,Action,Mystery
+Battlefield Earth,2000,2.5,Roger Christian,9.0,"78,353",21.47,118,12,John Travolta,Forest Whitaker,Barry Pepper,Kim Coates,Action,SciFi
+Speed 2: Cruise Control,1997,3.9,Jan de Bont,23.0,"77,926",48.61,121,PG,Sandra Bullock,Jason Patric,Willem Dafoe,Temuera Morrison,Action,Crime
+Space Cowboys,2000,6.4,Clint Eastwood,73.0,"76,860",90.46,130,PG,Clint Eastwood,Tommy Lee Jones,Donald Sutherland,James Garner,Action,Thriller
+Star Trek III: The Search for Spock,1984,6.7,Leonard Nimoy,56.0,"76,830",76.47,105,PG,William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan,Action,SciFi
+Fool's Gold,2008,5.7,Andy Tennant,29.0,"75,919",70.23,112,12A,Matthew McConaughey,Kate Hudson,Donald Sutherland,Alexis Dziena,Action,Comedy
+Star Trek: Nemesis,2002,6.4,Stuart Baird,51.0,"75,813",43.25,116,12A,Patrick Stewart,Jonathan Frakes,Brent Spiner,LeVar Burton,Action,SciFi
+The Peanut Butter Falcon,2019,7.6,Tyler Nilson,70.0,"75,485",13.12,97,12A,Michael Schwartz,Zack Gottsagen,Ann Owens,Dakota Johnson,Comedy,Drama
+Trolls,2016,6.5,Mike Mitchell,55.0,"75,128",153.71,92,U,Walt Dohrn,Anna Kendrick,Justin Timberlake,Zooey Deschanel,Animation,Comedy
+Inkheart,2008,6.1,Iain Softley,49.0,"75,030",17.30,106,PG,Brendan Fraser,Andy Serkis,Eliza Bennett,Sienna Guillory,Family,Fantasy
+The African Queen,1951,7.8,John Huston,91.0,"74,994",0.54,105,U,Humphrey Bogart,Katharine Hepburn,Robert Morley,Peter Bull,Drama,Romance
+Into the Blue,2005,5.9,John Stockwell,45.0,"74,782",18.47,110,15,Paul Walker,Jessica Alba,Scott Caan,Ashley Scott,Action,Crime
+Six Days Seven Nights,1998,5.8,Ivan Reitman,51.0,"74,416",74.33,102,12,Harrison Ford,Anne Heche,David Schwimmer,Jacqueline Obradors,Action,Comedy
+Jaws 2,1978,5.8,Jeannot Szwarc,51.0,"73,919",102.92,116,A,Roy Scheider,Lorraine Gary,Murray Hamilton,Joseph Mascolo,Horror,Thriller
+Seventh Son,2014,5.5,Sergei Bodrov,30.0,"73,895",17.22,102,12A,Ben Barnes,Julianne Moore,Jeff Bridges,Alicia Vikander,Action,Fantasy
+George of the Jungle,1997,5.5,Sam Weisman,53.0,"73,731",105.26,92,U,Brendan Fraser,Leslie Mann,Thomas Haden Church,Richard Roundtree,Action,Comedy
+Outlander,2008,6.2,Howard McCain,40.0,"72,865",0.16,115,15,Jim Caviezel,Sophia Myles,Ron Perlman,Jack Huston,Action,SciFi
+The Ruins,2008,5.9,Carter Smith,44.0,"72,427",17.43,90,18,Shawn Ashmore,Jena Malone,Jonathan Tucker,Laura Ramsey,Fantasy,Horror
+Star Trek VI: The Undiscovered Country,1991,7.2,Nicholas Meyer,65.0,"72,390",74.89,110,PG,William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan,Action,SciFi
+Star Trek: Insurrection,1998,6.4,Jonathan Frakes,64.0,"72,323",70.12,103,PG,Patrick Stewart,Jonathan Frakes,Brent Spiner,LeVar Burton,Action,SciFi
+The Spy Who Dumped Me,2018,6.1,Susanna Fogel,52.0,"72,124",33.56,117,15,Justin Theroux,Blanka Györfi-Tóth,Vilma Szécsi,Mila Kunis,Action,Comedy
+Underworld: Blood Wars,2016,5.8,Anna Foerster,23.0,"72,054",30.35,91,15,Kate Beckinsale,Theo James,Tobias Menzies,Lara Pulver,Action,Fantasy
+Bill & Ted's Bogus Journey,1991,6.3,Peter Hewitt,60.0,"72,035",38.04,93,PG,Keanu Reeves,Alex Winter,William Sadler,Joss Ackland,Comedy,Fantasy
+Christopher Robin,2018,7.3,Marc Forster,60.0,"71,918",99.22,104,PG,Ewan McGregor,Hayley Atwell,Bronte Carmichael,Mark Gatiss,Animation,Comedy
+Dragonball Evolution,2009,2.5,James Wong,45.0,"71,763",9.35,85,PG,Justin Chatwin,James Marsters,Chow Yun-Fat,Emmy Rossum,Action,Fantasy
+Escape from L.A.,1996,5.7,John Carpenter,54.0,"71,629",25.48,101,15,Kurt Russell,Steve Buscemi,Stacy Keach,A.J. Langer,Action,SciFi
+Mission to Mars,2000,5.7,Brian De Palma,34.0,"71,499",60.88,114,PG,Tim Robbins,Gary Sinise,Don Cheadle,Connie Nielsen,SciFi,Thriller
+Free Willy,1993,6.0,Simon Wincer,79.0,"71,420",77.70,112,U,Jason James Richter,Lori Petty,Michael Madsen,Jayne Atkinson,Drama,Family
+The Postman,1997,6.1,Kevin Costner,29.0,"70,521",17.63,177,15,Kevin Costner,Will Patton,Larenz Tate,Olivia Williams,Action,Drama
+The Mountain Between Us,2017,6.4,Hany Abu-Assad,48.0,"70,514",30.35,112,12A,Kate Winslet,Idris Elba,Beau Bridges,Dermot Mulroney,Action,Drama
+Lost in Space,1998,5.2,Stephen Hopkins,42.0,"70,454",69.12,130,PG,Gary Oldman,William Hurt,Matt LeBlanc,Mimi Rogers,Action,Family
+Speed Racer,2008,6.0,Lana Wachowski,37.0,"70,444",43.95,135,PG,Lilly Wachowski,Emile Hirsch,Matthew Fox,Christina Ricci,Action,Comedy
+Spirit: Stallion of the Cimarron,2002,7.2,Kelly Asbury,52.0,"70,313",73.28,83,U,Lorna Cook,Matt Damon,James Cromwell,Daniel Studi,Animation,Drama
+First Knight,1995,6.0,Jerry Zucker,57.0,"70,025",37.60,134,PG,Sean Connery,Richard Gere,Julia Ormond,Ben Cross,Action,Drama
+Frozen,2010,6.1,Adam Green,43.0,"69,958",0.24,93,15,Shawn Ashmore,Emma Bell,Kevin Zegers,Ed Ackerman,Drama,Thriller
+Mortdecai,2015,5.5,David Koepp,27.0,"69,507",7.61,107,12A,Johnny Depp,Gwyneth Paltrow,Ewan McGregor,Olivia Munn,Action,Comedy
+Dumbo,2019,6.3,Tim Burton,51.0,"69,448",114.77,112,PG,Colin Farrell,Michael Keaton,Danny DeVito,Eva Green,Family,Fantasy
+The Dirty Dozen,1967,7.7,Robert Aldrich,73.0,"69,076",45.30,150,X,Lee Marvin,Ernest Borgnine,Charles Bronson,John Cassavetes,Action,War
+Peter Pan,2003,6.8,P.J. Hogan,64.0,"68,642",48.46,113,PG,Jeremy Sumpter,Jason Isaacs,Olivia Williams,Lynn Redgrave,Family,Fantasy
+xXx²: The Next Level,2005,4.5,Lee Tamahori,37.0,"68,581",26.87,101,12A,Ice Cube,Samuel L. Jackson,Willem Dafoe,Scott Speedman,Action,Crime
+Land of the Lost,2009,5.3,Brad Silberling,32.0,"68,104",49.44,102,12A,Will Ferrell,Danny McBride,Anna Friel,Jorma Taccone,Action,Comedy
+Robin Hood,2018,5.3,Otto Bathurst,32.0,"67,923",30.82,116,12A,Taron Egerton,Jamie Foxx,Ben Mendelsohn,Eve Hewson,Action,Drama
+A Dog's Purpose,2017,7.2,Lasse Hallström,43.0,"67,919",64.51,100,PG,Josh Gad,Dennis Quaid,Peggy Lipton,Bryce Gheisar,Comedy,Drama
+Johnny English Strikes Again,2018,6.2,David Kerr,39.0,"67,741",4.41,89,PG,Rowan Atkinson,Ben Miller,Olga Kurylenko,Emma Thompson,Action,Comedy
+Act of Valour,2012,6.5,Mike McCoy,40.0,"67,455",70.01,110,15,Scott Waugh,Alex Veadov,Roselyn Sanchez,Nestor Serrano,Action,Thriller
+Agora,2009,7.2,Alejandro Amenábar,55.0,"67,432",0.62,127,12,Rachel Weisz,Max Minghella,Oscar Isaac,Ashraf Barhom,Biography,Drama
+The Eagle,2011,6.2,Kevin Macdonald,55.0,"67,277",19.49,114,12A,Channing Tatum,Jamie Bell,Donald Sutherland,István Göz,Action,Drama
+Superman III,1983,5.0,Richard Lester,44.0,"67,240",59.95,125,PG,Christopher Reeve,Richard Pryor,Margot Kidder,Jackie Cooper,Action,Comedy
+Gulliver's Travels,2010,4.9,Rob Letterman,33.0,"67,165",42.78,85,PG,Jack Black,Emily Blunt,Jason Segel,Amanda Peet,Comedy,Family
+The Book of Life,2014,7.3,Jorge R. Gutiérrez,67.0,"66,734",50.15,95,U,Diego Luna,Zoe Saldana,Channing Tatum,Ron Perlman,Animation,Comedy
+Zoolander 2,2016,4.7,Ben Stiller,34.0,"66,453",28.85,101,12A,Ben Stiller,Owen Wilson,Penélope Cruz,Will Ferrell,Action,Comedy
+Paddington 2,2017,7.8,Paul King,88.0,"66,449",40.44,103,PG,Ben Whishaw,Hugh Grant,Hugh Bonneville,Sally Hawkins,Animation,Comedy
+Into the Storm,2014,5.8,Steven Quale,44.0,"66,303",47.60,89,12A,Richard Armitage,Sarah Wayne Callies,Matt Walsh,Max Deacon,Action,Drama
+Scary Stories to Tell in the Dark,2019,6.2,André Øvredal,61.0,"66,069",62.74,108,15,Zoe Margaret Colletti,Michael Garza,Gabriel Rush,Austin Abrams,Horror,Mystery
+The Blue Lagoon,1980,5.8,Randal Kleiser,31.0,"65,333",58.85,104,AA,Brooke Shields,Christopher Atkins,Leo McKern,William Daniels,Drama,Romance
+Joan of Arc,1999,6.4,Luc Besson,54.0,"65,008",14.28,158,15,Milla Jovovich,John Malkovich,Rab Affleck,Stéphane Algoud,Biography,Drama
+Mr. Peabody & Sherman,2014,6.8,Rob Minkoff,59.0,"64,943",111.51,92,U,Ty Burrell,Max Charles,Stephen Colbert,Leslie Mann,Animation,Comedy
+The Saint,1997,6.2,Phillip Noyce,50.0,"64,481",61.36,116,12,Val Kilmer,Elisabeth Shue,Rade Serbedzija,Valeriy Nikolaev,Action,Romance
+Brotherhood of the Wolf,2001,7.0,Christophe Gans,57.0,"64,120",11.26,142,15,Samuel Le Bihan,Mark Dacascos,Jérémie Renier,Vincent Cassel,Action,Drama
+Spy Kids 2: Island of Lost Dreams,2002,5.2,Robert Rodriguez,66.0,"63,917",85.85,100,U,Alexa PenaVega,Daryl Sabara,Antonio Banderas,Carla Gugino,Action,Comedy
+Never Say Never Again,1983,6.2,Irvin Kershner,68.0,"63,915",55.50,134,12,Sean Connery,Kim Basinger,Klaus Maria Brandauer,Max von Sydow,Action,Thriller
+City of Ember,2008,6.5,Gil Kenan,58.0,"63,836",7.87,90,PG,Saoirse Ronan,Toby Jones,Bill Murray,David Ryall,Family,Fantasy
+The Dark Crystal,1982,7.2,Jim Henson,66.0,"63,660",40.58,93,A,Frank Oz,Jim Henson,Kathryn Mullen,Frank Oz,Family,Fantasy
+Papillon,2017,7.2,Michael Noer,51.0,"63,553",2.34,133,15,Charlie Hunnam,Damijan Oklopdzic,Christopher Fairbank,Jason Ryan,Biography,Crime
+13 Assassins,2010,7.6,Takashi Miike,84.0,"63,254",0.80,141,15,Kôji Yakusho,Takayuki Yamada,Yûsuke Iseya,Ikki Sawamura,Action,Drama
+Eight Below,2006,7.3,Frank Marshall,64.0,"62,535",81.61,120,PG,Paul Walker,Jason Biggs,Bruce Greenwood,Moon Bloodgood,Drama,Family
+TMNT,2007,6.2,Kevin Munroe,41.0,"62,410",54.15,87,PG,Patrick Stewart,Mako,Chris Evans,Sarah Michelle Gellar,Animation,Action
+James And The Giant Peach,1996,6.7,Henry Selick,78.0,"62,399",28.93,79,U,Paul Terry,Joanna Lumley,Pete Postlethwaite,Simon Callow,Animation,Family
+Hotel Transylvania 3,2018,6.3,Genndy Tartakovsky,54.0,"62,245",167.51,97,U,Adam Sandler,Andy Samberg,Selena Gomez,Kevin James,Animation,Comedy
+Legend,1985,6.4,Ridley Scott,30.0,"61,855",15.50,94,PG,Tom Cruise,Mia Sara,Tim Curry,David Bennent,Fantasy,Romance
+Pan,2015,5.7,Joe Wright,36.0,"61,772",35.09,111,PG,Levi Miller,Hugh Jackman,Garrett Hedlund,Rooney Mara,Comedy,Family
+Silent Hill: Revelation,2012,5.0,M.J. Bassett,16.0,"61,418",17.53,95,15,Adelaide Clemens,Kit Harington,Sean Bean,Carrie-Anne Moss,Action,Fantasy
+Goal!,2005,6.7,Danny Cannon,53.0,"61,403",4.28,118,12A,Michael Winterbottom,Kuno Becker,Alessandro Nivola,Anna Friel,Drama,Romance
+Timeline,2003,5.7,Richard Donner,28.0,"61,328",19.48,116,12A,Paul Walker,Gerard Butler,Billy Connolly,Frances O'Connor,Action,SciFi
+Star Wars: The Clone Wars,2008,5.9,Dave Filoni,35.0,"60,909",35.16,98,PG,Matt Lanter,Nika Futterman,Tom Kane,Ashley Eckstein,Animation,Action
+The Cat in the Hat,2003,4.0,Bo Welch,19.0,"60,721",101.15,82,PG,Mike Myers,Spencer Breslin,Dakota Fanning,Alec Baldwin,Comedy,Family
+Far and Away,1992,6.6,Ron Howard,49.0,"60,695",58.88,140,12,Tom Cruise,Nicole Kidman,Thomas Gibson,Robert Prosky,Drama,Romance
+Time Bandits,1981,7.0,Terry Gilliam,79.0,"60,514",42.37,116,PG,Sean Connery,Shelley Duvall,John Cleese,Katherine Helmond,Comedy,Fantasy
+The Rescuers,1977,6.9,John Lounsbery,74.0,"60,277",71.22,78,U,Wolfgang Reitherman,Art Stevens,Bob Newhart,Eva Gabor,Animation,Comedy
+Point Break,2015,5.3,Ericson Core,34.0,"60,070",28.78,114,12A,Edgar Ramírez,Luke Bracey,Ray Winstone,Teresa Palmer,Action,Crime
+Ice Age: Collision Course,2016,5.7,Mike Thurmeier,34.0,"59,971",64.06,94,U,Galen T. Chu,Ray Romano,Denis Leary,John Leguizamo,Animation,Comedy
+Vertical Limit,2000,5.9,Martin Campbell,48.0,"59,855",69.24,124,12,Scott Glenn,Chris O'Donnell,Bill Paxton,Robin Tunney,Action,Drama
+Titan A.E.,2000,6.6,Don Bluth,48.0,"59,735",22.75,94,PG,Gary Goldman,Matt Damon,Drew Barrymore,Bill Pullman,Animation,Action
+The Darkest Hour,2011,4.9,Chris Gorak,18.0,"59,140",21.43,89,12A,Emile Hirsch,Olivia Thirlby,Max Minghella,Rachael Taylor,Action,Horror
+The Emoji Movie,2017,3.3,Tony Leondis,12.0,"58,970",86.09,86,U,T.J. Miller,James Corden,Anna Faris,Maya Rudolph,Animation,Comedy
+Excalibur,1981,7.4,John Boorman,56.0,"58,893",34.97,140,15,Nigel Terry,Helen Mirren,Nicholas Clay,Cherie Lunghi,Drama,Fantasy
+The Right Stuff,1983,7.8,Philip Kaufman,91.0,"58,883",21.50,193,15,Sam Shepard,Scott Glenn,Ed Harris,Dennis Quaid,Biography,Drama
+The LEGO Movie 2,2019,6.6,Mike Mitchell,65.0,"58,811",105.81,107,U,Chris Pratt,Elizabeth Banks,Will Arnett,Tiffany Haddish,Animation,Action
+The Little Prince,2015,7.7,Mark Osborne,70.0,"58,661",1.34,108,PG,Jeff Bridges,Mackenzie Foy,Rachel McAdams,Marion Cotillard,Animation,Drama
+The Mission,1986,7.4,Roland Joffé,55.0,"58,612",17.22,125,PG,Robert De Niro,Jeremy Irons,Ray McAnally,Aidan Quinn,Drama,History
+Storks,2016,6.8,Nicholas Stoller,56.0,"58,175",72.68,87,U,Doug Sweetland,Andy Samberg,Katie Crown,Kelsey Grammer,Animation,Comedy
+Alpha,2018,6.7,Albert Hughes,63.0,"57,936",35.85,96,12A,Kodi Smit-McPhee,Jóhannes Haukur Jóhannesson,Marcin Kowalczyk,Jens Hultén,Action,Drama
+R.V.: Runaway Vacation,2006,5.5,Barry Sonnenfeld,33.0,"57,634",71.73,99,PG,Robin Williams,Cheryl Hines,Kristin Chenoweth,JoJo,Comedy,Family
+Valhalla Rising,2009,6.1,Nicolas Winding Refn,61.0,"57,506",0.02,93,15,Mads Mikkelsen,Maarten Stevenson,Alexander Morton,Stewart Porter,Action,Drama
+Star Trek V: The Final Frontier,1989,5.5,William Shatner,43.0,"57,475",52.21,107,PG,William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan,Action,Fantasy
+The Omen,2006,5.5,John Moore,43.0,"57,265",54.61,110,15,Liev Schreiber,Julia Stiles,Seamus Davey-Fitzpatrick,David Thewlis,Action,Fantasy
+Race to Witch Mountain,2009,5.7,Andy Fickman,52.0,"57,233",67.17,98,PG,Dwayne Johnson,Carla Gugino,AnnaSophia Robb,Alexander Ludwig,Action,Family
+Fanboys,2009,6.6,Kyle Newman,45.0,"57,175",0.69,120,15,Dan Fogler,Jay Baruchel,Kristen Bell,Sam Huntington,Comedy,Crime
+Spy Kids 3: Game Over,2003,4.3,Robert Rodriguez,57.0,"56,874",111.76,84,U,Daryl Sabara,Alexa PenaVega,Antonio Banderas,Carla Gugino,Action,Comedy
+Innerspace,1987,6.8,Joe Dante,66.0,"56,256",25.89,120,PG,Dennis Quaid,Martin Short,Meg Ryan,Kevin McCarthy,Action,Comedy
+Cheaper by the Dozen 2,2005,5.5,Adam Shankman,34.0,"56,231",82.57,94,PG,Steve Martin,Bonnie Hunt,Hilary Duff,Eugene Levy,Comedy,Family
+Dinosaur,2000,6.5,Eric Leighton,56.0,"55,918",137.75,82,PG,Ralph Zondag,D.B. Sweeney,Julianna Margulies,Samuel E. Wright,Animation,Family
+Pete's Dragon,2016,6.7,David Lowery,71.0,"55,640",76.23,102,PG,Bryce Dallas Howard,Robert Redford,Oakes Fegley,Oona Laurence,Action,Comedy
+The Boxtrolls,2014,6.8,Graham Annable,61.0,"55,519",50.84,96,PG,Anthony Stacchi,Ben Kingsley,Jared Harris,Nick Frost,Animation,Comedy
+Eight Legged Freaks,2002,5.4,Ellory Elkayem,53.0,"55,038",17.32,99,12,David Arquette,Kari Wuhrer,Scott Terra,Scarlett Johansson,Action,Comedy
+The Secret Life of Pets 2,2019,6.5,Chris Renaud,55.0,"54,944",158.87,86,U,Jonathan del Val,Patton Oswalt,Kevin Hart,Harrison Ford,Animation,Comedy
+Crocodile Dundee II,1988,5.6,John Cornell,41.0,"54,906",109.31,108,PG,Paul Hogan,Linda Kozlowski,John Meillon,Ernie Dingo,Action,Comedy
+The Rocketeer,1991,6.5,Joe Johnston,61.0,"54,863",46.70,108,PG,Billy Campbell,Jennifer Connelly,Alan Arkin,Timothy Dalton,Action,Family
+Sanctum,2011,5.9,Alister Grierson,42.0,"54,502",23.07,108,15,Rhys Wakefield,Allison Cratchley,Christopher James Baker,Richard Roxburgh,Action,Drama
+Song of the Sea,2014,8.1,Tomm Moore,85.0,"54,441",0.86,93,PG,David Rawle,Brendan Gleeson,Lisa Hannigan,Fionnula Flanagan,Animation,Drama
+Arthur Christmas,2011,7.1,Sarah Smith,69.0,"54,065",46.46,97,U,Barry Cook,James McAvoy,Jim Broadbent,Bill Nighy,Animation,Comedy
+Hudson Hawk,1991,5.8,Michael Lehmann,17.0,"53,907",17.22,100,15,Bruce Willis,Danny Aiello,Andie MacDowell,James Coburn,Action,Comedy
+Gnomeo & Juliet,2011,5.9,Kelly Asbury,53.0,"53,699",99.97,84,U,James McAvoy,Emily Blunt,Maggie Smith,Ashley Jensen,Animation,Comedy
+Joe Dirt,2001,6.0,Dennie Gordon,20.0,"53,515",27.09,91,12,David Spade,Brittany Daniel,Dennis Miller,Adam Beach,Comedy,Drama
+The Golden Child,1986,6.0,Michael Ritchie,37.0,"53,447",79.82,94,PG,Eddie Murphy,J.L. Reate,Charles Dance,Charlotte Lewis,Action,Comedy
+Logan's Run,1976,6.8,Michael Anderson,53.0,"53,392",25.00,119,A,Michael York,Jenny Agutter,Richard Jordan,Roscoe Lee Browne,Action,SciFi
+The Legend of Hercules,2014,4.2,Renny Harlin,22.0,"53,285",18.85,99,12A,Kellan Lutz,Gaia Weiss,Scott Adkins,Roxanne McKee,Action,Fantasy
+Beavis and Butt-Head Do America,1996,6.8,Mike Judge,64.0,"53,086",63.07,81,12,Mike de Seve,Brian Mulroney,Yvette Kaplan,Mike Judge,Animation,Comedy
+Dolittle,2020,5.6,Stephen Gaghan,26.0,"53,071",77.05,101,PG,Robert Downey Jr.,Antonio Banderas,Michael Sheen,Jim Broadbent,Comedy,Family
+The Jewel of the Nile,1985,6.1,Lewis Teague,53.0,"52,901",75.97,106,PG,Michael Douglas,Kathleen Turner,Danny DeVito,Spyros Fokas,Action,Comedy
+Casanova,2005,6.5,Lasse Hallström,57.0,"52,875",11.29,112,12A,Heath Ledger,Sienna Miller,Jeremy Irons,Oliver Platt,Comedy,Drama
+Flight of the Phoenix,2004,6.1,John Moore,47.0,"52,705",21.01,113,12A,Dennis Quaid,Miranda Otto,Giovanni Ribisi,Tyrese Gibson,Action,Drama
+Stealth,2005,5.1,Rob Cohen,35.0,"52,651",32.12,121,12A,Josh Lucas,Jessica Biel,Jamie Foxx,Sam Shepard,Action,SciFi
+Executive Decision,1996,6.4,Stuart Baird,62.0,"52,636",56.57,133,15,Kurt Russell,Halle Berry,Steven Seagal,John Leguizamo,Action,Thriller
+Away We Go,2009,7.0,Sam Mendes,58.0,"52,556",9.45,98,15,John Krasinski,Maya Rudolph,Allison Janney,Carmen Ejogo,Comedy,Drama
+Scooby-Doo 2: Monsters Unleashed,2004,5.1,Raja Gosnell,34.0,"52,399",84.22,93,PG,Freddie Prinze Jr.,Sarah Michelle Gellar,Matthew Lillard,Linda Cardellini,Comedy,Family
+Planet 51 (Planet One),2009,6.0,Jorge Blanco,39.0,"52,334",42.09,91,U,Javier Abad,Marcos Martínez,Dwayne Johnson,Seann William Scott,Animation,Comedy
+Mortal Kombat: Annihilation,1997,3.7,John R. Leonetti,11.0,"52,276",35.93,95,15,Robin Shou,Talisa Soto,James Remar,Sandra Hess,Action,Fantasy
+The Three Musketeers,1993,6.4,Stephen Herek,43.0,"52,200",53.90,105,PG,Charlie Sheen,Kiefer Sutherland,Chris O'Donnell,Oliver Platt,Action,Comedy
+Open Water,2003,5.7,Chris Kentis,63.0,"52,102",30.61,79,15,Blanchard Ryan,Daniel Travis,Saul Stein,Michael E. Williamson,Drama,Horror
+The Adventures of Baron Munchausen,1988,7.2,Terry Gilliam,69.0,"51,804",8.08,126,PG,John Neville,Eric Idle,Sarah Polley,Oliver Reed,Comedy,Fantasy
+Stuart Little 2,2002,5.5,Rob Minkoff,66.0,"51,779",64.96,77,U,Michael J. Fox,Geena Davis,Hugh Laurie,Jonathan Lipnicki,Animation,Comedy
+Ferdinand,2017,6.7,Carlos Saldanha,58.0,"51,708",84.41,108,U,John Cena,Kate McKinnon,Bobby Cannavale,Jack Gore,Animation,Comedy
+Weekend at Bernie's,1989,6.4,Ted Kotcheff,32.0,"51,530",30.22,97,12,Andrew McCarthy,Jonathan Silverman,Catherine Mary Stewart,Terry Kiser,Comedy,Crime
+The SpongeBob Movie: Sponge Out of Water,2015,6.0,Paul Tibbitt,62.0,"51,414",162.99,92,U,Mike Mitchell,Tom Kenny,Antonio Banderas,Bill Fagerbakke,Animation,Action
+Sinbad: Legend of the Seven Seas,2003,6.7,Patrick Gilmore,48.0,"51,312",26.48,88,U,Tim Johnson,Brad Pitt,Catherine Zeta-Jones,Joseph Fiennes,Animation,Family
+47 Meters Down,2017,5.7,Johannes Roberts,52.0,"51,139",44.31,89,15,Mandy Moore,Claire Holt,Matthew Modine,Chris Johnson,Drama,Horror
+2010: The Year We Make Contact,1984,6.8,Peter Hyams,53.0,"50,935",40.20,116,PG,Roy Scheider,John Lithgow,Helen Mirren,Bob Balaban,Mystery,SciFi
+Adrift,2018,6.6,Baltasar Kormákur,56.0,"50,817",31.45,96,12A,Shailene Woodley,Sam Claflin,Jeffrey Thomas,Elizabeth Hawthorne,Action,Biography
+Chennai Express,2013,6.1,Rohit Shetty,45.0,"50,796",5.31,141,12A,Deepika Padukone,Shah Rukh Khan,Sathyaraj,Nikitin Dheer,Action,Comedy
+Pee-wee's Big Adventure,1985,7.0,Tim Burton,47.0,"50,733",40.90,91,U,Paul Reubens,Elizabeth Daily,Mark Holton,Diane Salinger,Comedy,Family
+Super Mario Bros.,1993,4.1,Annabel Jankel,35.0,"50,658",20.92,104,PG,Rocky Morton,Bob Hoskins,John Leguizamo,Dennis Hopper,Comedy,Family
+An American Tail,1986,6.9,Don Bluth,38.0,"50,430",47.48,80,U,Dom DeLuise,Christopher Plummer,Erica Yohn,Nehemiah Persoff,Animation,Comedy
+I Spy,2002,5.4,Betty Thomas,35.0,"50,243",33.56,97,PG-13,Eddie Murphy,Owen Wilson,Famke Janssen,Malcolm McDowell,Action,Comedy
+The Brothers Bloom,2008,6.8,Rian Johnson,55.0,"49,697",3.52,114,12A,Rachel Weisz,Adrien Brody,Mark Ruffalo,Rinko Kikuchi,Action,Comedy
+The Big Blue,1988,7.6,Luc Besson,35.0,"49,477",3.50,168,15,Jean-Marc Barr,Jean Reno,Rosanna Arquette,Paul Shenar,Drama,Sport
+The Adventures of Robin Hood,1938,7.9,Michael Curtiz,97.0,"48,585",3.98,102,U,William Keighley,Errol Flynn,Olivia de Havilland,Basil Rathbone,Action,Romance
+Hard Target,1993,6.2,John Woo,63.0,"47,983",32.59,97,18,Jean-Claude Van Damme,Lance Henriksen,Yancy Butler,Chuck Pfarrer,Action,Drama
+The Covenant,2006,5.3,Renny Harlin,19.0,"47,882",23.29,97,12A,Steven Strait,Sebastian Stan,Toby Hemingway,Taylor Kitsch,Action,Fantasy
+Smokey and the Bandit,1977,7.0,Hal Needham,50.0,"47,256",126.74,96,A,Burt Reynolds,Sally Field,Jerry Reed,Mike Henry,Action,Comedy
+Kon-Tiki,2012,7.2,Joachim Rønning,62.0,"47,163",1.52,118,15,Espen Sandberg,Pål Sverre Hagen,Anders Baasmo Christiansen,Gustaf Skarsgård,Biography,Drama
+Wyatt Earp,1994,6.7,Lawrence Kasdan,47.0,"47,156",25.05,191,12,Kevin Costner,Dennis Quaid,Gene Hackman,David Andrews,Biography,Crime
+Kelly's Heroes,1970,7.6,Brian G. Hutton,50.0,"46,739",1.38,144,A,Clint Eastwood,Telly Savalas,Don Rickles,Carroll O'Connor,Comedy,War
+The Great Mouse Detective,1986,7.2,Ron Clements,73.0,"46,712",38.60,74,U,Burny Mattinson,David Michener,John Musker,Vincent Price,Animation,Family
+Hector and the Search for Happiness,2014,7.0,Peter Chelsom,29.0,"46,512",1.12,120,15,Simon Pegg,Rosamund Pike,Tracy Ann Oberman,Jean Reno,Comedy,Drama
+Inspector Gadget,1999,4.2,David Kellogg,36.0,"46,510",97.40,78,U,Matthew Broderick,Rupert Everett,Joely Fisher,Michelle Trachtenberg,Action,Comedy
+In the Name of the King: A Dungeon Siege Tale,2007,3.8,Uwe Boll,15.0,"46,327",4.54,127,12,Jason Statham,Ron Perlman,Ray Liotta,Leelee Sobieski,Action,Fantasy
+The Pirates! In an Adventure with Scientists!,2012,6.7,Peter Lord,73.0,"46,137",31.05,88,U,Jeff Newitt,Hugh Grant,Salma Hayek,Jeremy Piven,Animation,Comedy
+Herbie Fully Loaded,2005,4.8,Angela Robinson,47.0,"46,135",66.02,101,U,Lindsay Lohan,Michael Keaton,Cheryl Hines,Breckin Meyer,Comedy,Family
+Superman IV: The Quest for Peace,1987,3.7,Sidney J. Furie,24.0,"46,028",15.68,90,PG,Christopher Reeve,Gene Hackman,Margot Kidder,Jackie Cooper,Action,SciFi
+The Witches,1990,6.9,Nicolas Roeg,78.0,"45,910",10.36,91,12A,Anjelica Huston,Mai Zetterling,Jasen Fisher,Rowan Atkinson,Comedy,Family
+Flight of the Navigator,1986,6.9,Randal Kleiser,64.0,"45,719",18.56,90,U,Joey Cramer,Paul Reubens,Cliff De Young,Veronica Cartwright,Comedy,Family
+Oliver & Company,1988,6.7,George Scribner,58.0,"45,598",74.15,74,U,Joey Lawrence,Billy Joel,Cheech Marin,Richard Mulligan,Animation,Comedy
+Alvin and the Chipmunks: The Squeakquel,2009,4.5,Betty Thomas,41.0,"45,486",219.61,88,U,Jason Lee,Zachary Levi,David Cross,Justin Long,Animation,Comedy
+Without a Paddle,2004,5.9,Steven Brill,29.0,"45,384",58.17,95,12A,Matthew Lillard,Seth Green,Dax Shepard,Matthew Price,Comedy,Mystery
+Under Siege 2: Dark Territory,1995,5.5,Geoff Murphy,52.0,"45,037",50.02,100,18,Steven Seagal,Eric Bogosian,Everett McGill,Katherine Heigl,Action,Thriller
+Enemy Mine,1985,6.9,Wolfgang Petersen,59.0,"45,015",4.27,108,12,Dennis Quaid,Louis Gossett Jr.,Brion James,Richard Marcus,Action,Drama
+True Grit,1969,7.4,Henry Hathaway,83.0,"45,012",31.13,128,U,John Wayne,Kim Darby,Glen Campbell,Jeremy Slate,Drama,Western
+Ladyhawke,1985,7.0,Richard Donner,64.0,"44,819",18.43,121,PG,Matthew Broderick,Rutger Hauer,Michelle Pfeiffer,Leo McKern,Comedy,Drama
+Howard: A New Breed of Hero,1986,4.7,Willard Huyck,28.0,"44,653",16.30,110,12,Lea Thompson,Jeffrey Jones,Tim Robbins,Ed Gale,Action,Comedy
+Red Cliff,2008,7.4,John Woo,73.0,"44,651",0.63,148,15,Tony Chiu-Wai Leung,Takeshi Kaneshiro,Fengyi Zhang,Chen Chang,Action,Drama
+Highlander II: The Quickening,1991,4.2,Russell Mulcahy,31.0,"44,578",15.56,91,R,Christopher Lambert,Sean Connery,Virginia Madsen,Michael Ironside,Action,Fantasy
+Beneath the Planet of the Apes,1970,6.1,Ted Post,46.0,"44,430",19.00,95,U,James Franciscus,Kim Hunter,Maurice Evans,Linda Harrison,Action,SciFi
+G-Force,2009,5.1,Hoyt Yeatman,41.0,"44,049",119.44,88,PG,Will Arnett,Penélope Cruz,Zach Galifianakis,Bill Nighy,Animation,Action
+Cirque du Freak: The Vampire's Assistant,2009,5.8,Paul Weitz,43.0,"43,985",14.05,119,12A,Chris Massoglia,John C. Reilly,Salma Hayek,Josh Hutcherson,Action,Fantasy
+Slow West,2015,6.9,John Maclean,72.0,"43,895",0.23,84,15,Kodi Smit-McPhee,Caren Pistorius,Aorere Paki,Jeffrey Thomas,Action,Drama
+Congo,1995,5.2,Frank Marshall,22.0,"43,849",81.02,109,12,Laura Linney,Tim Curry,Dylan Walsh,Ernie Hudson,Action,Mystery
+DOA: Dead or Alive,2006,4.8,Corey Yuen,38.0,"43,811",0.48,87,15,Jaime Pressly,Devon Aoki,Sarah Carter,Holly Valance,Action,Mystery
+Jaws: The Revenge,1987,3.0,Joseph Sargent,15.0,"43,587",20.76,89,12,Lorraine Gary,Lance Guest,Mario Van Peebles,Karen Young,Horror,Thriller
+The River Wild,1994,6.4,Curtis Hanson,63.0,"43,503",46.82,111,12,Meryl Streep,Kevin Bacon,David Strathairn,Joseph Mazzello,Crime,Thriller
+Snoopy and Charlie Brown: The Peanuts Movie,2015,7.1,Steve Martino,67.0,"43,476",130.18,88,U,Noah Schnapp,Bill Melendez,Hadley Belle Miller,Francesca Capaldi,Animation,Comedy
+The Pink Panther 2,2009,5.6,Harald Zwart,36.0,"43,453",35.92,92,PG,Steve Martin,Jean Reno,Emily Mortimer,Andy Garcia,Action,Comedy
+Pathfinder,2007,5.4,Marcus Nispel,29.0,"43,369",10.23,99,15,Karl Urban,Clancy Brown,Moon Bloodgood,Russell Means,Action,Drama
+Planes,2013,5.7,Klay Hall,39.0,"43,332",90.29,91,U,Carlos Alazraqui,Dane Cook,Stacy Keach,Brad Garrett,Animation,Comedy
+Gone,2012,5.9,Heitor Dhalia,36.0,"43,069",11.65,94,15,Amanda Seyfried,Jennifer Carpenter,Wes Bentley,Daniel Sunjata,Action,Mystery
+The Avengers,1998,3.8,Jeremiah S. Chechik,12.0,"42,876",23.32,89,12,Ralph Fiennes,Uma Thurman,Sean Connery,Patrick Macnee,Action,SciFi
+Happy Feet Two,2011,5.9,George Miller,50.0,"42,868",64.01,117,U,Gary Eck,David Peers,Elijah Wood,Robin Williams,Animation,Comedy
+Ben-Hur,2016,5.7,Timur Bekmambetov,38.0,"42,744",26.41,123,12A,Jack Huston,Toby Kebbell,Rodrigo Santoro,Nazanin Boniadi,Action,Drama
+The Call of the Wild,2020,6.8,Chris Sanders,47.0,"42,717",62.34,100,PG,Harrison Ford,Omar Sy,Cara Gee,Dan Stevens,Drama,Family
+Chitty Chitty Bang Bang,1968,6.9,Ken Hughes,64.0,"42,693",7.50,144,U,Dick Van Dyke,Sally Ann Howes,Lionel Jeffries,Benny Hill,Family,Fantasy
+A Wrinkle in Time,2018,4.2,Ava DuVernay,53.0,"42,602",100.48,109,PG,Storm Reid,Oprah Winfrey,Reese Witherspoon,Mindy Kaling,Family,Fantasy
+"Honey, I Blew Up the Kid",1992,4.9,Randal Kleiser,50.0,"42,457",58.66,89,U,Rick Moranis,Marcia Strassman,Robert Oliveri,Daniel Shalikar,Comedy,Family
+Clash of the Titans,1981,6.9,Desmond Davis,59.0,"42,365",41.09,118,12,Laurence Olivier,Harry Hamlin,Claire Bloom,Maggie Smith,Action,Family
+The Poseidon Adventure,1972,7.1,Ronald Neame,70.0,"42,301",84.56,117,A,Gene Hackman,Ernest Borgnine,Shelley Winters,Red Buttons,Action,Drama
+Monte Carlo,2011,5.8,Thomas Bezucha,43.0,"42,221",23.19,109,PG,Selena Gomez,Leighton Meester,Katie Cassidy,Cory Monteith,Comedy,Family
+The Tale of the Princess Kaguya,2013,8.0,Isao Takahata,89.0,"41,502",1.51,137,U,Chloë Grace Moretz,James Caan,Mary Steenburgen,James Marsden,Animation,Drama
+Rob Roy,1995,6.9,Michael Caton-Jones,55.0,"41,416",31.60,139,15,Liam Neeson,Jessica Lange,John Hurt,Tim Roth,Biography,Drama
+Jaws 3-D,1983,3.7,Joe Alves,27.0,"41,253",45.52,99,12,Dennis Quaid,Bess Armstrong,Simon MacCorkindale,Louis Gossett Jr.,Horror,Thriller
+Pokémon: The First Movie,1998,6.3,Kunihiko Yuyama,35.0,"41,200",85.74,96,PG,Michael Haigney,Veronica Taylor,Rachael Lillis,Eric Stuart,Animation,Action
+Transamerica,2005,7.4,Duncan Tucker,66.0,"40,718",9.02,103,15,Felicity Huffman,Kevin Zegers,Fionnula Flanagan,Andrea James,Comedy,Drama
+On the Road,2012,6.1,Walter Salles,56.0,"40,556",0.72,124,15,Sam Riley,Garrett Hedlund,Kristen Stewart,Amy Adams,Drama,Romance
+Garfield 2,2006,5.0,Tim Hill,37.0,"40,531",28.43,82,U,Steven Rimdzius,Breckin Meyer,Jennifer Love Hewitt,Billy Connolly,Animation,Comedy
+Adventures in Babysitting,1987,6.9,Chris Columbus,45.0,"40,497",34.37,102,12,Elisabeth Shue,Maia Brewton,Keith Coogan,Anthony Rapp,Comedy,Crime
+The Transporter Refuelled,2015,5.2,Camille Delamarre,32.0,"40,281",16.03,96,15,Ed Skrein,Loan Chabanol,Ray Stevenson,Lenn Kudrjawizki,Action,Thriller
+American Honey,2016,7.0,Andrea Arnold,80.0,"40,212",0.66,163,15,Sasha Lane,Shia LaBeouf,Riley Keough,McCaul Lombardi,Drama,Romance
+The Rescuers Down Under,1990,6.9,Hendel Butoy,70.0,"40,039",27.93,77,U,Mike Gabriel,Bob Newhart,Eva Gabor,John Candy,Animation,Crime
+The Last Starfighter,1984,6.8,Nick Castle,67.0,"39,816",28.73,101,PG,Lance Guest,Robert Preston,Kay E. Kuter,Dan Mason,Action,SciFi
+Red Sonja,1985,5.1,Richard Fleischer,35.0,"39,739",6.95,89,15,Arnold Schwarzenegger,Brigitte Nielsen,Sandahl Bergman,Paul L. Smith,Action,Fantasy
+Three Burials,2005,7.4,Tommy Lee Jones,77.0,"39,562",5.02,121,15,Tommy Lee Jones,Barry Pepper,Dwight Yoakam,January Jones,Crime,Drama
+Meet Dave,2008,5.0,Brian Robbins,43.0,"39,520",11.80,90,PG,Eddie Murphy,Elizabeth Banks,Gabrielle Union,Scott Caan,Comedy,Family
+The Smurfs 2,2013,5.3,Raja Gosnell,34.0,"39,452",71.02,105,U,Neil Patrick Harris,Jayma Mays,Katy Perry,Hank Azaria,Animation,Comedy
+Ra.One,2011,4.7,Anubhav Sinha,60.0,"39,385",2.51,156,12A,Shah Rukh Khan,Arjun Rampal,Kareena Kapoor,Shahana Goswami,Action,SciFi
+The Holy Mountain,1973,7.9,Alejandro Jodorowsky,76.0,"39,271",0.06,114,X,Alejandro Jodorowsky,Horacio Salinas,Zamira Saunders,Juan Ferrara,Drama,Fantasy
+It's a Mad Mad Mad Mad World,1963,7.5,Stanley Kramer,59.0,"39,183",46.30,210,U,Spencer Tracy,Milton Berle,Ethel Merman,Mickey Rooney,Action,Comedy
+Black Knight,2001,4.9,Gil Junger,32.0,"39,008",33.42,95,PG-13,Martin Lawrence,Marsha Thomason,Tom Wilkinson,Vincent Regan,Comedy,Fantasy
+The Water Horse,2007,6.4,Jay Russell,71.0,"38,899",40.41,112,U,Emily Watson,David Morrissey,Alex Etel,Bruce Allpress,Family,Fantasy
+Charlotte's Web,2006,6.3,Gary Winick,68.0,"38,847",82.99,97,U,Dakota Fanning,Julia Roberts,Oprah Winfrey,Steve Buscemi,Comedy,Family
+Masters of the Universe,1987,5.4,Gary Goddard,35.0,"38,842",17.34,106,PG,Dolph Lundgren,Frank Langella,Meg Foster,Billy Barty,Action,Fantasy
+The Secret of N-I-M-H,1982,7.6,Don Bluth,76.0,"38,750",10.14,82,U,Elizabeth Hartman,Derek Jacobi,Dom DeLuise,Arthur Malet,Animation,Drama
+Shaun the Sheep Movie,2015,7.3,Mark Burton,81.0,"38,579",19.38,85,U,Richard Starzak,Justin Fletcher,John Sparkes,Omid Djalili,Animation,Comedy
+Peter Rabbit,2018,6.6,Will Gluck,51.0,"38,553",115.25,95,PG,James Corden,Fayssal Bazzi,Domhnall Gleeson,Sia,Animation,Comedy
+Reindeer Games,2000,5.8,John Frankenheimer,37.0,"38,457",23.36,104,15,Ben Affleck,Gary Sinise,Charlize Theron,James Frain,Action,Crime
+The Lizzie McGuire Movie,2003,5.5,Jim Fall,56.0,"38,039",42.67,94,U,Hilary Duff,Adam Lamberg,Clayton Snyder,Hallie Todd,Comedy,Family
+Gallipoli,1981,7.4,Peter Weir,65.0,"37,992",5.73,110,A,Mel Gibson,Mark Lee,Bill Kerr,Harold Hopkins,Drama,History
+Ravenous,1999,7.0,Antonia Bird,46.0,"37,888",2.06,101,18,Guy Pearce,Robert Carlyle,David Arquette,Jeremy Davies,Comedy,Horror
+The Ant Bully,2006,5.8,John A. Davis,59.0,"37,846",28.14,88,U,Paul Giamatti,Nicolas Cage,Julia Roberts,Meryl Streep,Animation,Comedy
+The Hunter,2011,6.7,Daniel Nettheim,63.0,"37,785",0.18,102,15,Willem Dafoe,Sam Neill,Morgan Davies,Jacek Koman,Drama,Thriller
+Tales from Earthsea,2006,6.4,Gorô Miyazaki,47.0,"37,075",0.05,115,PG,Timothy Dalton,Willem Dafoe,Mariska Hargitay,Jun'ichi Okada,Animation,Fantasy
+Book of Shadows: Blair Witch 2,2000,4.0,Joe Berlinger,15.0,"36,716",26.44,90,15,Jeffrey Donovan,Stephen Barker Turner,Erica Leerhsen,Kurt Loder,Fantasy,Horror
+The Tale of Despereaux,2008,6.1,Sam Fell,53.0,"36,656",50.88,93,U,Robert Stevenhagen,Matthew Broderick,Emma Watson,Dustin Hoffman,Animation,Comedy
+House of the Dead,2003,2.1,Uwe Boll,15.0,"36,521",10.25,90,15,Jonathan Cherry,Tyron Leitso,Clint Howard,Ona Grauer,Action,Horror
+The Cave,2005,5.1,Bruce Hunt,30.0,"36,501",15.01,97,12A,Piper Perabo,Morris Chestnut,Cole Hauser,Eddie Cibrian,Action,Horror
+Black Sea,2014,6.4,Kevin Macdonald,62.0,"36,292",1.17,114,15,Jude Law,Scoot McNairy,Ben Mendelsohn,David Threlfall,Drama,Thriller
+Smallfoot,2018,6.6,Karey Kirkpatrick,60.0,"36,236",83.24,96,PG,Jason Reisig,Channing Tatum,James Corden,Zendaya,Animation,Comedy
+102 Dalmatians,2000,4.9,Kevin Lima,35.0,"35,976",66.96,100,U,Glenn Close,Gérard Depardieu,Ioan Gruffudd,Alice Evans,Comedy,Family
+Big Fat Liar,2002,5.5,Shawn Levy,36.0,"35,921",47.81,88,PG,Frankie Muniz,Amanda Bynes,Paul Giamatti,Amanda Detmer,Comedy,Family
+The Last Days on Mars,2013,5.5,Ruairi Robinson,46.0,"35,912",0.02,98,15,Liev Schreiber,Elias Koteas,Romola Garai,Olivia Williams,Horror,SciFi
+Girls Trip,2017,6.2,Malcolm D. Lee,71.0,"35,666",115.17,122,15,Regina Hall,Queen Latifah,Jada Pinkett Smith,Tiffany Haddish,Comedy,Drama
+Bedknobs and Broomsticks,1971,7.1,Robert Stevenson,59.0,"35,323",18.53,117,U,Ward Kimball,Angela Lansbury,David Tomlinson,Roddy McDowall,Animation,Comedy
+Hit and Run,2012,6.1,David Palmer,50.0,"35,252",13.75,100,15,Dax Shepard,Dax Shepard,Kristen Bell,Bradley Cooper,Action,Comedy
+Looney Tunes: Back in Action,2003,5.7,Joe Dante,64.0,"35,187",20.99,93,PG,Eric Goldberg,Brendan Fraser,Jenna Elfman,Steve Martin,Animation,Action
+Friday the 13th Part VIII: Jason Takes Manhattan,1989,4.6,Rob Hedden,14.0,"35,119",14.34,100,18,Jensen Daggett,Kane Hodder,Todd Caldecott,Tiffany Paulsen,Horror,Thriller
+The Adventures of Sharkboy and Lavagirl 3-D,2005,3.7,Robert Rodriguez,38.0,"34,850",39.18,93,U,Cayden Boyd,George Lopez,Kristin Davis,David Arquette,Action,Comedy
+Way of the Dragon,1972,7.3,Bruce Lee,58.0,"34,771",4.06,99,X,Bruce Lee,Chuck Norris,Nora Miao,Ping-Ou Wei,Action,Comedy
+The Last Legion,2007,5.4,Doug Lefler,37.0,"34,726",5.93,101,12A,Colin Firth,Ben Kingsley,Aishwarya Rai Bachchan,Peter Mullan,Action,War
+Arthur and the Invisibles,2006,6.0,Luc Besson,39.0,"34,581",15.13,94,U,Freddie Highmore,Mia Farrow,Madonna,Ron Crawford,Animation,Comedy
+The Santa Clause 3: The Escape Clause,2006,4.8,Michael Lembeck,32.0,"34,487",84.50,97,U,Tim Allen,Martin Short,Elizabeth Mitchell,Eric Lloyd,Comedy,Family
+The Good the Bad the Weird,2008,7.3,Jee-woon Kim,69.0,"34,358",0.13,139,15,Kang-ho Song,Lee Byung-hun,Jung Woo-sung,Je-mun Yun,Action,Comedy
+The Missing,2003,6.5,Ron Howard,55.0,"34,238",26.90,137,15,Tommy Lee Jones,Cate Blanchett,Evan Rachel Wood,Jenna Boyd,Thriller,Western
+Nim's Island,2008,6.0,Jennifer Flackett,55.0,"34,137",48.01,96,U,Mark Levin,Jodie Foster,Gerard Butler,Abigail Breslin,Comedy,Drama
+Snatched,2017,4.5,Jonathan Levine,45.0,"34,050",45.83,90,15,Amy Schumer,Goldie Hawn,Kim Caramele,Raven Goodwin,Action,Comedy
+The Muppet Movie,1979,7.6,James Frawley,74.0,"34,038",76.66,95,U,Jim Henson,Frank Oz,Jerry Nelson,Richard Hunt,Comedy,Family
+Agent Cody Banks,2003,5.1,Harald Zwart,41.0,"33,740",47.81,102,12,Frankie Muniz,Hilary Duff,Andrew Francis,Angie Harmon,Action,Comedy
+Little Big Man,1970,7.6,Arthur Penn,63.0,"33,717",31.56,139,15,Dustin Hoffman,Faye Dunaway,Chief Dan George,Martin Balsam,Comedy,Drama
+Tokyo Godfathers,2003,7.8,Satoshi Kon,73.0,"33,689",0.13,88,12,Tôru Emori,Yoshiaki Umegaki,Aya Okamoto,Shôzô Îzuka,Animation,Comedy
+This Must Be the Place,2011,6.7,Paolo Sorrentino,61.0,"33,545",0.14,118,15,Sean Penn,Frances McDormand,Judd Hirsch,Eve Hewson,Comedy,Drama
+Osmosis Jones,2001,6.3,Bobby Farrelly,57.0,"33,503",13.60,95,PG,Peter Farrelly,Laurence Fishburne,Chris Rock,David Hyde Pierce,Animation,Action
+The Secret of Kells,2009,7.6,Tomm Moore,81.0,"33,376",0.69,71,PG,Nora Twomey,Evan McGuire,Brendan Gleeson,Mick Lally,Animation,Family
+The Black Cauldron,1985,6.4,Ted Berman,59.0,"33,367",21.29,80,U,Richard Rich,Grant Bardsley,Freddie Jones,Susan Sheridan,Animation,Action
+The Four Feathers,2002,6.5,Shekhar Kapur,49.0,"33,281",18.31,132,15,Heath Ledger,Wes Bentley,Kate Hudson,Mohamed Bouich,Action,Drama
+Abominable,2019,7.0,Jill Culton,61.0,"32,798",60.72,97,U,Todd Wilderman,Chloe Bennet,Albert Tsai,Tenzing Norgay Trainor,Animation,Comedy
+Alvin and the Chipmunks: Chipwrecked,2011,4.3,Mike Mitchell,24.0,"32,762",133.11,87,U,Justin Long,Matthew Gray Gubler,Jesse McCartney,Jason Lee,Animation,Comedy
+Muppets Most Wanted,2014,6.4,James Bobin,61.0,"32,729",51.18,107,U,Ricky Gervais,Ty Burrell,Tina Fey,Steve Whitmire,Comedy,Crime
+Dungeons & Dragons,2000,3.7,Courtney Solomon,14.0,"32,643",15.22,107,12,Justin Whalin,Jeremy Irons,Zoe McLellan,Bruce Payne,Action,Fantasy
+Hop,2011,5.4,Tim Hill,41.0,"32,626",108.09,95,U,Russell Brand,James Marsden,Elizabeth Perkins,Kaley Cuoco,Animation,Comedy
+Babe: Pig in the City,1998,5.8,George Miller,68.0,"32,329",18.32,97,U,Magda Szubanski,Elizabeth Daily,Mickey Rooney,James Cromwell,Comedy,Drama
+Bubble Boy,2001,5.6,Blair Hayes,41.0,"32,133",5.00,84,12,Jake Gyllenhaal,Swoosie Kurtz,Marley Shelton,Danny Trejo,Comedy,Romance
+Jimmy Neutron: Boy Genius,2001,6.0,John A. Davis,65.0,"32,050",80.94,82,U,Debi Derryberry,Rob Paulsen,Megan Cavanagh,Mark DeCarlo,Animation,Action
+Big Game,2014,5.4,Jalmari Helander,53.0,"31,913",0.02,90,15,Samuel L. Jackson,Onni Tommila,Ray Stevenson,Victor Garber,Action,
+Major Payne,1995,6.3,Nick Castle,34.0,"31,861",29.41,95,12,Damon Wayans,Michael Ironside,Bam Bam Bigelow,Joseph Blaire,Comedy,Family
+"20,000 Leagues Under the Sea",1954,7.2,Richard Fleischer,83.0,"31,855",28.20,127,U,Kirk Douglas,James Mason,Paul Lukas,Peter Lorre,Drama,Family
+Teenage Mutant Ninja Turtles III,1993,4.8,Stuart Gillard,40.0,"31,801",42.66,96,PG,Elias Koteas,Paige Turco,Stuart Wilson,Sab Shimono,Action,Comedy
+Sin Nombre,2009,7.6,Cary Joji Fukunaga,77.0,"31,780",2.53,96,15,Paulina Gaitan,Marco Antonio Aguirre,Leonardo Alonso,Karla Cecilia Alvarado,Crime,Drama
+Krull,1983,6.1,Peter Yates,45.0,"31,312",16.52,116,PG,Ken Marshall,Lysette Anthony,Freddie Jones,Francesca Annis,Action,Fantasy
+High Life,2018,5.8,Claire Denis,77.0,"31,244",1.23,113,18,Robert Pattinson,Juliette Binoche,André 3000,Mia Goth,Drama,Horror
+The Addams Family,2019,5.8,Greg Tiernan,46.0,"31,244",100.04,86,PG,Conrad Vernon,Oscar Isaac,Charlize Theron,Chloë Grace Moretz,Animation,Comedy
+Son of Rambow,2007,7.0,Garth Jennings,66.0,"31,184",1.78,96,12A,Bill Milner,Will Poulter,Jessica Hynes,Anna Wing,Action,Comedy
+Toys,1992,5.1,Barry Levinson,40.0,"31,151",21.45,118,PG,Robin Williams,Michael Gambon,Joan Cusack,Robin Wright,Comedy,Drama
+The Nutcracker and the Four Realms,2018,5.6,Lasse Hallström,39.0,"30,610",54.86,99,PG,Joe Johnston,Mackenzie Foy,Keira Knightley,Morgan Freeman,Family,Fantasy
+Are We There Yet?,2005,4.7,Brian Levant,27.0,"30,480",82.67,95,PG,Ice Cube,Nia Long,Aleisha Allen,Philip Bolden,Comedy,Family
+Kangaroo Jack,2003,4.4,David McNally,16.0,"30,453",66.93,89,PG,Anthony Anderson,Jerry O'Connell,Estella Warren,Christopher Walken,Action,Comedy
+Popeye,1980,5.3,Robert Altman,64.0,"30,376",49.82,97,A,Robin Williams,Shelley Duvall,Ray Walston,Paul Dooley,Comedy,Family
+Anacondas: The Hunt for the Blood Orchid,2004,4.7,Dwight H. Little,40.0,"30,222",32.24,97,12A,Morris Chestnut,KaDee Strickland,Eugene Byrd,Johnny Messner,Action,Horror
+The Darkest Minds,2018,5.7,Jennifer Yuh Nelson,39.0,"29,986",12.70,104,12A,Amandla Stenberg,Mandy Moore,Bradley Whitford,Harris Dickinson,Action,Drama
+Jeremiah Johnson,1972,7.6,Sydney Pollack,75.0,"29,787",47.74,108,A,Robert Redford,Will Geer,Delle Bolton,Josh Albee,Drama,Western
+Lord of the Flies,1990,6.4,Harry Hook,49.0,"29,763",13.99,90,15,Balthazar Getty,Chris Furrh,Danuel Pipoly,James Badge Dale,Drama,Thriller
+The Art of War,2000,5.7,Christian Duguay,30.0,"29,246",30.21,117,18,Wesley Snipes,Anne Archer,Maury Chaykin,Marie Matiko,Action,Crime
+Barnyard,2006,5.6,Steve Oedekerk,42.0,"29,031",72.78,90,PG,Kevin James,Courteney Cox,Danny Glover,Sam Elliott,Animation,Comedy
+1492: Conquest of Paradise,1992,6.5,Ridley Scott,47.0,"28,942",7.19,154,15,Gérard Depardieu,Armand Assante,Sigourney Weaver,Loren Dean,Biography,Drama
+Tracks,2013,7.2,John Curran,78.0,"28,640",0.51,112,12A,Mia Wasikowska,Adam Driver,Lily Pearl,Philip Dodd,Biography,Drama
+FernGully: The Last Rainforest,1992,6.5,Bill Kroyer,67.0,"28,448",24.65,76,U,Samantha Mathis,Christian Slater,Robin Williams,Tim Curry,Animation,Family
+Mighty Joe Young,1998,5.7,Ron Underwood,51.0,"28,296",50.63,114,PG,Bill Paxton,Charlize Theron,Rade Serbedzija,Peter Firth,Action,Family
+The Wandering Earth,2019,6.0,Frant Gwo,57.0,"28,262",5.88,125,15,Jing Wu,Chuxiao Qu,Guangjie Li,Man-Tat Ng,Action,SciFi
+Rabbit-Proof Fence,2002,7.4,Phillip Noyce,80.0,"27,929",6.17,94,PG,Everlyn Sampi,Tianna Sansbury,Kenneth Branagh,Laura Monaghan,Biography,Drama
+The Mosquito Coast,1986,6.6,Peter Weir,49.0,"27,850",14.30,117,PG,Harrison Ford,Helen Mirren,River Phoenix,Jadrien Steele,Drama,Thriller
+Runaway Train,1985,7.2,Andrey Konchalovskiy,67.0,"27,820",7.94,111,18,Jon Voight,Eric Roberts,Rebecca De Mornay,Kyle T. Heffner,Action,Drama
+Beyond Borders,2003,6.5,Martin Campbell,32.0,"27,811",4.43,127,15,Clive Owen,Angelina Jolie,Linus Roache,Teri Polo,Drama,Romance
+Sightseers,2012,6.5,Ben Wheatley,69.0,"27,532",0.04,88,15,Alice Lowe,Kenneth Hadley,Steve Oram,Eileen Davies,Comedy,Crime
+Rare Exports: A Christmas Tale,2010,6.7,Jalmari Helander,71.0,"27,368",0.26,84,15,Jorma Tommila,Onni Tommila,Peeter Jakobi,Tommi Korpela,Fantasy,Horror
+Summer Wars,2009,7.5,Mamoru Hosoda,63.0,"27,365",0.08,114,12,Ryûnosuke Kamiki,Nanami Sakuraba,Mitsuki Tanimura,Takahiro Yokokawa,Animation,Action
+The Nut Job,2014,5.7,Peter Lepeniotis,37.0,"27,311",64.25,85,U,Will Arnett,Brendan Fraser,Liam Neeson,Katherine Heigl,Animation,Comedy
+Turbo Kid,2015,6.7,François Simard,60.0,"27,035",0.05,93,15,Anouk Whissell,Yoann-Karl Whissell,Munro Chambers,Laurence Leboeuf,Action,Comedy
+Cutthroat Island,1995,5.7,Renny Harlin,37.0,"26,967",10.02,124,15,Geena Davis,Matthew Modine,Frank Langella,Maury Chaykin,Action,Comedy
+Dora and the Lost City of Gold,2019,6.1,James Bobin,63.0,"26,926",54.89,102,PG,Isabela Merced,Eugenio Derbez,Michael Peña,Eva Longoria,Comedy,Family
+Ned Kelly,2003,6.5,Gregor Jordan,56.0,"26,396",0.07,110,15,Heath Ledger,Orlando Bloom,Geoffrey Rush,Naomi Watts,Action,Biography
+The Warlords,2007,7.0,Peter Ho-Sun Chan,70.0,"26,200",0.13,126,R,Wai-Man Yip,Jet Li,Andy Lau,Takeshi Kaneshiro,Action,Drama
+Max,2015,6.7,Boaz Yakin,47.0,"26,166",42.65,111,12A,Thomas Haden Church,Josh Wiggins,Luke Kleintank,Lauren Graham,Drama,Family
+Two Mules for Sister Sara,1970,7.0,Don Siegel,62.0,"26,058",11.50,116,A,Clint Eastwood,Shirley MacLaine,Manolo Fábregas,Alberto Morin,Romance,War
+Mighty Morphin Power Rangers: The Movie,1995,5.2,Bryan Spicer,40.0,"26,055",38.19,95,PG,Karan Ashley,Johnny Yong Bosch,Steve Cardenas,Jason David Frank,Action,Family
+Firefox,1982,6.0,Clint Eastwood,44.0,"25,977",46.71,136,AA,Clint Eastwood,Freddie Jones,David Huffman,Warren Clarke,Action,Thriller
+Snow Dogs,2002,5.2,Brian Levant,29.0,"25,933",81.17,99,PG,Cuba Gooding Jr.,James Coburn,Sisqó,Nichelle Nichols,Comedy,Family
+A Walk in the Woods,2015,6.4,Ken Kwapis,51.0,"25,853",29.47,104,15,Robert Redford,Nick Nolte,Emma Thompson,Mary Steenburgen,Biography,Comedy
+The Bounty,1984,7.0,Roger Donaldson,62.0,"25,710",8.60,132,15,Mel Gibson,Anthony Hopkins,Laurence Olivier,Edward Fox,Drama,History
+The Last Unicorn,1982,7.4,Jules Bass,70.0,"25,296",6.46,92,U,Arthur Rankin Jr.,Jeff Bridges,Mia Farrow,Angela Lansbury,Animation,Drama
+Shin Godzilla,2016,6.8,Hideaki Anno,67.0,"25,274",1.91,120,12A,Shinji Higuchi,Hiroki Hasegawa,Yutaka Takenouchi,Satomi Ishihara,Action,Drama
+The NeverEnding Story II: The Next Chapter,1990,5.2,George Miller,30.0,"25,134",17.37,89,U,Jonathan Brandis,Kenny Morrison,Clarissa Burt,John Wesley Shipp,Drama,Family
+Yellow Submarine,1968,7.4,George Dunning,79.0,"25,042",0.99,90,U,Paul McCartney,George Harrison,Ringo Starr,John Lennon,Animation,Comedy
+Escape from Planet Earth,2012,5.9,Cal Brunker,35.0,"24,980",57.01,89,U,Brendan Fraser,Sarah Jessica Parker,Jessica Alba,Rob Corddry,Animation,Comedy
+The Adventures of Buckaroo Banzai Across the 8th Dimension,1984,6.4,W.D. Richter,70.0,"24,967",6.25,103,15,Peter Weller,John Lithgow,Ellen Barkin,Jeff Goldblum,Comedy,Romance
+The Hunting Party,2007,6.8,Richard Shepard,54.0,"24,939",0.97,101,15,Richard Gere,Terrence Howard,Jesse Eisenberg,Gordana Vukres,Comedy,Drama
+The Wild,2006,5.2,Steve 'Spaz' Williams,47.0,"24,758",37.38,95,U,Kiefer Sutherland,Jim Belushi,Eddie Izzard,Janeane Garofalo,Animation,Comedy
+The Shadow,1994,6.1,Russell Mulcahy,50.0,"24,306",32.06,108,12,Alec Baldwin,John Lone,Penelope Ann Miller,Peter Boyle,Action,Crime
+The Nightingale,2018,7.3,Jennifer Kent,77.0,"24,284",0.39,136,18,Aisling Franciosi,Michael Sheasby,Maya Christie,Addison Christie,Drama,Horror
+Dragon Ball Super: Broly,2018,7.8,Tatsuya Nagamine,59.0,"24,210",30.71,100,PG,Masako Nozawa,Aya Hisakawa,Ryô Horikawa,Toshio Furukawa,Animation,Action
+The Angry Birds Movie 2,2019,6.4,Thurop Van Orman,60.0,"24,179",38.44,97,U,John Rice,Jason Sudeikis,Josh Gad,Leslie Jones,Animation,Comedy
+The Master of Disguise,2002,3.3,Perry Andelin Blake,12.0,"24,171",40.36,80,PG,Dana Carvey,Jennifer Esposito,Harold Gould,James Brolin,Comedy,Family
+Crocodile Dundee in Los Angeles,2001,4.8,Simon Wincer,37.0,"24,054",25.64,95,PG,Paul Hogan,Linda Kozlowski,Jere Burns,Jonathan Banks,Action,Comedy
+Stormbreaker,2006,5.1,Geoffrey Sax,42.0,"24,027",0.65,93,PG,Alex Pettyfer,Mickey Rourke,Sophie Okonedo,Sarah Bolger,Action,Family
+Spy Kids 4: All the Time in the World,2011,3.5,Robert Rodriguez,37.0,"23,841",38.54,89,PG,Jessica Alba,Jeremy Piven,Joel McHale,Rowan Blanchard,Animation,Action
+The Lego Ninjago Movie,2017,6.0,Charlie Bean,55.0,"23,704",59.28,101,U,Paul Fisher,Bob Logan,Jackie Chan,Dave Franco,Animation,Action
+Missing Link,2019,6.7,Chris Butler,68.0,"23,678",16.65,93,PG,Hugh Jackman,David Walliams,Stephen Fry,Matt Lucas,Animation,Comedy
+Beverly Hills Chihuahua,2008,3.8,Raja Gosnell,41.0,"23,414",94.51,91,U,Drew Barrymore,George Lopez,Piper Perabo,Manolo Cardona,Comedy,Drama
+Pete's Dragon,1977,6.4,Don Chaffey,46.0,"23,264",40.10,128,U,Don Bluth,Sean Marshall,Helen Reddy,Jim Dale,Animation,Comedy
+Free Birds,2013,5.8,Jimmy Hayward,38.0,"23,015",55.75,91,U,Woody Harrelson,Owen Wilson,Dan Fogler,Amy Poehler,Animation,Comedy
+Winnie the Pooh,2011,7.2,Stephen J. Anderson,74.0,"22,984",26.69,63,U,Don Hall,Jim Cummings,Craig Ferguson,John Cleese,Animation,Comedy
+On Deadly Ground,1994,4.6,Steven Seagal,33.0,"22,930",38.59,101,15,Steven Seagal,Michael Caine,Joan Chen,John C. McGinley,Action,Thriller
+47 Meters Down: Uncaged,2019,5.0,Johannes Roberts,43.0,"22,760",21.11,90,15,Sophie Nélisse,Corinne Foxx,Brianne Tju,Sistine Rose Stallone,Drama,Horror
+Muppet Treasure Island,1996,7.0,Brian Henson,64.0,"22,538",33.61,99,U,David Lane,Tim Curry,Billy Connolly,Jennifer Saunders,Action,Comedy
+The Astronaut Farmer,2006,6.3,Michael Polish,55.0,"22,393",11.00,104,PG,Billy Bob Thornton,Virginia Madsen,Bruce Dern,Max Thieriot,Drama,SciFi
+Passion,2012,5.3,Brian De Palma,53.0,"22,365",0.09,102,15,Rachel McAdams,Noomi Rapace,Karoline Herfurth,Paul Anderson,Drama,Mystery
+Wind Chill,2007,5.8,Gregory Jacobs,52.0,"22,315",0.02,91,15,Emily Blunt,Ashton Holmes,Martin Donovan,Ned Bellamy,Drama,Horror
+Embrace of the Serpent,2015,7.9,Ciro Guerra,82.0,"21,804",1.33,125,12A,Nilbio Torres,Jan Bijvoet,Antonio Bolívar,Brionne Davis,Biography,Drama
+Valiant,2005,5.5,Gary Chapman,45.0,"21,762",19.48,76,U,Ewan McGregor,Ricky Gervais,Tim Curry,Jim Broadbent,Animation,Comedy
+The Boy and the Beast,2015,7.7,Mamoru Hosoda,65.0,"21,662",0.45,119,12A,Kôji Yakusho,Aoi Miyazaki,Shôta Sometani,Suzu Hirose,Animation,Action
+Zardoz,1974,5.8,John Boorman,46.0,"21,661",0.07,105,X,Sean Connery,Charlotte Rampling,Sara Kestelman,John Alderton,Fantasy,SciFi
+Mars Needs Moms,2011,5.4,Simon Wells,49.0,"21,655",21.38,88,PG,Seth Green,Joan Cusack,Dan Fogler,Elisabeth Harnois,Animation,Action
+Home on the Range,2004,5.4,Will Finn,50.0,"21,503",50.03,76,U,John Sanford,Judi Dench,Cuba Gooding Jr.,Jennifer Tilly,Animation,Comedy
+Quest for Fire,1981,7.3,Jean-Jacques Annaud,79.0,"21,362",20.96,100,AA,Everett McGill,Ron Perlman,Nicholas Kadi,Rae Dawn Chong,Drama,History
+Pokémon: The Movie 2000,1999,6.1,Michael Haigney,28.0,"21,326",43.76,84,PG,Kunihiko Yuyama,Veronica Taylor,Rica Matsumoto,Madeleine Blaustein,Animation,Action
+A Dog's Journey,2019,7.5,Gail Mancuso,43.0,"21,309",22.78,109,PG,Josh Gad,Dennis Quaid,Kathryn Prescott,Marg Helgenberger,Comedy,Drama
+Aliens in the Attic,2009,5.4,John Schultz,42.0,"21,271",25.20,86,PG,Ashley Tisdale,Robert Hoffman,Carter Jenkins,Austin Butler,Comedy,Family
+The Last Mimzy,2007,6.2,Robert Shaye,59.0,"21,097",21.47,90,U,Joely Richardson,Rainn Wilson,Timothy Hutton,Chris O'Neil,Action,Drama
+Trash,2014,7.2,Stephen Daldry,50.0,"21,071",0.01,114,15,Christian Duurvoort,Rickson Tevez,Gabriel Weinstein,Martin Sheen,Crime,Drama
+Yogi Bear,2010,4.6,Eric Brevig,35.0,"20,997",100.25,81,U,Dan Aykroyd,Justin Timberlake,Anna Faris,Tom Cavanagh,Animation,Comedy
+Quigley Down Under,1990,6.9,Simon Wincer,51.0,"20,931",21.41,119,12,Tom Selleck,Laura San Giacomo,Alan Rickman,Chris Haywood,Action,Drama
+Supergirl,1984,4.4,Jeannot Szwarc,42.0,"20,907",13.60,124,PG,Helen Slater,Faye Dunaway,Peter O'Toole,Mia Farrow,Action,Fantasy
+Early Man,2018,6.1,Nick Park,68.0,"20,877",8.27,89,PG,Eddie Redmayne,Tom Hiddleston,Maisie Williams,Timothy Spall,Animation,Comedy
+Kingsglaive: Final Fantasy XV,2016,6.8,Takeshi Nozue,35.0,"20,821",0.23,110,12,Aaron Paul,Lena Headey,Sean Bean,Neil Newbon,Animation,Action
+Ballerina,2016,6.8,Eric Summer,48.0,"20,801",24.70,89,U,Éric Warin,Mimi Maynard,Paulette Victor-Lifton,Elle Fanning,Animation,Comedy
+Explorers,1985,6.5,Joe Dante,58.0,"20,746",9.87,109,U,Ethan Hawke,River Phoenix,Jason Presson,Bradley Gregg,Comedy,Family
+Metropolis,2001,7.2,Rintaro,75.0,"20,663",0.64,108,PG,Toshio Furukawa,Scott Weinger,Yuka Imoto,Kei Kobayashi,Animation,Action
+Underdog,2007,4.8,Frederik Du Chau,37.0,"20,497",43.75,100,U,Peter Dinklage,Jason Lee,Amy Adams,Jim Belushi,Action,Comedy
+Intruders,2011,5.4,Juan Carlos Fresnadillo,45.0,"20,360",0.07,100,15,Clive Owen,Carice van Houten,Izán Corchero,Ella Purnell,Action,Fantasy
+The Muppets Take Manhattan,1984,6.9,Frank Oz,64.0,"20,228",25.53,94,U,Jim Henson,Frank Oz,Dave Goelz,Steve Whitmire,Comedy,Drama
+Young Sherlock Holmes,1985,6.8,Barry Levinson,65.0,"20,150",19.74,109,PG,Nicholas Rowe,Alan Cox,Sophie Ward,Anthony Higgins,Fantasy,Mystery
+Skiptrace,2016,5.7,Renny Harlin,50.0,"19,870",0.00,107,12,Jackie Chan,Johnny Knoxville,Bingbing Fan,Eric Tsang,Action,Comedy
+Zoom,2006,4.4,Peter Hewitt,26.0,"19,827",11.63,93,PG,Tim Allen,Courteney Cox,Chevy Chase,Spencer Breslin,Action,Comedy
+Highlander: Endgame,2000,4.6,Douglas Aarniokoski,21.0,"19,823",12.80,87,18,Christopher Lambert,Adrian Paul,Bruce Payne,Lisa Barbuscia,Action,Fantasy
+The Adventures of Rocky & Bullwinkle,2000,4.2,Des McAnuff,36.0,"19,821",26.00,92,U,Robert De Niro,Rene Russo,Piper Perabo,Jason Alexander,Animation,Comedy
+The Hurricane Heist,2018,5.1,Rob Cohen,35.0,"19,775",6.12,103,12A,Toby Kebbell,Maggie Grace,Ryan Kwanten,Ralph Ineson,Action,Crime
+Knights of Badassdom,2013,5.6,Joe Lynch,56.0,"19,688",0.09,86,15,Ryan Kwanten,Steve Zahn,Peter Dinklage,Summer Glau,Action,Comedy
+Bilal: A New Breed of Hero,2015,7.9,Khurram H. Alavi,52.0,"19,653",0.50,105,12,Ayman Jamal,Adewale Akinnuoye-Agbaje,Ian McShane,China Anne McClain,Animation,Action
+Leviathan,1989,5.8,George P. Cosmatos,51.0,"19,639",15.70,98,18,Peter Weller,Richard Crenna,Amanda Pays,Daniel Stern,Horror,Mystery
+Smurfs: The Lost Village,2017,6.0,Kelly Asbury,40.0,"19,547",45.02,90,U,Demi Lovato,Rainn Wilson,Joe Manganiello,Jack McBrayer,Animation,Comedy
+The Delta Force,1986,5.6,Menahem Golan,37.0,"19,456",17.77,125,15,Chuck Norris,Lee Marvin,Martin Balsam,Joey Bishop,Action,Drama
+Sorcerer,1977,7.7,William Friedkin,68.0,"19,411",12.00,121,AA,Roy Scheider,Bruno Cremer,Francisco Rabal,Amidou,Drama,Thriller
+Ernest & Celestine,2012,7.9,Stéphane Aubier,86.0,"19,302",0.29,80,U,Vincent Patar,Benjamin Renner,Lambert Wilson,Pauline Brunner,Animation,Comedy
+"OSS 117: Cairo, Nest of Spies",2006,7.1,Michel Hazanavicius,62.0,"19,256",0.30,99,12A,Jean Dujardin,François Damiens,Khalid Maadour,Youssef Hamid,Action,Comedy
+Peter Pan 2: Return to Never Land,2002,5.8,Robin Budd,49.0,"19,222",48.43,72,U,Donovan Cook,Blayne Weaver,Harriet Owen,Corey Burton,Animation,Family
+A Sound of Thunder,2005,4.2,Peter Hyams,24.0,"19,205",1.89,110,12,Edward Burns,Ben Kingsley,Catherine McCormack,Armin Rohde,Action,Horror
+Goosebumps 2: Haunted Halloween,2018,5.6,Ari Sandel,53.0,"18,967",46.70,90,PG,Wendi McLendon-Covey,Madison Iseman,Jeremy Ray Taylor,Caleel Harris,Animation,Comedy
+Help!,1965,7.2,Richard Lester,58.0,"18,966",13.08,92,U,John Lennon,Paul McCartney,George Harrison,Ringo Starr,Comedy,Musical
+Max Steel,2016,4.6,Stewart Hendler,22.0,"18,789",3.82,92,12,Ben Winchell,Josh Brener,Maria Bello,Andy Garcia,Action,Fantasy
+Just Visiting,2001,5.8,Jean-Marie Poiré,38.0,"18,660",4.78,88,PG-13,Jean Reno,Christina Applegate,Christian Clavier,Matt Ross,Comedy,Fantasy
+Muppets from Space,1999,6.3,Tim Hill,53.0,"18,625",16.63,87,U,Dave Goelz,Steve Whitmire,Bill Barretta,Jerry Nelson,Comedy,Family
+Earth to Echo,2014,5.8,Dave Green,53.0,"18,581",38.92,91,PG,Teo Halm,Astro,Reese Hartwig,Ella Wahlestedt,Family,SciFi
+The Tigger Movie,2000,6.4,Jun Falkenstein,53.0,"17,894",45.55,77,U,Jim Cummings,Nikita Hopkins,Ken Sansom,John Fiedler,Animation,Comedy
+A Passage to India,1984,7.3,David Lean,78.0,"17,814",27.19,164,PG,Judy Davis,Victor Banerjee,Peggy Ashcroft,James Fox,Drama,History
+Alvin and the Chipmunks: The Road Chip,2015,5.0,Walt Becker,33.0,"17,802",85.89,92,U,Jason Lee,Justin Long,Matthew Gray Gubler,Jesse McCartney,Animation,Comedy
+Appleseed,2004,7.0,Shinji Aramaki,40.0,"17,781",0.13,101,12A,Ai Kobayashi,Jûrôta Kosugi,Yuki Matsuoka,Mami Koyama,Animation,Action
+Beowulf & Grendel,2005,5.8,Sturla Gunnarsson,53.0,"17,702",0.07,104,15,Hringur Ingvarsson,Spencer Wilding,Stellan Skarsgård,Ingvar Sigurdsson,Action,Drama
+The Getaway,1994,5.8,Roger Donaldson,51.0,"17,668",16.10,115,18,Alec Baldwin,Kim Basinger,Michael Madsen,James Woods,Action,Crime
+The Young and Prodigious T.S. Spivet,2013,7.1,Jean-Pierre Jeunet,53.0,"17,589",0.10,105,12A,Helena Bonham Carter,Judy Davis,Callum Keith Rennie,Kyle Catlett,Comedy,Drama
+Teen Titans GO! to the Movies,2018,6.8,Aaron Horvath,69.0,"17,587",29.56,84,PG,Peter Rida Michail,Greg Cipes,Scott Menville,Khary Payton,Animation,Action
+The Man Who Killed Don Quixote,2018,6.4,Terry Gilliam,58.0,"17,586",0.39,132,15,José Luis Ferrer,Ismael Fritschi,Juan López-Tagle,Adam Driver,Comedy,Drama
+The Adventures of Ford Fairlane,1990,6.4,Renny Harlin,24.0,"17,546",21.41,104,18,Andrew Dice Clay,Lauren Holly,Wayne Newton,Priscilla Presley,Action,Comedy
+The Three Musketeers,1973,7.2,Richard Lester,77.0,"17,257",22.02,106,U,Oliver Reed,Raquel Welch,Richard Chamberlain,Michael York,Action,
+Planes: Fire & Rescue,2014,6.0,Roberts Gannaway,48.0,"17,210",59.17,83,U,Dane Cook,Ed Harris,Julie Bowen,Curtis Armstrong,Animation,Comedy
+The Bear,1988,7.7,Jean-Jacques Annaud,60.0,"17,110",31.75,96,PG,Tchéky Karyo,Bart the Bear,Youk the Bear,Jack Wallace,Drama,Family
+Dragonslayer,1981,6.7,Matthew Robbins,68.0,"17,055",14.11,108,A,Peter MacNicol,Caitlin Clarke,Ralph Richardson,John Hallam,Action,Fantasy
+Steamboy,2004,6.9,Katsuhiro Ôtomo,66.0,"17,039",0.41,126,PG,Anna Paquin,Patrick Stewart,Alfred Molina,Anne Suzuki,Animation,Action
+The Jungle Book,1994,6.0,Stephen Sommers,63.0,"17,019",44.34,111,PG,Jason Scott Lee,Cary Elwes,Lena Headey,Sam Neill,Family,Romance
+The Great Race,1965,7.2,Blake Edwards,71.0,"16,788",25.33,160,U,Tony Curtis,Natalie Wood,Jack Lemmon,Peter Falk,Action,Comedy
+Racing Stripes,2005,5.2,Frederik Du Chau,43.0,"16,504",49.77,102,U,Frankie Muniz,David Spade,Snoop Dogg,Bruce Greenwood,Comedy,Drama
+Wing Commander,1999,4.3,Chris Roberts,21.0,"16,474",11.58,100,PG,Freddie Prinze Jr.,Matthew Lillard,Saffron Burrows,Tchéky Karyo,Action,SciFi
+Navy Seals,1990,5.6,Lewis Teague,38.0,"16,213",25.07,113,15,Charlie Sheen,Michael Biehn,Joanne Whalley,Rick Rossovich,Action,Thriller
+Monster Trucks,2016,5.7,Chris Wedge,41.0,"16,102",33.37,104,PG,Lucas Till,Jane Levy,Thomas Lennon,Barry Pepper,Animation,Action
+A Dog's Way Home,2019,6.7,Charles Martin Smith,50.0,"16,062",41.95,96,PG,Ashley Judd,Jonah Hauer-King,Edward James Olmos,Alexandra Shipp,Drama,Family
+Curious George,2006,6.5,Matthew O'Callaghan,62.0,"16,032",58.64,87,U,Will Ferrell,Drew Barrymore,Eugene Levy,Frank Welker,Animation,Comedy
+Wrecked,2010,5.3,Michael Greenspan,61.0,"15,910",0.00,91,15,Adrien Brody,Caroline Dhavernas,Ryan Robbins,Adrian G. Griffiths,Drama,Mystery
+College Road Trip,2008,4.3,Roger Kumble,36.0,"15,703",45.59,83,U,Raven-Symoné,Martin Lawrence,Kym Whitley,Adam LeFevre,Comedy,Drama
+Dreamscape,1984,6.3,Joseph Ruben,63.0,"15,682",11.48,99,15,Dennis Quaid,Max von Sydow,Christopher Plummer,Eddie Albert,Action,Horror
+The Jungle Book 2,2003,5.4,Steve Trenbirth,38.0,"15,571",47.89,72,U,John Goodman,Haley Joel Osment,Tony Jay,Mae Whitman,Animation,Family
+Mutiny on the Bounty,1962,7.2,Lewis Milestone,48.0,"15,452",13.68,185,A,Carol Reed,Marlon Brando,Trevor Howard,Richard Harris,Drama,History
+The Kid Who Would Be King,2019,6.0,Joe Cornish,66.0,"15,406",16.79,120,PG,Louis Ashbourne Serkis,Denise Gough,Dean Chaumoo,Tom Taylor,Action,Family
+Smokey and the Bandit Ride Again,1980,5.3,Hal Needham,41.0,"15,243",66.13,101,AA,Burt Reynolds,Jackie Gleason,Jerry Reed,Dom DeLuise,Action,Comedy
+North Face,2008,7.4,Philipp Stölzl,67.0,"15,241",0.71,126,12,Benno Fürmann,Florian Lukas,Johanna Wokalek,Simon Schwarz,Biography,Drama
+The Seeker: The Dark Is Rising,2007,4.8,David L. Cunningham,38.0,"15,063",8.79,99,12A,Alexander Ludwig,Ian McShane,Christopher Eccleston,Frances Conroy,Drama,Family
+The Professionals,1966,7.3,Richard Brooks,75.0,"14,927",19.54,123,A,Burt Lancaster,Lee Marvin,Robert Ryan,Woody Strode,Action,Western
+Two Brothers,2004,7.0,Jean-Jacques Annaud,63.0,"14,806",18.95,109,U,Guy Pearce,Freddie Highmore,Jean-Claude Dreyfus,Oanh Nguyen,Drama,Family
+Mr. Magoo,1997,4.0,Stanley Tong,18.0,"14,804",21.38,87,PG,Leslie Nielsen,Kelly Lynch,Matt Keeslar,Nick Chinlund,Comedy,Family
+The Philadelphia Experiment,1984,6.1,Stewart Raffill,44.0,"14,670",8.10,102,PG,Michael Paré,Nancy Allen,Eric Christmas,Bobby Di Cicco,Drama,Romance
+The Wizard,1989,6.1,Todd Holland,23.0,"14,652",14.28,96,PG,Fred Savage,Luke Edwards,Jenny Lewis,Vince Trankina,Comedy,Drama
+Blood: The Last Vampire,2009,5.3,Chris Nahon,28.0,"14,630",0.26,91,18,Jun Ji-hyun,Allison Miller,Liam Cunningham,JJ Feild,Action,Fantasy
+SpaceCamp,1986,5.7,Harry Winer,40.0,"14,560",9.70,107,PG,Kate Capshaw,Lea Thompson,Kelly Preston,Larry B. Scott,Family,SciFi
+The Great Muppet Caper,1981,7.2,Jim Henson,70.0,"14,522",31.21,97,U,Jim Henson,Frank Oz,Dave Goelz,Jerry Nelson,Comedy,Crime
+Cats & Dogs: The Revenge of Kitty Galore,2010,4.4,Brad Peyton,30.0,"14,517",43.59,82,U,Bette Midler,Chris O'Donnell,Jack McBrayer,James Marsden,Action,Comedy
+Agent Cody Banks 2: Destination London,2004,4.6,Kevin Allen,32.0,"14,450",23.22,100,PG,Frankie Muniz,Anthony Anderson,Hannah Spearritt,Cynthia Stevenson,Action,Comedy
+American Warrior,1985,5.5,Sam Firstenberg,20.0,"14,379",10.50,95,18,Michael Dudikoff,Steve James,Judie Aronson,Guich Koock,Action,Romance
+Missing in Action,1984,5.5,Joseph Zito,43.0,"14,379",22.81,101,15,Chuck Norris,M. Emmet Walsh,David Tress,Lenore Kasdorf,Action,Drama
+The Wiz,1978,5.5,Sidney Lumet,53.0,"14,366",21.05,128,U,Diana Ross,Michael Jackson,Nipsey Russell,Ted Ross,Family,Fantasy
+The Wild Thornberrys Movie,2002,5.6,Cathy Malkasian,69.0,"14,356",40.11,85,U,Jeff McGrath,Tim Curry,Rupert Everett,Flea,Animation,Comedy
+Heaven's Gate,1980,6.8,Michael Cimino,57.0,"14,306",3.48,219,X,Kris Kristofferson,Christopher Walken,John Hurt,Sam Waterston,Drama,Western
+The Musketeer,2001,4.8,Peter Hyams,27.0,"14,277",27.07,104,PG,Justin Chambers,Catherine Deneuve,Mena Suvari,Stephen Rea,Action,Romance
+"Hello, Dolly!",1969,7.1,Gene Kelly,51.0,"14,181",7.24,146,U,Barbra Streisand,Walter Matthau,Michael Crawford,Marianne McAndrew,Comedy,Musical
+Shadow,2018,7.0,Yimou Zhang,81.0,"13,959",0.52,116,15,Chao Deng,Li Sun,Ryan Zheng,Qianyuan Wang,Action,Drama
+Pootie Tang,2001,5.3,Louis C.K.,31.0,"13,897",3.29,81,15,Chris Rock,Lance Crouther,J.B. Smoove,Jennifer Coolidge,Action,Comedy
+The Great Buck Howard,2008,6.4,Sean McGinly,63.0,"13,833",0.75,90,PG,Colin Hanks,John Malkovich,Tom Hanks,Emily Blunt,Comedy,Drama
+Clockstoppers,2002,5.2,Jonathan Frakes,40.0,"13,763",36.99,94,PG,Jesse Bradford,French Stewart,Paula Garcés,Michael Biehn,Action,Comedy
+The Lucky Ones,2007,6.9,Neil Burger,53.0,"13,686",0.18,115,R,Rachel McAdams,Tim Robbins,Michael Peña,Molly Hagan,Comedy,Drama
+Alpha and Omega,2010,5.2,Anthony Bell,36.0,"13,667",25.08,90,U,Ben Gluck,Hayden Panettiere,Christina Ricci,Justin Long,Animation,Comedy
+The Last Circus,2010,6.5,Álex de la Iglesia,70.0,"13,656",0.04,107,R,Carlos Areces,Antonio de la Torre,Carolina Bang,Manuel Tallafé,Action,Comedy
+Mirai,2018,7.0,Mamoru Hosoda,81.0,"13,647",0.81,98,PG,Rebecca Hall,Daniel Dae Kim,John Cho,Crispin Freeman,Animation,Drama
+OSS 117: Lost in Rio,2009,6.9,Michel Hazanavicius,58.0,"13,617",0.09,101,15,Jean Dujardin,Louise Monot,Rüdiger Vogler,Alex Lutz,Action,Comedy
+The Cowboys,1972,7.4,Mark Rydell,52.0,"13,599",16.35,134,GP,John Wayne,Roscoe Lee Browne,Bruce Dern,Colleen Dewhurst,Drama,Western
+Aqua Teen Hunger Force Colon Movie Film for Theaters,2007,6.7,Matt Maiellaro,54.0,"13,575",5.52,86,15,Dave Willis,Dana Snyder,Dave Willis,Carey Means,Animation,Action
+Thunderbirds,2004,4.3,Jonathan Frakes,36.0,"13,455",6.77,95,PG,Bill Paxton,Anthony Edwards,Ben Kingsley,Brady Corbet,Action,Comedy
+Primeval,2007,4.8,Michael Katleman,35.0,"13,411",10.60,93,15,Dominic Purcell,Orlando Jones,Brooke Langton,Jürgen Prochnow,Action,Crime
+Meek's Cutoff,2010,6.6,Kelly Reichardt,85.0,"13,171",0.98,104,PG,Michelle Williams,Bruce Greenwood,Paul Dano,Will Patton,Drama,Thriller
+Weekend at Bernie's II,1993,4.8,Robert Klane,16.0,"13,049",12.74,90,PG,Andrew McCarthy,Jonathan Silverman,Terry Kiser,Troy Byer,Comedy,Fantasy
+Mary and the Witch's Flower,2017,6.8,Hiromasa Yonebayashi,75.0,"13,004",2.42,103,U,Giles New,Hana Sugisaki,Ryûnosuke Kamiki,Yûki Amami,Animation,Family
+King Solomon's Mines,1985,5.2,J. Lee Thompson,29.0,"12,980",15.06,100,PG,Richard Chamberlain,Sharon Stone,Herbert Lom,John Rhys-Davies,Action,Comedy
+Mac and Me,1988,3.4,Stewart Raffill,26.0,"12,922",6.42,99,U,Christine Ebersole,Jonathan Ward,Tina Caspary,Lauren Stanley,Family,Fantasy
+Amelia,2009,5.8,Mira Nair,37.0,"12,344",14.24,111,PG,Hilary Swank,Richard Gere,Ewan McGregor,Christopher Eccleston,Biography,Drama
+Stay Tuned,1992,6.2,Peter Hyams,41.0,"12,331",10.74,88,PG,John Ritter,Pam Dawber,Jeffrey Jones,David Tom,Comedy,Fantasy
+Tom Jones,1963,6.5,Tony Richardson,77.0,"12,259",37.60,129,X,Albert Finney,Susannah York,George Devine,Rachel Kempson,Comedy,History
+Deadly Pursuit,1988,6.8,Roger Spottiswoode,56.0,"12,209",29.30,110,15,Sidney Poitier,Tom Berenger,Kirstie Alley,Clancy Brown,Action,Crime
+Dunston Checks In,1996,5.4,Ken Kwapis,54.0,"12,186",9.87,88,PG,Jason Alexander,Faye Dunaway,Eric Lloyd,Rupert Everett,Comedy,Family
+Robin and Marian,1976,6.5,Richard Lester,73.0,"12,175",8.72,106,A,Sean Connery,Audrey Hepburn,Robert Shaw,Richard Harris,Drama,Romance
+Grind,2003,6.0,Casey La Scala,30.0,"12,038",5.11,105,12,Adam Brody,Joey Kern,Mike Vogel,Vince Vieluf,Comedy,Sport
+Nicholas Nickleby,2002,7.2,Douglas McGrath,71.0,"12,029",1.59,132,PG,Charlie Hunnam,Jamie Bell,Christopher Plummer,Jim Broadbent,Drama,Romance
+Journey to the West,2013,6.8,Stephen Chow,68.0,"11,972",0.02,110,PG-13,Chi-Kin Kwok,Zhang Wen,Shu Qi,Bo Huang,Action,Comedy
+Snow Day,2000,5.1,Chris Koch,34.0,"11,922",60.02,89,PG,Chevy Chase,Mark Webber,Schuyler Fisk,Chris Elliott,Comedy,Family
+Lean on Pete,2017,7.2,Andrew Haigh,80.0,"11,849",1.16,121,15,Charlie Plummer,Amy Seimetz,Travis Fimmel,Steve Buscemi,Drama,Family
+Rugrats in Paris,2000,6.2,Stig Bergqvist,62.0,"11,773",76.51,78,U,Paul Demeyer,Christine Cavanaugh,Elizabeth Daily,Cheryl Chase,Animation,Comedy
+The Deep,1977,6.2,Peter Yates,41.0,"11,703",6.84,123,15,Jacqueline Bisset,Nick Nolte,Dick Anthony Williams,Robert Shaw,Mystery,Thriller
+3 Ninjas: High Noon at Mega Mountain,1998,3.0,Sean McNamara,44.0,"11,608",0.38,93,PG,Loni Anderson,Hulk Hogan,Jim Varney,Victor Wong,Action,Comedy
+Against All Odds,1984,5.9,Taylor Hackford,42.0,"11,563",25.10,128,15,Rachel Ward,Jeff Bridges,James Woods,Alex Karras,Action,Crime
+Battle for Terra,2007,6.5,Aristomenis Tsirbas,54.0,"11,536",1.65,90,PG,Evan Rachel Wood,Luke Wilson,Justin Long,Chad Allen,Animation,Action
+Aftershock,2012,4.8,Nicolás López,39.0,"11,475",0.04,89,18,Eli Roth,Ariel Levy,Nicolás Martínez,Andrea Osvárt,Action,Horror
+Rio Lobo,1970,6.8,Howard Hawks,55.0,"11,425",9.27,114,PG,John Wayne,Jorge Rivero,Jennifer O'Neill,Jack Elam,Romance,War
+Bronco Billy,1980,6.1,Clint Eastwood,66.0,"11,278",24.27,116,A,Clint Eastwood,Sondra Locke,Geoffrey Lewis,Scatman Crothers,Action,Comedy
+Gentlemen Broncos,2009,6.2,Jared Hess,28.0,"11,268",0.11,89,12A,Michael Angarano,Jemaine Clement,Mike White,John Baker,Comedy,SciFi
+Sherlock Gnomes,2018,5.2,John Stevenson,36.0,"11,197",43.24,86,U,Johnny Depp,James McAvoy,Emily Blunt,Kelly Asbury,Animation,Comedy
+Space Chimps,2008,4.5,Kirk DeMicco,36.0,"11,157",30.11,81,U,Andy Samberg,Stanley Tucci,Jeff Daniels,Cheryl Hines,Animation,Comedy
+Returner,2002,6.5,Takashi Yamazaki,36.0,"11,156",0.07,116,15,Takeshi Kaneshiro,Anne Suzuki,Gorô Kishitani,Kirin Kiki,Action,SciFi
+Orca,1977,5.7,Michael Anderson,27.0,"11,108",14.72,92,A,Richard Harris,Charlotte Rampling,Will Sampson,Bo Derek,Drama,Horror
+A-X-L,2018,5.3,Oliver Daly,29.0,"11,076",6.50,100,PG,Alex Neustaedter,Becky G,Alex MacNicoll,Dominic Rains,Action,Drama
+Mohenjo Daro,2016,5.7,Ashutosh Gowariker,39.0,"11,043",1.25,155,12A,Hrithik Roshan,Pooja Hegde,Kabir Bedi,Arunoday Singh,Action,Drama
+Wonder Park,2019,5.9,Dylan Brown,45.0,"11,023",45.22,85,PG,Sofia Mali,Jennifer Garner,Ken Hudson Campbell,Kenan Thompson,Animation,Comedy
+Surviving the Game,1994,6.2,Ernest R. Dickerson,41.0,"10,957",7.73,96,15,Rutger Hauer,Ice-T,Charles S. Dutton,Gary Busey,Action,Crime
+A Cat in Paris,2010,6.9,Jean-Loup Felicioli,63.0,"10,898",0.31,70,PG,Alain Gagnol,Dominique Blanc,Bernadette Lafont,Bruno Salomone,Animation,Comedy
+Delta Farce,2007,3.6,C.B. Harding,17.0,"10,890",8.07,90,12,Larry the Cable Guy,Bill Engvall,DJ Qualls,Michael Rose,Action,Comedy
+Detective Dee: Mystery of the Phantom Flame,2010,6.6,Hark Tsui,75.0,"10,837",0.46,123,12,Tony Ka Fai Leung,Chao Deng,Carina Lau,Bingbing Li,Action,Drama
+Unaccompanied Minors,2006,5.3,Paul Feig,43.0,"10,761",16.65,90,PG,Dyllan Christopher,Tyler James Williams,Gia Mantegna,Quinn Shephard,Comedy,Family
+The Nativity Story,2006,6.8,Catherine Hardwicke,52.0,"10,628",37.63,101,PG,Keisha Castle-Hughes,Shohreh Aghdashloo,Oscar Isaac,Hiam Abbass,Drama,Family
+Strange Magic,2015,5.8,Gary Rydstrom,25.0,"10,544",12.43,99,U,Evan Rachel Wood,Elijah Kelley,Kristin Chenoweth,Maya Rudolph,Animation,Comedy
+Theeb,2014,7.2,Naji Abu Nowar,80.0,"10,480",0.28,100,15,Jacir Eid Al-Hwietat,Hussein Salameh Al-Sweilhiyeen,Hassan Mutlag Al-Maraiyeh,Jack Fox,Drama,Thriller
+Happily N'Ever After,2006,4.5,Paul Bolger,28.0,"10,397",15.59,75,U,Yvette Kaplan,Greg Tiernan,Dino Athanassiou,Sigourney Weaver,Animation,Comedy
+Ratchet & Clank,2016,5.6,Kevin Munroe,29.0,"10,332",8.55,94,U,Jericca Cleland,James Arnold Taylor,David Kaye,Jim Ward,Animation,Action
+The Ice Pirates,1984,5.7,Stewart Raffill,44.0,"10,233",14.26,91,15,Robert Urich,Mary Crosby,Michael D. Roberts,Anjelica Huston,Action,Comedy
+Fire and Ice,1983,6.6,Ralph Bakshi,45.0,"10,134",0.76,81,PG,Tom Tataranowicz,Randy Norton,Cynthia Leake,Steve Sandor,Animation,Fantasy
+8 Heads in a Duffel Bag,1997,5.4,Tom Schulman,15.0,"10,102",3.56,95,15,Joe Pesci,Andy Comeau,Kristy Swanson,George Hamilton,Comedy,Crime
+The Frisco Kid,1979,6.4,Robert Aldrich,38.0,"10,069",9.35,119,A,Gene Wilder,Harrison Ford,Ramon Bieri,Val Bisoglio,Comedy,Drama
+The Little Vampire,2000,5.8,Uli Edel,45.0,"9,975",13.57,95,U,Jonathan Lipnicki,Rollo Weeks,Richard E. Grant,Jim Carter,Comedy,Family
+Catch That Kid,2004,5.2,Bart Freundlich,33.0,"9,909",16.70,91,PG,Kristen Stewart,Sam Robards,Jennifer Beals,Corbin Bleu,Action,Comedy
+Le Mans,1971,6.8,Lee H. Katzin,52.0,"9,877",0.71,106,U,Steve McQueen,Siegfried Rauch,Elga Andersen,Ronald Leigh-Hunt,Action,Drama
+Wonderstruck,2017,6.2,Todd Haynes,71.0,"9,860",1.03,116,PG,Oakes Fegley,Julianne Moore,Michelle Williams,Millicent Simmonds,Drama,Mystery
+Plunkett & Macleane,1999,6.4,Jake Scott,44.0,"9,838",0.47,99,15,Robert Carlyle,Jonny Lee Miller,Iain Robertson,Ken Stott,Action,Comedy
+Escape to Witch Mountain,1975,6.4,John Hough,60.0,"9,710",20.00,97,U,Eddie Albert,Ray Milland,Donald Pleasence,Kim Richards,Family,Fantasy
+King Kong vs. Godzilla,1963,5.9,Ishirô Honda,40.0,"9,708",2.73,97,X,Tom Montgomery,Tadao Takashima,Kenji Sahara,Yû Fujiki,Action,Fantasy
+Desierto,2015,6.0,Jonás Cuarón,51.0,"9,584",1.83,88,15,Gael García Bernal,Jeffrey Dean Morgan,Alondra Hidalgo,Diego Cataño,Action,Drama
+The Powerpuff Girls Movie,2002,6.6,Craig McCracken,65.0,"9,545",11.41,73,PG,Genndy Tartakovsky,Cathy Cavadini,Tara Strong,Elizabeth Daily,Animation,Action
+Kung Fu Yoga,2017,5.2,Stanley Tong,50.0,"9,493",0.36,107,12A,Jackie Chan,Yixing Zhang,Miya Muqi,Disha Patani,Action,Comedy
+Chill Factor,1999,5.2,Hugh Johnson,33.0,"9,470",11.23,102,15,Cuba Gooding Jr.,Skeet Ulrich,Peter Firth,David Paymer,Action,Comedy
+Blackthorn,2011,6.5,Mateo Gil,61.0,"9,303",0.20,102,15,Sam Shepard,Eduardo Noriega,Stephen Rea,Magaly Solier,Action,Western
+Cherry 2000,1987,5.6,Steve De Jarnatt,59.0,"9,280",0.01,99,15,Melanie Griffith,David Andrews,Pamela Gidley,Jennifer Balgobin,Action,Comedy
+Wonderful Days,2003,6.7,Moon-saeng Kim,53.0,"9,101",0.03,86,15,Andrew Ableson,Cathy Cavadini,Joon-ho Chung,Mark Lindsay,Animation,Action
+Norm of the North,2015,3.4,Trevor Wall,21.0,"8,941",17.02,88,U,Rob Schneider,Heather Graham,Ken Jeong,Bill Nighy,Animation,Comedy
+Doctor Dolittle,1967,6.2,Richard Fleischer,34.0,"8,916",13.52,152,U,Rex Harrison,Samantha Eggar,Anthony Newley,Richard Attenborough,Comedy,Family
+Big Top Pee-wee,1988,5.1,Randal Kleiser,42.0,"8,914",15.12,86,U,Paul Reubens,Penelope Ann Miller,Kris Kristofferson,Valeria Golino,Comedy,Romance
+Woman at War,2018,7.4,Benedikt Erlingsson,81.0,"8,847",0.85,101,12A,Halldóra Geirharðsdóttir,Jóhann Sigurðarson,Juan Camilo Román Estrada,Jörundur Ragnarsson,Comedy,Drama
+Mind Game,2004,7.8,Masaaki Yuasa,66.0,"8,771",0.04,103,15,Kôji Morimoto,Kôji Imada,Sayaka Maeda,Takashi Fujii,Animation,Comedy
+For Whom the Bell Tolls,1943,6.9,Sam Wood,68.0,"8,759",17.80,170,A,Gary Cooper,Ingrid Bergman,Akim Tamiroff,Arturo de Córdova,Drama,History
+Operation Dumbo Drop,1995,5.1,Simon Wincer,48.0,"8,727",24.70,107,PG,Danny Glover,Ray Liotta,Denis Leary,Doug E. Doug,Action,Comedy
+My One and Only,2009,6.5,Richard Loncraine,62.0,"8,676",2.48,108,PG-13,Renée Zellweger,Logan Lerman,Mark Rendall,Kevin Bacon,Biography,Comedy
+The Golden Voyage of Sinbad,1973,6.8,Gordon Hessler,69.0,"8,596",3.03,105,U,John Phillip Law,Caroline Munro,Tom Baker,Douglas Wilmer,Action,Fantasy
+Turbo: A Power Rangers Movie,1997,3.7,Shuki Levy,35.0,"8,563",8.36,99,PG,David Winning,Jason David Frank,Catherine Sutherland,Hilary Shepard,Action,Family
+Everyone's Hero,2006,5.7,Colin Brady,51.0,"8,425",14.52,87,U,Christopher Reeve,Daniel St. Pierre,Jake T. Austin,Brian Dennehy,Animation,Comedy
+A Man Called Horse,1970,6.9,Elliot Silverstein,46.0,"8,393",1.94,114,AA,Richard Harris,Judith Anderson,Jean Gascon,Manu Tupou,Drama,Western
+Cabin Boy,1994,5.3,Adam Resnick,21.0,"8,391",3.66,80,12,Chris Elliott,Ritch Brinkley,James Gammon,Brian Doyle-Murray,Comedy,Romance
+The Man from Snowy River,1982,7.3,George Miller,63.0,"8,361",20.66,102,A,Kirk Douglas,Tom Burlinson,Terence Donovan,Tommy Dysart,Drama,Romance
+The Yellow Handkerchief,2008,6.7,Udayan Prasad,62.0,"8,342",0.32,102,PG-13,William Hurt,Maria Bello,Kristen Stewart,Eddie Redmayne,Drama,Romance
+Falcon Rising,2014,5.8,Ernie Barbarash,49.0,"8,242",0.01,103,15,Michael Jai White,Neal McDonough,Jimmy Navarro,Millie Ruperto,Action,Crime
+Yu-Gi-Oh!: The Movie - Pyramid of Light,2004,5.0,Christopher Collet,15.0,"8,226",19.76,100,PG,Eric Stuart,Hatsuki Tsuji,Dan Green,Eric Stuart,Animation,Action
+Pirates,1986,6.1,Roman Polanski,32.0,"8,219",1.64,121,15,Walter Matthau,Cris Campion,Damien Thomas,Olu Jacobs,Action,Comedy
+The In-Laws,1979,7.3,Arthur Hiller,69.0,"8,215",38.20,103,A,Peter Falk,Alan Arkin,Richard Libertini,Nancy Dussault,Action,Comedy
+Made in China,2009,4.1,Nikkhil Advani,44.0,"8,206",0.92,154,12A,Akshay Kumar,Deepika Padukone,Chia-Hui Liu,Mithun Chakraborty,Action,Comedy
+Shanghai Express,1932,7.4,Josef von Sternberg,83.0,"8,203",8.07,82,A,Marlene Dietrich,Clive Brook,Anna May Wong,Warner Oland,Drama,Romance
+Hoot,2006,5.5,Wil Shriner,46.0,"8,085",8.08,95,PG,Logan Lerman,Luke Wilson,Brie Larson,Tim Blake Nelson,Comedy,Family
+Godzilla 2000: Millennium,1999,6.1,Takao Okawara,41.0,"8,005",10.04,99,PG,Takehiro Murata,Hiroshi Abe,Naomi Nishida,Mayu Suzuki,Action,Drama
+Rugrats Go Wild,2003,5.6,John Eng,38.0,"7,972",39.40,81,U,Norton Virgien,Jodi Carlisle,Lacey Chabert,Tim Curry,Animation,Comedy
+Duma,2005,7.2,Carroll Ballard,82.0,"7,968",0.86,100,U,Alex Michaeletos,Campbell Scott,Hope Davis,Mary Makhatho,Drama,Family
+The Leisure Seeker,2017,6.7,Paolo Virzì,45.0,"7,964",3.23,112,15,Helen Mirren,Donald Sutherland,Christian McKay,Janel Moloney,Comedy,Drama
+Crystal Fairy & the Magical Cactus,2013,5.8,Sebastián Silva,67.0,"7,958",0.19,98,18,Michael Cera,Gaby Hoffmann,Juan Andrés Silva,Agustín Silva,Comedy,Drama
+"Paul, Apostle of Christ",2018,6.7,Andrew Hyatt,52.0,"7,922",17.56,108,15,Jim Caviezel,James Faulkner,Olivier Martinez,Joanne Whalley,Biography,Drama
+Flying Swords of Dragon Gate,2011,6.0,Hark Tsui,57.0,"7,884",0.17,122,15,Jet Li,Xun Zhou,Kun Chen,Gwei Lun-Mei,Action,
+Sweet Country,2017,6.9,Warwick Thornton,87.0,"7,873",0.10,113,15,Hamilton Morris,Shanika Cole,Ewen Leslie,Sam Neill,Crime,Drama
+A Town Called Panic,2009,7.5,Stéphane Aubier,70.0,"7,842",0.17,75,PG,Vincent Patar,Stéphane Aubier,Jeanne Balibar,Nicolas Buysse,Animation,Comedy
+The Crocodile Hunter: Collision Course,2002,5.4,John Stainton,50.0,"7,808",28.40,90,PG,Steve Irwin,Terri Irwin,Magda Szubanski,David Wenham,Action,Comedy
+The Garbage Pail Kids Movie,1987,2.6,Rod Amateau,1.0,"7,753",1.58,97,PG,Anthony Newley,Mackenzie Astin,Phil Fondacaro,Katie Barberi,Comedy,Family
+Flicka,2006,6.1,Michael Mayer,57.0,"7,691",21.00,95,U,Alison Lohman,Tim McGraw,Maria Bello,Ryan Kwanten,Drama,Family
+Yellowbeard,1983,6.0,Mel Damski,39.0,"7,656",4.30,96,12,Graham Chapman,Peter Boyle,Cheech Marin,Tommy Chong,Action,Comedy
+Jem and the Holograms,2015,4.2,Jon M. Chu,42.0,"7,566",2.18,118,PG,Aubrey Peeples,Stefanie Scott,Aurora Perrineau,Hayley Kiyoko,Drama,Family
+Major Dundee,1965,6.7,Sam Peckinpah,62.0,"7,421",0.01,123,A,Charlton Heston,Richard Harris,Jim Hutton,James Coburn,War,Western
+The Cut,2014,5.9,Fatih Akin,56.0,"7,386",0.03,138,15,Tahar Rahim,Simon Abkarian,Makram Khoury,Hindi Zahra,Drama,Fantasy
+Piglet's Big Movie,2003,6.2,Francis Glebas,62.0,"7,318",23.10,75,U,John Fiedler,Jim Cummings,Ken Sansom,Peter Cullen,Animation,Comedy
+Black Sunday,1977,6.8,John Frankenheimer,57.0,"7,267",15.77,143,AA,Robert Shaw,Bruce Dern,Marthe Keller,Fritz Weaver,Crime,Drama
+Wolf Warrior 2,2017,6.0,Jing Wu,44.0,"7,250",2.72,123,15,Jing Wu,Frank Grillo,Celina Jade,Gang Wu,Action,Drama
+Random Harvest,1942,8.0,Mervyn LeRoy,62.0,"7,245",10.14,126,U,Ronald Colman,Greer Garson,Philip Dorn,Susan Peters,Drama,Family
+April and the Extraordinary World,2015,7.3,Christian Desmares,85.0,"7,222",0.29,105,PG,Franck Ekinci,Marion Cotillard,Marc-André Grondin,Philippe Katerine,Animation,Comedy
+The Star,2017,6.3,Timothy Reckart,42.0,"7,194",40.85,86,U,Steven Yeun,Keegan-Michael Key,Aidy Bryant,Gina Rodriguez,Animation,Comedy
+Shorts,2008,4.7,Robert Rodriguez,53.0,"7,118",20.92,89,PG,Jimmy Bennett,James Spader,Kat Dennings,Jake Short,Comedy,Family
+Digimon: The Movie,2000,6.1,Bob Buchholz,20.0,"7,098",9.63,88,PG,Mamoru Hosoda,Jeff Nimoy,Shigeyasu Yamauchi,Lara Jill Miller,Animation,Action
+Hey Arnold! The Movie,2002,6.0,Tuck Tucker,47.0,"6,854",13.68,76,U,Spencer Klein,Francesca Marie Smith,Jamil Walker Smith,Dan Castellaneta,Animation,Comedy
+Summer 1993,2017,7.2,Carla Simón,81.0,"6,785",0.18,97,12,Laia Artigas,Paula Robles,Bruna Cusí,David Verdaguer,Drama,Family
+Aferim!,2015,7.6,Radu Jude,84.0,"6,738",0.10,108,18,Teodor Corban,Mihai Comanoiu,Toma Cuzin,Alexandru Dabija,Comedy,Drama
+Revolution,1985,5.3,Hugh Hudson,22.0,"6,647",0.36,126,PG,Al Pacino,Donald Sutherland,Nastassja Kinski,Joan Plowright,Drama,History
+Boy and the World,2013,7.6,Alê Abreu,80.0,"6,627",0.13,80,PG,Vinicius Garcia,Marco Aurélio Campos,Lu Horta,Felipe Zilse,Animation,Family
+Ne Zha,2019,7.5,Yu Yang,54.0,"6,624",3.70,110,PG,Yanting Lü,Joseph,Mo Han,Hao Chen,Animation,Action
+Airborne,1993,6.3,Rob Bowman,28.0,"6,606",2.85,91,PG,Shane McDermott,Seth Green,Brittney Powell,Chris Conrad,Comedy,Sport
+Take My Eyes,2003,7.5,Icíar Bollaín,74.0,"6,565",0.03,109,15,Laia Marull,Luis Tosar,Candela Peña,Rosa Maria Sardà,Drama,Romance
+The House of Magic,2013,6.3,Jeremy Degruson,47.0,"6,408",0.00,85,U,Ben Stassen,Mimi Maynard,Cinda Adams,George Babbit,Animation,Comedy
+My Little Pony,2017,6.1,Jayson Thiessen,39.0,"6,336",21.89,99,U,Emily Blunt,Kristin Chenoweth,Liev Schreiber,Michael Peña,Animation,Comedy
+The Adventurer: The Curse of the Midas Box,2013,5.5,Jonathan Newman,39.0,"6,319",1.00,100,PG,Aneurin Barnard,Michael Sheen,Lena Headey,Sam Neill,Family,Fantasy
+Sgt. Pepper's Lonely Hearts Club Band,1978,4.2,Michael Schultz,27.0,"6,266",20.38,113,U,Peter Frampton,Barry Gibb,Robin Gibb,Maurice Gibb,Comedy,Fantasy
+The Clan of the Cave Bear,1986,5.4,Michael Chapman,34.0,"6,264",1.95,98,18,Daryl Hannah,Pamela Reed,James Remar,Thomas G. Waites,Drama,Fantasy
+Uglydolls,2019,5.0,Kelly Asbury,39.0,"6,235",20.15,87,U,Kelly Clarkson,Nick Jonas,Janelle Monáe,Blake Shelton,Animation,Comedy
+Camelot,1967,6.6,Joshua Logan,70.0,"6,200",31.10,179,U,Richard Harris,Vanessa Redgrave,Franco Nero,David Hemmings,Fantasy,Musical
+The Nut Job 2: Nutty By Nature,2017,5.5,Cal Brunker,36.0,"6,191",28.37,91,U,Will Arnett,Maya Rudolph,Bobby Cannavale,Bobby Moynihan,Animation,Comedy
+Wings of the Apache,1990,4.8,David Green,31.0,"6,149",14.76,85,15,Nicolas Cage,Tommy Lee Jones,Sean Young,Bryan Kestner,Action,
+Dave Made a Maze,2017,6.3,Bill Watterson,60.0,"6,003",0.03,80,15,Meera Rohit Kumbhani,Nick Thune,Adam Busch,James Urbaniak,Comedy,Fantasy
+Walking Out,2017,5.8,Alex Smith,79.0,"5,970",0.10,95,15,Andrew J. Smith,Matt Bomer,Josh Wiggins,Bill Pullman,Drama,Thriller
+A Kid in King Arthur's Court,1995,4.7,Michael Gottlieb,34.0,"5,923",13.41,89,PG,Thomas Ian Nicholas,Joss Ackland,Art Malik,Paloma Baeza,Comedy,Family
+Robinson Crusoe,2016,5.4,Vincent Kesteloot,36.0,"5,904",7.97,91,PG,Ben Stassen,Mimi Maynard,Matthias Schweighöfer,Kaya Yanar,Animation,Comedy
+The Sword and the Sorcerer,1982,5.6,Albert Pyun,39.0,"5,822",39.10,100,18,Lee Horsley,Kathleen Beller,Simon MacCorkindale,George Maharis,Action,Fantasy
+King Kong Lives,1986,3.9,John Guillermin,32.0,"5,791",4.71,105,PG,Brian Kerwin,Linda Hamilton,Peter Elliott,George Antoni,Action,
+Pokémon Heroes,2002,6.1,Jim Malone,27.0,"5,770",0.75,80,U,Kunihiko Yuyama,Eric Stuart,Madeleine Blaustein,Rachael Lillis,Animation,Action
+Khumba,2013,5.7,Anthony Silverston,40.0,"5,737",0.00,85,U,Jake T. Austin,Adrian Rhodes,Sam Riegel,Bryce Papenbrook,Animation,Family
+Legends of Oz: Dorothy's Return,2013,5.1,Will Finn,25.0,"5,734",8.46,88,U,Daniel St. Pierre,Lea Michele,Kelsey Grammer,Dan Aykroyd,Animation,Family
+The Trip to Spain,2017,6.6,Michael Winterbottom,66.0,"5,713",1.16,108,15,Steve Coogan,Rob Brydon,Rebecca Johnson,Claire Keelan,Comedy,Drama
+Texas Rangers,2001,5.2,Steve Miner,29.0,"5,601",0.62,90,12,James Van Der Beek,Rachael Leigh Cook,Ashton Kutcher,Dylan McDermott,Action,Drama
+Love at First Fight,2014,6.6,Thomas Cailley,63.0,"5,589",0.02,98,15,Adèle Haenel,Kévin Azaïs,Antoine Laurent,Brigitte Roüan,Comedy,Romance
+My Science Project,1985,6.0,Jonathan R. Betuel,38.0,"5,549",4.12,94,15,John Stockwell,Danielle von Zerneck,Fisher Stevens,Raphael Sbarge,Action,Comedy
+Herbie Goes Bananas,1980,5.0,Vincent McEveety,55.0,"5,433",18.00,100,U,Charles Martin Smith,Stephen W. Burns,Cloris Leachman,John Vernon,Comedy,Family
+Extreme Ops,2002,4.4,Christian Duguay,17.0,"5,422",4.84,93,12A,Rufus Sewell,Devon Sawa,Bridgette Wilson-Sampras,Rupert Graves,Action,Thriller
+Get on the Bus,1996,6.8,Spike Lee,84.0,"5,400",5.73,120,15,Ossie Davis,Charles S. Dutton,Andre Braugher,Richard Belzer,Drama,History
+Shanghai Surprise,1986,3.2,Jim Goddard,16.0,"5,225",2.32,97,15,Sean Penn,Madonna,Paul Freeman,Richard Griffiths,Comedy,Crime
+Road to Morocco,1942,7.1,David Butler,75.0,"5,213",1.63,82,U,Bing Crosby,Bob Hope,Dorothy Lamour,Anthony Quinn,Comedy,Family
+The Omega Code,1999,3.6,Robert Marcarelli,14.0,"5,206",12.61,100,PG-13,Casper Van Dien,Michael York,Catherine Oxenberg,Michael Ironside,Action,Fantasy
+High Road to China,1983,6.1,Brian G. Hutton,42.0,"5,183",28.40,105,PG,Tom Selleck,Bess Armstrong,Jack Weston,Wilford Brimley,Drama,Romance
+End of the Spear,2005,6.8,Jim Hanon,45.0,"5,124",11.97,108,12,Louie Leonardo,Chad Allen,Jack Guzman,Christina Souza,Biography,Drama
+Hanover Street,1979,6.0,Peter Hyams,32.0,"5,007",3.00,109,A,Harrison Ford,Lesley-Anne Down,Christopher Plummer,Alec McCowen,Action,Drama
+Marooned,1969,5.9,John Sturges,62.0,"5,003",8.94,134,U,Gregory Peck,Richard Crenna,David Janssen,James Franciscus,Drama,SciFi
+Rock Dog,2016,6.0,Ash Brannon,48.0,"4,936",9.40,90,PG,Luke Wilson,Eddie Izzard,J.K. Simmons,Lewis Black,Animation,Comedy
+Tai ji 1: Cong ling kai shi,2012,6.1,Stephen Fung,52.0,"4,935",0.21,100,PG-13,Hark-On Fung,Xiaochao Yuan,Stephen Fung,Eddie Peng,Action,Drama
+The Snows of Kilimanjaro,1952,6.2,Henry King,62.0,"4,931",18.05,114,A,Roy Ward Baker,Gregory Peck,Susan Hayward,Ava Gardner,Drama,Romance
+Pioneer,2013,6.0,Erik Skjoldbjærg,58.0,"4,889",0.01,111,15,Aksel Hennie,Wes Bentley,Stephen Lang,Stephanie Sigman,Drama,Thriller
+Doogal,2006,2.9,Dave Borthwick,23.0,"4,863",7.38,85,(Banned),Jean Duval,Frank Passingham,Jon Stewart,Judi Dench,Animation,Comedy
+Monster Hunt,2015,6.1,Raman Hui,53.0,"4,832",0.02,117,PG,Baihe Bai,Boran Jing,Wu Jiang,Elaine Jin,Comedy,Fantasy
+Steel Dawn,1987,5.1,Lance Hool,24.0,"4,804",0.56,101,15,Patrick Swayze,Lisa Niemi,Anthony Zerbe,Christopher Neame,Action,SciFi
+Matando Cabos,2004,7.5,Alejandro Lozano,44.0,"4,722",0.13,99,R,Tony Dalton,Ana Claudia Talancón,Pedro Armendáriz Jr.,Kristoff Raczynski,Action,Comedy
+East/West,1999,7.4,Régis Wargnier,61.0,"4,719",2.78,121,PG-13,Oleg Menshikov,Sandrine Bonnaire,Catherine Deneuve,Sergey Bodrov,Drama,History
+The Dead Lands,2014,6.3,Toa Fraser,59.0,"4,716",0.00,107,15,James Rolleston,Lawrence Makoare,Te Kohe Tuhaka,Xavier Horan,Action,
+Mia and the White Lion,2018,6.5,Gilles de Maistre,52.0,"4,700",0.40,98,12A,Daniah De Villiers,Mélanie Laurent,Langley Kirkwood,Ryan Mac Lennan,Drama,Family
+Fullmetal Alchemist: The Sacred Star of Milos,2011,7.0,Kazuya Murata,54.0,"4,653",0.18,110,15,Vic Mignogna,Maxey Whitehead,Alexis Tipton,Matthew Mercer,Animation,Action
+The Sasquatch Gang,2006,6.3,Tim Skousen,57.0,"4,648",0.01,86,PG-13,Justin Long,Jeremy Sumpter,Addie Land,Joey Kern,Comedy,Drama
+The Return of Swamp Thing,1989,4.7,Jim Wynorski,39.0,"4,613",0.19,89,12,Dick Durock,Heather Locklear,Louis Jourdan,Sarah Douglas,Action,Comedy
+Benji,1974,6.1,Joe Camp,35.0,"4,594",39.55,86,U,Peter Breck,Deborah Walley,Patsy Garrett,Allen Fiuzat,Family,Romance
+I Dreamed of Africa,2000,5.6,Hugh Hudson,33.0,"4,513",6.54,114,12,Kim Basinger,Vincent Perez,Liam Aiken,Garrett Strommen,Biography,Drama
+Fly Me to the Moon,2007,4.5,Ben Stassen,36.0,"4,399",14.53,84,PG,Mimi Maynard,Trevor Gagnon,Philip Bolden,David Gore,Animation,Family
+Show Dogs,2018,3.8,Raja Gosnell,31.0,"4,358",17.74,92,PG,Will Arnett,Ludacris,Natasha Lyonne,Stanley Tucci,Comedy,Crime
+Son of Kong,1933,5.7,Ernest B. Schoedsack,50.0,"4,343",1.34,70,A,Robert Armstrong,Helen Mack,Frank Reicher,John Marston,Comedy,Fantasy
+"The Night Is Short, Walk on Girl",2017,7.6,Masaaki Yuasa,65.0,"4,308",0.41,92,15,Gen Hoshino,Kana Hanazawa,Hiroshi Kamiya,Ryûji Akiyama,Animation,Comedy
+Lassie,2005,6.7,Charles Sturridge,84.0,"4,261",0.65,100,PG,John Lynch,Samantha Morton,Peter O'Toole,Peter Dinklage,Comedy,Drama
+Tanna,2015,6.9,Martin Butler,75.0,"4,250",0.01,104,12A,Bentley Dean,Mungau Dain,Marie Wawa,Marceline Rofit,Drama,Romance
+Zorro: The Gay Blade,1981,6.2,Peter Medak,52.0,"4,236",11.12,93,A,George Hamilton,Lauren Hutton,Brenda Vaccaro,Ron Leibman,Action,Comedy
+Solarbabies,1986,4.8,Alan Johnson,24.0,"4,224",1.58,94,15,Richard Jordan,Jami Gertz,Jason Patric,Lukas Haas,Action,Drama
+The Other Side of Heaven,2001,6.4,Mitch Davis,38.0,"4,219",4.72,113,PG,Christopher Gorham,Anne Hathaway,Joe Folau,Nathaniel Lees,Biography,Drama
+Warriors of Heaven and Earth,2003,6.3,Ping He,54.0,"4,160",0.08,120,15,Wen Jiang,Kiichi Nakai,Xueqi Wang,Wei Zhao,Action,Drama
+Thomas and the Magic Railroad,2000,4.2,Britt Allcroft,19.0,"4,052",15.91,85,U,Alec Baldwin,Cody McMains,Russell Means,Peter Fonda,Comedy,Drama
+Railroad Tigers,2016,5.8,Sheng Ding,47.0,"4,050",0.22,124,12A,Jackie Chan,Jaycee Chan,Zitao Huang,Kai Wang,Action,Comedy
+Jonah: A VeggieTales Movie,2002,6.5,Mike Nawrocki,58.0,"4,037",25.58,82,U,Phil Vischer,Phil Vischer,Mike Nawrocki,Tim Hodge,Animation,Comedy
+Incident at Loch Ness,2004,6.5,Zak Penn,62.0,"4,031",0.04,94,PG-13,Werner Herzog,Kitana Baker,Gabriel Beristain,Russell Williams II,Comedy,Fantasy
+The Painting,2011,7.4,Jean-François Laguionie,70.0,"4,030",0.01,80,U,Jean Barney,Chloé Berthier,JB Blanc,Steve Blum,Animation,Drama
+Kaena: The Prophecy,2003,6.0,Chris Delaporte,40.0,"3,916",0.01,85,PG-13,Pascal Pinon,Kirsten Dunst,Anjelica Huston,Richard Harris,Animation,Family
+An Eye for an Eye,1981,5.5,Steve Carver,33.0,"3,730",7.68,106,X,Chuck Norris,Christopher Lee,Richard Roundtree,Matt Clark,Action,Crime
+Spriggan,1998,6.6,Hirotsugu Kawasaki,48.0,"3,667",0.01,90,15,Katsuhiro Ôtomo,Shôtarô Morikubo,Ryuji Aigase,Takehito Koyasu,Animation,Action
+Spaced Invaders,1990,5.3,Patrick Read Johnson,38.0,"3,405",15.37,100,PG,Douglas Barr,Royal Dano,Ariana Richards,J.J. Anderson,Comedy,SciFi
+On Guard,1997,7.0,Philippe de Broca,69.0,"3,404",0.10,128,15,Daniel Auteuil,Fabrice Luchini,Vincent Perez,Marie Gillain,Drama,
+Barney's Great Adventure,1998,3.2,Steve Gomer,44.0,"3,339",11.14,76,U,George Hearn,Shirley Douglas,Trevor Morgan,Alan Fawcett,Comedy,Drama
+"Race for Your Life, Charlie Brown",1977,7.3,Bill Melendez,55.0,"3,320",3.22,76,U,Phil Roman,Duncan Watson,Greg Felton,Stuart Brotman,Animation,Comedy
+The Adventures of Elmo in Grouchland,1999,5.8,Gary Halvorson,59.0,"3,160",11.63,73,U,Kevin Clash,Mandy Patinkin,Vanessa Williams,Sonia Manzano,Comedy,Family
+Map of the Human Heart,1992,7.1,Vincent Ward,71.0,"3,141",2.81,109,15,Jason Scott Lee,Anne Parillaud,Patrick Bergin,Robert Joamie,Drama,Romance
+The Ornithologist,2016,6.3,João Pedro Rodrigues,85.0,"3,111",0.05,117,15,Paul Hamy,João Pedro Rodrigues,Xelo Cagiao,Han Wen,Drama,Mystery
+Delgo,2008,4.3,Marc F. Adler,27.0,"2,959",0.51,94,12,Jason Maurer,Freddie Prinze Jr.,Val Kilmer,Anne Bancroft,Animation,Comedy
+Journey to the West: Demon Chapter,2017,5.4,Hark Tsui,59.0,"2,862",0.88,109,12A,Kris Wu,Kenny Lin,Chen Yao,Yun Lin,Comedy,Family
+Into the West,1992,7.0,Mike Newell,71.0,"2,830",4.79,97,PG,Gabriel Byrne,Ellen Barkin,Ciarán Fitzgerald,Rúaidhrí Conroy,Family,Fantasy
+The Pirates Who Don't Do Anything: A VeggieTales Movie,2008,5.7,Mike Nawrocki,49.0,"2,734",12.70,85,U,Tim Hodge,Mike Nawrocki,Phil Vischer,Cam Clarke,Animation,Comedy
+All the Little Animals,1998,6.9,Jeremy Thomas,51.0,"2,705",0.03,112,15,John Hurt,Christian Bale,Daniel Benzali,James Faulkner,Drama,Thriller
+Megiddo: The Omega Code 2,2001,4.0,Brian Trenchard-Smith,35.0,"2,688",6.05,104,PG-13,Michael York,Michael Biehn,Joseph Makkar,Guy Siner,Action,Fantasy
+Microbe & Gasoline,2015,6.7,Michel Gondry,75.0,"2,684",0.06,105,15,Ange Dargent,Théophile Baquet,Diane Besnier,Audrey Tautou,Comedy,Drama
+The Big Bad Fox and Other Tales,2017,7.4,Patrick Imbert,73.0,"2,677",0.04,83,U,Benjamin Renner,Guillaume Darnault,Damien Witecka,Kamel Abdessadok,Animation,Comedy
+Cuba,1979,5.6,Richard Lester,49.0,"2,595",0.53,122,AA,Sean Connery,Brooke Adams,Jack Weston,Hector Elizondo,Romance,Thriller
+The Retrieval,2013,6.6,Chris Eska,75.0,"2,545",0.05,92,R,Ashton Sanders,Tishuan Scott,Keston John,Bill Oberst Jr.,Drama,Western
+Fugitive Pieces,2007,7.0,Jeremy Podeswa,60.0,"2,454",0.63,104,15,Robbie Kay,Monika Schurmann,Nina Dobrev,Jordan Pettle,Drama,War
+Detective Dee: The Four Heavenly Kings,2018,6.4,Hark Tsui,58.0,"2,448",0.26,132,15,Carina Lau,Mark Chao,Kenny Lin,Sichun Ma,Action,Drama
+Lowriders,2016,5.7,Ricardo de Montreuil,57.0,"2,407",6.16,98,12A,Gabriel Chavarria,Demián Bichir,Theo Rossi,Tony Revolori,Crime,Drama
+Luis & the Aliens,2018,6.0,Christoph Lauenstein,46.0,"2,341",0.15,86,U,Wolfgang Lauenstein,Sean McCormack,Callum Maloney,Dermot Magennis,Animation,Comedy
+In Search of Fellini,2017,6.2,Taron Lexton,55.0,"2,289",0.01,93,R,Ksenia Solo,Maria Bello,Jay Kunzi,Enrico Oetiker,Biography,Drama
+The Gospel,2005,5.0,Rob Hardy,46.0,"2,139",15.78,105,PG,Boris Kodjoe,Nona Gaye,Idris Elba,Clifton Powell,Drama,Family
+God of War,2017,6.4,Gordon Chan,54.0,"2,136",0.05,128,15,Wenzhuo Zhao,Sammo Kam-Bo Hung,Regina Wan,Keisuke Koide,Action,Drama
+Sgt. Stubby: An Unlikely Hero,2018,6.9,Richard Lanni,58.0,"2,048",3.14,84,PG,Logan Lerman,Helena Bonham Carter,Gérard Depardieu,Jordan Beck,Animation,Family
+Lu Over the Wall,2017,6.8,Masaaki Yuasa,62.0,"1,990",0.11,112,PG,Kanon Tani,Shôta Shimoda,Minako Kotobuki,Sôma Saitô,Animation,Comedy
+The Legend of Suriyothai,2001,6.5,Chatrichalerm Yukol,58.0,"1,880",0.45,185,R,M.L. Piyapas Bhirombhakdi,Sarunyu Wongkrachang,Chatchai Plengpanich,Johnny Anfone,Action,Biography
+Saving Private Perez,2011,5.9,Beto Gómez,56.0,"1,866",1.39,105,PG-13,Miguel Rodarte,Jesús Ochoa,Joaquín Cosio,Gerardo Taracena,Comedy,Western
+The Story of Robin Hood and His Merrie Men,1952,6.7,Ken Annakin,64.0,"1,718",4.58,84,U,Richard Todd,Joan Rice,Peter Finch,James Hayter,Action,Family
+Teacher's Pet,2004,5.8,Timothy Björklund,74.0,"1,675",6.49,73,U,Nathan Lane,Shaun Fleming,David Ogden Stiers,Kelsey Grammer,Animation,Comedy
+Okko's Inn,2018,7.1,Kitarô Kôsaka,70.0,"1,608",0.13,94,PG,Seiran Kobayashi,Nana Mizuki,Satsumi Matsuda,Rina Endô,Animation,Drama
+Zaytoun,2012,6.6,Eran Riklis,39.0,"1,603",0.04,110,15,Stephen Dorff,Abdallah El Akal,Alice Taglioni,Loai Nofi,Drama,Thriller
+Monster Hunt 2,2018,5.4,Raman Hui,63.0,"1,490",0.71,110,PG,Tony Chiu-Wai Leung,Baihe Bai,Boran Jing,Yuchun Li,Comedy,Fantasy
+Phantom Boy,2015,6.6,Jean-Loup Felicioli,66.0,"1,466",0.03,84,PG,Alain Gagnol,Edouard Baer,Jean-Pierre Marielle,Audrey Tautou,Animation,Action
+Natural Selection,2011,6.5,Robbie Pickering,57.0,"1,395",0.05,90,R,Matt O'Leary,Rachael Harris,John Diehl,Gayland Williams,Comedy,Drama
+The Monkey King 3,2018,5.5,Soi Cheang,51.0,"1,304",0.19,114,12A,Aaron Kwok,Shaofeng Feng,Zanilia Zhao,Shenyang Xiao,Action,Family
+Extremedays,2001,5.9,Eric Hannah,17.0,"1,265",0.74,93,PG,Dante Basco,Ryan Browning,A.J. Buckley,Derek Hamilton,Action,Comedy
+Napping Princess,2017,6.3,Kenji Kamiyama,69.0,"1,201",0.05,111,PG,Mitsuki Takahata,Shinnosuke Mitsushima,Jamison Boaz,Ray Chase,Animation,Drama
+War of the Worlds: Goliath,2012,5.4,Joe Pearson,33.0,"1,134",0.01,85,PG-13,Adam Baldwin,Beau Billingslea,Kim Buckingham,Jim Byrnes,Animation,Action
+Spark,2016,4.5,Aaron Woodley,22.0,"1,123",0.19,91,PG,Jace Norman,Jessica Biel,Patrick Stewart,Hilary Swank,Animation,Action
+Le Pont du Nord,1981,6.9,Jacques Rivette,61.0,"1,107",0.01,129,12,Bulle Ogier,Pascale Ogier,Pierre Clémenti,Jean-François Stévenin,Crime,Drama
+The Young Black Stallion,2003,5.6,Simon Wincer,51.0,"1,105",6.75,99,U,Biana Tamimi,Richard Romanus,Patrick Elyas,Gérard Rudolf,Family,Drama
+For the Love of Benji,1977,6.0,Joe Camp,46.0,"1,102",22.26,85,U,Patsy Garrett,Benjean,Art Vasil,Allen Fiuzat,Comedy,Drama
+Canopy,2013,4.9,Aaron Wilson,64.0,"1,036",0.01,84,12,Khan Chittenden,Morning Tzu-Yi Mo,Robert Menzies,Edwina Wren,Drama,Thriller
+"Lucía, Lucía",2003,6.0,Antonio Serrano,51.0,"1,031",0.27,110,R,Cecilia Roth,Carlos Álvarez-Nóvoa,Kuno Becker,Margarita Isabel,Comedy,Crime
+Jake Speed,1986,5.2,Andrew Lane,42.0,937,1.94,105,15,Wayne Crawford,Dennis Christopher,Karen Kopins,John Hurt,Action,Comedy
+Back Roads,1981,5.6,Martin Ritt,48.0,895,11.81,94,AA,Sally Field,Tommy Lee Jones,David Keith,Miriam Colon,Comedy,Romance
+Clifford's Really Big Movie,2004,5.4,Robert C. Ramirez,49.0,865,2.83,74,U,Steve Trenbirth,John Ritter,Cree Summer,Kel Mitchell,Animation,Comedy
+Tennessee,2008,5.4,Aaron Woodley,42.0,804,0.02,99,R,Adam Rothenberg,Ethan Peck,Mariah Carey,Lance Reddick,Comedy,Drama
+Empire Rising,2005,6.4,Kayvan Mashayekh,43.0,712,0.22,95,PG,Adam Echahly,Bruno Lastra,Moritz Bleibtreu,Rade Serbedzija,Drama,Family
+Sarah Landon and the Paranormal Hour,2007,3.8,Lisa Comrie,30.0,684,0.82,81,PG,Rissa Walters,Brian Comrie,Dan Comrie,Kurt Braun,Action,Family
+Running Free,1999,5.7,Sergei Bodrov,22.0,650,0.10,81,U,Chase Moore,Maria Geelbooi,Arie Verveen,Jan Decleir,Drama,Family
+Disappearances,2006,5.1,Jay Craven,57.0,594,0.31,118,12,Kris Kristofferson,Charlie McDermott,Gary Farmer,William Sanderson,Action,Drama
+Prince of Central Park,2000,5.3,John Leekley,22.0,591,0.01,109,PG,Kathleen Turner,Danny Aiello,Cathy Moriarty,Frankie Nasso,Action,Drama
+The Hero of Color City,2014,4.1,Frank Gladstone,33.0,561,0.03,77,U,Owen Wilson,Christina Ricci,Rosie Perez,Wayne Brady,Animation,Family
+Outta Time,2002,4.0,Lorena David,19.0,247,0.00,94,R,Tim Sitarz,Mario Lopez,Tava Smiley,Carlos Mencia,Crime,Action
+Bandido,2004,5.2,Roger Christian,31.0,99,0.40,95,R,Carlos Gallardo,Edy Arellano,Michel Bos,Kim Coates,Action,Thriller
+Off the Lip,2004,5.5,Robert Mickelson,30.0,79,0.01,87,R,Marguerite Moreau,Mackenzie Astin,Adam Scott,Mark Fite,Comedy,Sport
